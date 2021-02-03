@@ -24,7 +24,10 @@ export default class Header extends Component {
                     <Router>
                         <div className="links">
                             <h1 className="webTitle"><img src={WebLogo} alt="panda" /></h1>
-                            <button className="menuBtn"><img src={MenuBtn} alt="menu" className="menuImg" /></button>
+                            <input type="checkbox" id="chkbx" />
+                            <label for="chkbx">
+                                <img src={MenuBtn} alt="menu" className="menuBtn" />
+                            </label>
                             <div className="link-list">
                                 <Link exact to="/watchlist/" className="link">Home</Link>
                                 <Link exact to="/watchlist/animes" className="link">Animes</Link>

@@ -21,7 +21,6 @@ export default class MovieDiv extends Component{
                         return(
                             <div key={movie.id} className="movieBlock">
                                 <img className="movieImg" src={movie.img} alt={movie.name} />
-                                <p className="movieName">{movie.name}</p>
                             </div>
                         )
                     })

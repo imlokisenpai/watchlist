@@ -1,9 +1,9 @@
 .links{
     top: 0;
     left: 0;
-    height: 98px;
+    height: 75px;
     width: 100%;
-    background: #007c;
+    background: #007d;
     border-bottom: 2px solid #fff;
     display: flex;
     position: fixed;
@@ -28,7 +28,7 @@
 .link-list{
     display: flex;
     gap: 20px;
-    margin-top: 30px;
+    margin-top: 25px;
     margin-right: 20px;
 }
 
@@ -43,11 +43,11 @@
 }
 
 .menuBtn{
-    width: 60px;
-    height: 60px;
-    min-width: 60px;
-    min-height: 60px;
-    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+    min-height: 50px;
+    margin-top: 15px;
     margin-right: 15px;
     background: none;
     outline: none;

@@ -21,7 +21,6 @@ export default class Home extends Component{
                         return(
                             <div key={seeing.id} className="seeingBlock">
                                 <img className="seeingImg" src={seeing.img} alt={seeing.name} />
-                                <p className="seeingName">{seeing.name}</p>
                             </div>
                         )
                     })

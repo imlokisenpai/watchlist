@@ -21,7 +21,6 @@ export default class SerieDiv extends Component{
                         return(
                             <div key={serie.id} className="serieBlock">
                                 <img className="serieImg" src={serie.img} alt={serie.name} />
-                                <p className="serieName">{serie.name}</p>
                             </div>
                         )
                     })

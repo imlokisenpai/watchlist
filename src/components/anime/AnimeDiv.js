@@ -21,7 +21,6 @@ class AnimeDiv extends Component{
                         return(
                             <div key={anime.id} className="animeBlock">
                                 <img className="animeImg" src={anime.img} alt={anime.name} />
-                                <p className="animeName">{anime.name}</p>
                             </div>
                         )
                     })

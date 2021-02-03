@@ -20,10 +20,10 @@ export default class Header extends Component {
                         <div className="links">
                             <h1 className="webTitle">Pupi & Puxu's Watchlist</h1>
                             <div className="link-list">
-                                <Link to="/" className="link">Home</Link>
-                                <Link to="/animes" className="link">Animes</Link>
-                                <Link to="/movies" className="link">Movies</Link>
-                                <Link to="/series" className="link">Series</Link>
+                                <Link to="/watchlist/" className="link">Home</Link>
+                                <Link to="/watchlist/animes" className="link">Animes</Link>
+                                <Link to="/watchlist/movies" className="link">Movies</Link>
+                                <Link to="/watchlist/series" className="link">Series</Link>
                             </div>
                         </div>
                         <Route exact path="/" Component={Home}>

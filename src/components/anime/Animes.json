@@ -1,0 +1,100 @@
+{
+    "animes":[
+        {
+            "id": 1,
+            "name": "Black Clover",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blackClover.jpg?raw=true",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 2,
+            "name": "Boku no Hero Academy",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bokuNoHero.jpg?raw=true",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 3,
+            "name": "Haikyuu!",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/haikyuu.jpg?raw=true",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 4,
+            "name": "Naruto",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/naruto.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 5,
+            "name": "91 Days",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/91days.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 6,
+            "name": "Baccano",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/baccano.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 7,
+            "name": "Ao no Exorcist",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blueExorcist.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 8,
+            "name": "Dr. Stone",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/drStone.jpg?raw=true",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 9,
+            "name": "Durarara",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/durarara.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 10,
+            "name": "Jujutsu Kaisen",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/jujutsuKaisen.jpg?raw=true",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 11,
+            "name": "Mahoutsukai no Yome",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/mahoutukaiNoYome.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 12,
+            "name": "The Promised Neverland",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/promisedNeverland.jpg?raw=true",
+            "state": "seeing",
+            "genre": []
+        }
+    ]
+}

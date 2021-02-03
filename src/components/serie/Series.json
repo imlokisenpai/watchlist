@@ -1,0 +1,36 @@
+{
+    "series":[
+        {
+            "id": 1,
+            "name": "The Office",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/theOffice.jpg?raw=true",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 2,
+            "name": "Black Mirror",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/blackMirror.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 3,
+            "name": "Friends",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/friends.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 4,
+            "name": "How I Met Your Mother",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/himym.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        }
+    ]
+}

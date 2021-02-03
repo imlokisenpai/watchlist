@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './AnimeDiv.css';
 import AnimeList from './Animes.json';
+import Load from '../loading/Loading'
 
 class AnimeDiv extends Component{
     state = {
@@ -14,6 +15,7 @@ class AnimeDiv extends Component{
         this.animeListConsole();
         return(
             <div className="animesDiv">
+                <Load />
                 {
                     AnimeList.animes.map(anime => {
                         return(

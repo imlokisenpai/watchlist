@@ -1,10 +1,9 @@
 //Styles
-import './components/Logo.css';
 import './App.css';
 
 //Components
-import Logo from './components/Logo';
-import Header from './components/Header'
+import Logo from './components/logo/Logo';
+import Header from './components/header/Header'
 
 function App() {
   return (

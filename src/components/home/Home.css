@@ -1,4 +1,4 @@
-.animesDiv{
+.seeingDiv{
     display: flex;
     margin: 150px 50px 50px 50px;
     justify-content: center;
@@ -6,7 +6,7 @@
     flex-wrap: wrap;
 }
 
-.animeBlock{
+.seeingBlock{
     width: 300px;
     background: #000;
     border-radius: 5px;
@@ -16,12 +16,12 @@
     flex-direction: column;
 }
 
-.animeImg{
+.seeingImg{
     max-height: 400px;
     width: 100%;
 }
 
-.animeName{
+.seeingName{
     color: #fff;
     font-size: 20px;
     padding-top: 10px;

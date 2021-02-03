@@ -1,4 +1,4 @@
-.animesDiv{
+.moviesDiv{
     display: flex;
     margin: 150px 50px 50px 50px;
     justify-content: center;
@@ -6,7 +6,7 @@
     flex-wrap: wrap;
 }
 
-.animeBlock{
+.movieBlock{
     width: 300px;
     background: #000;
     border-radius: 5px;
@@ -16,12 +16,12 @@
     flex-direction: column;
 }
 
-.animeImg{
+.movieImg{
     max-height: 400px;
     width: 100%;
 }
 
-.animeName{
+.movieName{
     color: #fff;
     font-size: 20px;
     padding-top: 10px;

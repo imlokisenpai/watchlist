@@ -1,4 +1,4 @@
-.animesDiv{
+.seriesDiv{
     display: flex;
     margin: 150px 50px 50px 50px;
     justify-content: center;
@@ -6,22 +6,21 @@
     flex-wrap: wrap;
 }
 
-.animeBlock{
+.serieBlock{
     width: 300px;
     background: #000;
     border-radius: 5px;
     box-shadow: 2px 2px 5px #007;
-    overflow: hidden;
     display: flex;
     flex-direction: column;
 }
 
-.animeImg{
+.serieImg{
     max-height: 400px;
     width: 100%;
 }
 
-.animeName{
+.serieName{
     color: #fff;
     font-size: 20px;
     padding-top: 10px;

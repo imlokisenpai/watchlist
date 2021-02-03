@@ -1,0 +1,32 @@
+{
+    "movies":[
+        {
+            "id": 1,
+            "name": "Spirited Away",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/chihiro.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 2,
+            "name": "Brother Bear",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/brotherBear.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 3,
+            "name": "Get Out",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/getOut.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 4,
+            "name": "Edward Scissorhands",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/edwardSh.jpg?raw=true",
+            "genre": []
+        } 
+    ]
+}

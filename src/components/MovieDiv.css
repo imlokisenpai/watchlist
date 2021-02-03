@@ -1,0 +1,31 @@
+.animesDiv{
+    display: flex;
+    margin: 150px 50px 50px 50px;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.animeBlock{
+    width: 300px;
+    background: #000;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #007;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.animeImg{
+    max-height: 400px;
+    width: 100%;
+}
+
+.animeName{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 10px;
+    margin-top: 0;
+    text-align: center;
+    border-top: 2px solid #fff;
+}

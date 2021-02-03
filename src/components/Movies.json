@@ -1,0 +1,36 @@
+{
+    "animes":[
+        {
+            "id": 1,
+            "name": "El Viaje de Chihiro",
+            "desc": "",
+            "img": "https://i.pinimg.com/originals/b4/ec/af/b4ecaf79297371c29c01989abd3449fe.jpg",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 2,
+            "name": "Tierra de Osos",
+            "desc": "",
+            "img": "https://i.pinimg.com/originals/f8/ae/5b/f8ae5b28b38cb8cbc9fb039686875aee.jpg",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 3,
+            "name": "Get Out",
+            "desc": "",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 4,
+            "name": "Edward Scissorhands",
+            "desc": "",
+            "img": "https://m.media-amazon.com/images/I/51EcXoGJWeL._AC_SY355_.jpg",
+            "state": "finished",
+            "genre": []
+        } 
+    ]
+}

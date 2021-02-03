@@ -1,0 +1,12 @@
+{
+    "animes":[
+        {
+            "id": 1,
+            "name": "The Office",
+            "desc": "",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/615MPacH9qL._AC_SY679_.jpg",
+            "state": "seeing",
+            "genre": []
+        }
+    ]
+}

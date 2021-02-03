@@ -1,0 +1,20 @@
+{
+    "animes":[
+        {
+            "id": 1,
+            "name": "The Office",
+            "desc": "",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/615MPacH9qL._AC_SY679_.jpg",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 2,
+            "name": "Black Mirror",
+            "desc": "",
+            "img": "https://www.crossedsabres.org/wp-content/uploads/2019/03/Hannah-1-636x900.jpg",
+            "state": "seeing",
+            "genre": []
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "animes":[
+        {
+            "id": 1,
+            "name": "Black Clover",
+            "desc": "",
+            "img": "https://lh3.googleusercontent.com/proxy/7fHG9v_XUetCtYnVtaRPR8pdOvtlSedBrSJzadEHjOt6Y4JvdHqGy9ZYEf7fhGvWkwdljzyGjLkXM2Qt6mnMXbv1QyMGg4fxHgF9c1zYnoxSZn_952fUt3uSB114GLiUm8VER29-Dj2f9vEBjhLgNgO2",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 2,
+            "name": "Boku no Hero Academy",
+            "desc": "",
+            "img": "https://i.pinimg.com/originals/e0/7b/f4/e07bf48b1f46420d5201f4e3bd74bd7f.png",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 3,
+            "name": "Haikyuu!",
+            "desc": "",
+            "img": "https://i.pinimg.com/474x/19/aa/9b/19aa9b5ec309560c13f4973585496da8.jpg",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 4,
+            "name": "Naruto",
+            "desc": "",
+            "img": "https://d3fa68hw0m2vcc.cloudfront.net/893/156507204.jpeg",
+            "state": "finished",
+            "genre": []
+        } 
+    ]
+}

@@ -46,7 +46,7 @@
     color: #fff;
 }
 
-.link:focus{
+.link:hover{
     color: #346bf7;
 }
 

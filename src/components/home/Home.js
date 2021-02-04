@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import './Home.css';
 import Recent from './Home.json';
 import Load from '../loading/Loading'
+//import Info from '../watchInfo/WatchInfo';
 
 export default class Home extends Component{
     state = {
@@ -11,6 +12,11 @@ export default class Home extends Component{
     listConsole(){
         console.log(Recent);
     }
+
+    /*openInfo(inf){
+        <Info page={inf} />
+    }*/
+
     render(){
         this.listConsole();
         return(
@@ -23,7 +29,7 @@ export default class Home extends Component{
                     Recent.new.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(seeing => {
                         return(
                                 <div key={seeing.id} className="seeingBlock">
-                                    <img className="seeingImg" src={seeing.img} alt={seeing.name} id={seeing.id} />
+                                    <img className="seeingImg" src={seeing.img} alt={seeing.name} id={seeing.id} /*onClick={() => this.openInfo(seeing)}*/ />
                                 </div>
                         )
                     })

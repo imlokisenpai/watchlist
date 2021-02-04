@@ -27,6 +27,1000 @@
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/edwardSh.jpg?raw=true",
             "genre": []
-        } 
+        },
+        {
+            "id": 5,
+            "name": "21 Jump Street",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/21jumpStreet.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 6,
+            "name": "500 Days of Summer",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/500daysSummer.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 7,
+            "name": "50/50",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/5050.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 8,
+            "name": "8 Mile",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/8mile.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 9,
+            "name": "Aladdin",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aladdin.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 10,
+            "name": "Alien",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 11,
+            "name": "Aliens",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien2.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 12,
+            "name": "Alien 3",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien3.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 13,
+            "name": "Alien Resurrection",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien4.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 14,
+            "name": "Divergent",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/divergent.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 15,
+            "name": "The Divergent Series: Insurgent",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/insurgent.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 16,
+            "name": "The Divergent Series: Allegiant",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/allegiant.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 17,
+            "name": "American Satan",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/americanSatan.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 18,
+            "name": "Annabelle",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/annabelle.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 19,
+            "name": "Ant-Man",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/antMan.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 20,
+            "name": "Ao no Exorcist: The Movie",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aoNoExorcistMovie.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 21,
+            "name": "Aquaman",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aquaman.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 22,
+            "name": "Avengers",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengers.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 23,
+            "name": "Avengers: Age of Ultron",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersUltron.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 24,
+            "name": "Avengers: Infinity War",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersInfinityWar.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 25,
+            "name": "Avengers: Endgame",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersEndGame.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 26,
+            "name": "Batman: The Dark Knight",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/batmanDarkKnight.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 27,
+            "name": "Big Hero 6",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/bigHero6.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 28,
+            "name": "Billy Elliot",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/billyElliot.jpg?raw=true",
+            "genre": []
+        },
+        {
+            "id": 29,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 30,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 31,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 32,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 33,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 34,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 35,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 36,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 37,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 38,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 39,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 40,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 41,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 42,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 43,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 44,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 45,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 46,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 47,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 48,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 49,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 50,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 51,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 52,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 53,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 54,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 55,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 56,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 57,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 58,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 59,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 60,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 61,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 62,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 63,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 64,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 65,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 66,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 67,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 68,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 69,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 70,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 71,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 72,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 73,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 74,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 75,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 76,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 77,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 78,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 79,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 80,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 81,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 82,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 83,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 84,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 85,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 86,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 87,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 88,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 89,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 90,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 91,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 92,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 93,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 94,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 95,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 96,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 97,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 98,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 99,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 100,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 101,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 102,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 103,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 104,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 105,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 106,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 107,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 108,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 109,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 110,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 111,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 112,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 113,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 114,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 115,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 116,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 117,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 118,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 119,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 120,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 121,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 122,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 123,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 124,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 125,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 126,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 127,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 128,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 129,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 130,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 131,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 132,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 133,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 134,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 135,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 136,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 137,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 138,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 139,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 140,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 141,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 142,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 143,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 144,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 145,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        },
+        {
+            "id": 146,
+            "name": "",
+            "desc": "",
+            "img": "",
+            "genre": []
+        }
     ]
 }

@@ -53,7 +53,7 @@
             "name": "Ao no Exorcist",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blueExorcist.jpg?raw=true",
-            "state": "finished",
+            "state": "waiting",
             "genre": []
         },
         {
@@ -94,6 +94,214 @@
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/promisedNeverland.jpg?raw=true",
             "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 13,
+            "name": "Akagami No Shirayuki-hime",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/akagamiNoShirayukihime.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 14,
+            "name": "Angels of Death",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/angelsDeath.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 15,
+            "name": "Assassination Classroom",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/ansatsuKyoshitsu.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 16,
+            "name": "Full Metal Alchemist Brotherhood",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/fmab.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 17,
+            "name": "Cowboy Bebop",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/cowboyBebop.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 18,
+            "name": "Dororo",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/dororo.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 19,
+            "name": "Elfen Lied",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/elfenLied.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 20,
+            "name": "Fate/Zero",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/fateZero.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 21,
+            "name": "Hakata Tonkotsu Ramens",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/hakataTonkotsuRamens.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 22,
+            "name": "Hunter x Hunter",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/hxh.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 23,
+            "name": "Kekkai Sensen",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kekkaiSensen.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 24,
+            "name": "Kuroshitsuji",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kuroshitsuji.jpg?raw=true",
+            "state": "waiting",
+            "genre": []
+        },
+        {
+            "id": 25,
+            "name": "Mob Psycho 100",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/mobPsycho.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 26,
+            "name": "Naruto Shippuden",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/narutoShippuden.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 27,
+            "name": "Noragami",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/noragami.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 28,
+            "name": "Parasyte",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/parasyte.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 29,
+            "name": "Psycho Pass",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/psychoPass.jpg?raw=true",
+            "state": "waiting",
+            "genre": []
+        },
+        {
+            "id": 30,
+            "name": "ReLife",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/reLife.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 31,
+            "name": "Samurai X",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/samuraiX.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 32,
+            "name": "Shaman King",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/shamanKing.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 33,
+            "name": "Shingeki no Kyoshin",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/snk.jpg?raw=true",
+            "state": "seeing",
+            "genre": []
+        },
+        {
+            "id": 34,
+            "name": "Tokyo Ghoul",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/tokyoGhoul.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 35,
+            "name": "Trigun",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/trigun.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 36,
+            "name": "Violet Evergarden",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/violetEvergarden.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 37,
+            "name": "Wotakoi: Love is Hard for Otaku",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/wotako.jpg?raw=true",
+            "state": "finished",
+            "genre": []
+        },
+        {
+            "id": 38,
+            "name": "Your Lie in April",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/yourLieInApril.jpg?raw=true",
+            "state": "finished",
             "genre": []
         }
     ]

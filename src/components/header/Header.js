@@ -25,14 +25,14 @@ export default class Header extends Component {
                         <div className="links">
                             <h1 className="webTitle"><img src={WebLogo} alt="panda" /></h1>
                             <input type="checkbox" id="chkbx" />
-                            <label for="chkbx">
+                            <label htmlFor="chkbx">
                                 <img src={MenuBtn} alt="menu" className="menuBtn" />
                             </label>
                             <div className="link-list">
-                                <Link exact to="/watchlist/" className="link">Home</Link>
-                                <Link exact to="/watchlist/animes" className="link">Animes</Link>
-                                <Link exact to="/watchlist/movies" className="link">Movies</Link>
-                                <Link exact to="/watchlist/series" className="link">Series</Link>
+                                <Link to="/watchlist/" className="link">Home</Link>
+                                <Link to="/watchlist/animes" className="link">Animes</Link>
+                                <Link to="/watchlist/movies" className="link">Movies</Link>
+                                <Link to="/watchlist/series" className="link">Series</Link>
                             </div>
                         </div>
                         <Switch>

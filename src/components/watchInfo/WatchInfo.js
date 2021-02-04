@@ -17,7 +17,7 @@ export default class WatchInfo extends Component{
     render(){
         this.showConsole();
         return(
-            <h1>{this.props.info.name}</h1>
+            <h1></h1>
         )
     }
 }

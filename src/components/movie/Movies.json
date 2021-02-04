@@ -1,1022 +1,1022 @@
 {
     "movies":[
         {
-            "id": 1,
+            "id": "movies/1",
             "name": "Spirited Away",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/chihiro.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 2,
+            "id": "movies/2",
             "name": "I Now Pronounce You Chuck and Larry",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/chuckAndLarry.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 3,
+            "id": "movies/3",
             "name": "Get Out",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/getOut.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 4,
+            "id": "movies/4",
             "name": "Edward Scissorhands",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/edwardSh.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 5,
+            "id": "movies/5",
             "name": "21 Jump Street",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/21jumpStreet.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 6,
+            "id": "movies/6",
             "name": "500 Days of Summer",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/500daysSummer.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 7,
+            "id": "movies/7",
             "name": "50/50",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/5050.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 8,
+            "id": "movies/8",
             "name": "8 Mile",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/8mile.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 9,
+            "id": "movies/9",
             "name": "Aladdin",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aladdin.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 10,
+            "id": "movies/10",
             "name": "Alien",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 11,
+            "id": "movies/11",
             "name": "Aliens",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 12,
+            "id": "movies/12",
             "name": "Alien 3",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien3.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 13,
+            "id": "movies/13",
             "name": "Alien Resurrection",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien4.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 14,
+            "id": "movies/14",
             "name": "Divergent",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/divergent.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 15,
+            "id": "movies/15",
             "name": "The Divergent Series: Insurgent",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/insurgent.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 16,
+            "id": "movies/16",
             "name": "The Divergent Series: Allegiant",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/allegiant.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 17,
+            "id": "movies/17",
             "name": "American Satan",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/americanSatan.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 18,
+            "id": "movies/18",
             "name": "Annabelle",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/annabelle.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 19,
+            "id": "movies/19",
             "name": "Ant-Man",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/antMan.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 20,
+            "id": "movies/20",
             "name": "Ao no Exorcist: The Movie",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aoNoExorcistMovie.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 21,
+            "id": "movies/21",
             "name": "Aquaman",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aquaman.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 22,
+            "id": "movies/22",
             "name": "Avengers",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengers.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 23,
+            "id": "movies/23",
             "name": "Avengers: Age of Ultron",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersUltron.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 24,
+            "id": "movies/24",
             "name": "Avengers: Infinity War",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersInfinityWar.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 25,
+            "id": "movies/25",
             "name": "Avengers: Endgame",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersEndGame.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 26,
+            "id": "movies/26",
             "name": "Batman: The Dark Knight",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/batmanDarkKnight.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 27,
+            "id": "movies/27",
             "name": "Big Hero 6",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/bigHero6.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 28,
+            "id": "movies/28",
             "name": "Billy Elliot",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/billyElliot.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 29,
+            "id": "movies/29",
             "name": "Black Panther",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/blackPanther.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 30,
+            "id": "movies/30",
             "name": "The Blair Witch Project",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/blairWitch.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 31,
+            "id": "movies/31",
             "name": "Boku no Hero Academy: Two Heroes",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/bnhaTwoHeroes.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 32,
+            "id": "movies/32",
             "name": "The Twilight Saga: Breaking Dawn Part 2",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/breakingDawn2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 33,
+            "id": "movies/33",
             "name": "Brother Bear",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/brotherBear.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 34,
+            "id": "movies/34",
             "name": "Brother Bear 2",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/brotherBear2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 35,
+            "id": "movies/35",
             "name": "Captain America: The First Avenger",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/captainAmerica.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 36,
+            "id": "movies/36",
             "name": "Captain America: The Winter Soldier",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/captainAmericaWinterSoldier.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 37,
+            "id": "movies/37",
             "name": "Captain America: Civil War",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/captainAmericaCivilWar.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 38,
+            "id": "movies/38",
             "name": "Carrie",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/carrie.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 39,
+            "id": "movies/39",
             "name": "Cars",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/cars.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 40,
+            "id": "movies/40",
             "name": "Cars 2",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/cars2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 41,
+            "id": "movies/41",
             "name": "Cars 3",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/cars3.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 42,
+            "id": "movies/42",
             "name": "Coach Carter",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/coachCarter.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 43,
+            "id": "movies/43",
             "name": "Constantine",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/constantine.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 44,
+            "id": "movies/44",
             "name": "Deadpool",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/deadpool.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 45,
+            "id": "movies/45",
             "name": "Detective Pikachu",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/detectivePikachu.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 46,
+            "id": "movies/46",
             "name": "Doctor Strange",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/doctorStrange.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 47,
+            "id": "movies/47",
             "name": "Fantastic Beasts and Where to Find Them",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/fantasticBeasts.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 48,
+            "id": "movies/48",
             "name": "Fantastic Beasts: The Crimes of Grindelwald",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/fantasticBeasts2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 49,
+            "id": "movies/49",
             "name": "Ford V Ferrari",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/fordVsFerrari.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 50,
+            "id": "movies/50",
             "name": "Frankenweenie",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/frankenweenie.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 51,
+            "id": "movies/51",
             "name": "Frozen",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/frozen.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 52,
+            "id": "movies/52",
             "name": "El Futbol o Yo",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/futbolYo.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 53,
+            "id": "movies/53",
             "name": "Get Hard",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/getHard.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 54,
+            "id": "movies/54",
             "name": "Godzilla",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/godzilla.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 55,
+            "id": "movies/55",
             "name": "Godzilla: King of the Monsters",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/godzilla2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 56,
+            "id": "movies/56",
             "name": "Guardians of the Galaxy",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/guardiansGalaxy.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 57,
+            "id": "movies/57",
             "name": "Guardians of the Galaxy Vol. 2",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/guardiansGalaxy2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 58,
+            "id": "movies/58",
             "name": "Hacksaw Ridge",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hacksawRidge.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 59,
+            "id": "movies/59",
             "name": "Hunter x Hunter: The Last Mission",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hxhLastMission.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 60,
+            "id": "movies/60",
             "name": "Hulk",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hulk.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 61,
+            "id": "movies/61",
             "name": "Hush",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hush.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 62,
+            "id": "movies/62",
             "name": "Hotarubi no Mori e",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hotarubiNoMoriE.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 63,
+            "id": "movies/63",
             "name": "Inglorious Basterds",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ingloriousBasterds.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 64,
+            "id": "movies/64",
             "name": "Inside Out",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/insideOut.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 65,
+            "id": "movies/65",
             "name": "Iron Man",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ironMan.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 66,
+            "id": "movies/66",
             "name": "Iron Man 2",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ironMan2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 67,
+            "id": "movies/67",
             "name": "Iron Man 3",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ironMan3.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 68,
+            "id": "movies/68",
             "name": "It",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/it.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 69,
+            "id": "movies/69",
             "name": "It: Chapter Two",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/it2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 70,
+            "id": "movies/70",
             "name": "Jojo Rabbit",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/jojoRabbit.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 71,
+            "id": "movies/71",
             "name": "Joker",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/joker.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 72,
+            "id": "movies/72",
             "name": "Jumanji",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/jumanji.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 73,
+            "id": "movies/73",
             "name": "Kung Fu Panda 2",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/kungFuPanda2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 74,
+            "id": "movies/74",
             "name": "La La Land",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/lalaland.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 75,
+            "id": "movies/75",
             "name": "The Lion King",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/lionKing.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 76,
+            "id": "movies/76",
             "name": "Little Man",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/littleMan.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 77,
+            "id": "movies/77",
             "name": "The Longest Yard",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/longestYard.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 78,
+            "id": "movies/78",
             "name": "Madagascar 3",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/madagascar3.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 79,
+            "id": "movies/79",
             "name": "Marriage Story",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/marriageStory.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 80,
+            "id": "movies/80",
             "name": "Me Before You",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/meBeforeYou.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 81,
+            "id": "movies/81",
             "name": "Men in Black: International",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/mibInternational.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 82,
+            "id": "movies/82",
             "name": "Misery",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/misery.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 83,
+            "id": "movies/83",
             "name": "Mulan",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/mulan.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 84,
+            "id": "movies/84",
             "name": "My Week with Marilyn",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/myWeekWithMarilyn.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 85,
+            "id": "movies/85",
             "name": "La Odisea de los Giles",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/odiseaGiles.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 86,
+            "id": "movies/86",
             "name": "One Way Trip",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/oneWayTrip.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 87,
+            "id": "movies/87",
             "name": "Ouija",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ouija.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 88,
+            "id": "movies/88",
             "name": "Paranormal Activity",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/paranormalActivity.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 89,
+            "id": "movies/89",
             "name": "Paranormal Activity 2",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/paranormalActivity2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 90,
+            "id": "movies/90",
             "name": "Paranormal Activity 4",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/paranormalActivity4.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 91,
+            "id": "movies/91",
             "name": "Pet Sematary",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/petSematary.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 92,
+            "id": "movies/92",
             "name": "Prisoners",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/prisoners.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 93,
+            "id": "movies/93",
             "name": "Psycho-Pass: The Movie",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/psychoPassMovie.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 94,
+            "id": "movies/94",
             "name": "Quarantine",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/quarantine.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 95,
+            "id": "movies/95",
             "name": "El Robo del Siglo",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/roboSiglo.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 96,
+            "id": "movies/96",
             "name": "Rocketman",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/rocketman.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 97,
+            "id": "movies/97",
             "name": "Sword Art Online: Ordinal Scale",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/sao.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 98,
+            "id": "movies/98",
             "name": "Shallow Hal",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/shallowHal.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 99,
+            "id": "movies/99",
             "name": "Shazam",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/shazam.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 100,
+            "id": "movies/100",
             "name": "Sing",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/sing.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 101,
+            "id": "movies/101",
             "name": "Sing Street",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/singStreet.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 102,
+            "id": "movies/102",
             "name": "Sinister",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/sinister.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 103,
+            "id": "movies/103",
             "name": "Soul",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/soul.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 104,
+            "id": "movies/104",
             "name": "Spider-Man: Homecoming",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/spidermanHomecoming.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 105,
+            "id": "movies/105",
             "name": "Spider-Man: Far From Home",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/spidermanFarFromHome.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 106,
+            "id": "movies/106",
             "name": "Unbreakable",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/unbreakable.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 107,
+            "id": "movies/107",
             "name": "Split",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/split.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 108,
+            "id": "movies/108",
             "name": "Stuber",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/stuber.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 109,
+            "id": "movies/109",
             "name": "Suicide Room",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/suicideRoom.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 110,
+            "id": "movies/110",
             "name": "Sweeny Todd",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/sweenyTodd.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 111,
+            "id": "movies/111",
             "name": "The Big Fish",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theBigFish.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 112,
+            "id": "movies/112",
             "name": "The Boy",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theBoy.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 113,
+            "id": "movies/113",
             "name": "The Breakfast Club",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theBreakfastClub.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 114,
+            "id": "movies/114",
             "name": "The Croods",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theCroods.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 115,
+            "id": "movies/115",
             "name": "The Descent",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theDescent.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 116,
+            "id": "movies/116",
             "name": "The Dictator",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theDictator.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 117,
+            "id": "movies/117",
             "name": "The Purge",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thePurge.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 118,
+            "id": "movies/118",
             "name": "The First Purge",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theFirstPurge.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 119,
+            "id": "movies/119",
             "name": "The Forest",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theForest.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 120,
+            "id": "movies/120",
             "name": "The Green Book",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theGreenBook.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 121,
+            "id": "movies/121",
             "name": "The Green Mile",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theGreenMile.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 122,
+            "id": "movies/122",
             "name": "The Grey",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theGrey.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 123,
+            "id": "movies/123",
             "name": "The Hot Chick",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theHotChick.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 124,
+            "id": "movies/124",
             "name": "The Nightmare Before Christmas",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theNightmareBeforeChristmas.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 125,
+            "id": "movies/125",
             "name": "The Shining",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theShining.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 126,
+            "id": "movies/126",
             "name": "The Theory of Everything",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theTheoryOfEverything.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 127,
+            "id": "movies/127",
             "name": "The Visit",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theVisit.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 128,
+            "id": "movies/128",
             "name": "Thor",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thor.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 129,
+            "id": "movies/129",
             "name": "Thor: The Dark World",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thorDarkWorld.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 130,
+            "id": "movies/130",
             "name": "Thor: Ragnarok",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thorRagnarok.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 131,
+            "id": "movies/131",
             "name": "My Neighbor Totoro",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/totoro.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 132,
+            "id": "movies/132",
             "name": "Unbroken",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/unbroken.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 133,
+            "id": "movies/133",
             "name": "Unfriended",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/unfriended.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 134,
+            "id": "movies/134",
             "name": "Unfriended: Dark Web",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/unfriended2.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 135,
+            "id": "movies/135",
             "name": "Venom",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/venom.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 136,
+            "id": "movies/136",
             "name": "Violet Evergarden: The Movie",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/violetEvergardenMovie.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 137,
+            "id": "movies/137",
             "name": "We Need to Talk About Kevin",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/weNeedToTalkAboutKevin.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 138,
+            "id": "movies/138",
             "name": "Whiplash",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/whiplash.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 139,
+            "id": "movies/139",
             "name": "White Chicks",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/whiteChicks.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 140,
+            "id": "movies/140",
             "name": "White House Down",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/whiteHouseDown.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 141,
+            "id": "movies/141",
             "name": "Wifi Ralph",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/wifiRalph.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 142,
+            "id": "movies/142",
             "name": "Wolf Children",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/wolfChildren.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 143,
+            "id": "movies/143",
             "name": "The Woman in Black",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/womanInBlack.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 144,
+            "id": "movies/144",
             "name": "Yesterday",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/yesterday.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 145,
+            "id": "movies/145",
             "name": "Zoolander",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/zoolander.jpg?raw=true",
             "genre": []
         },
         {
-            "id": 146,
+            "id": "movies/146",
             "name": "Zoolander 2",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/zoolander2.jpg?raw=true",

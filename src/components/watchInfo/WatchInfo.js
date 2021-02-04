@@ -1,23 +1,43 @@
 import React, {Component} from 'react';
+import Load from '../loading/Loading';
 
-import './WatchInfo.css'
+//Styles
+import './WatchInfo.css';
 
-export default class WatchInfo extends Component{
+export default class WatchInfo extends Component {
     constructor(props){
         super(props);
         this.state = {
-            info: this.props
-        }
-    }
+            id: this.props.id,
+            name: this.props.name,
+            desc: this.props.desc,
+            img: this.props.img,
+            state: this.props.state,
+            genre: this.props.genre
+        };
+    };
 
-    showConsole(){
-        console.log(this.state.info);
+    showOnConsole(){
+        console.log(this.state);
     }
 
     render(){
-        this.showConsole();
+        this.showOnConsole();
         return(
-            <h1></h1>
-        )
-    }
+            <div className="globalContainer">
+                <Load />
+                <div className="imgContainer">
+                    <img src={this.state.img} alt={this.state.name} />
+                </div>
+                <div className="data">
+                    <div className="title">
+                        <h2>{this.state.name}</h2>
+                    </div>
+                    <div className="info">
+                        
+                    </div>
+                </div>
+            </div>
+        );
+    };
 }

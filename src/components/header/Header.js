@@ -7,7 +7,8 @@ import Animes from '../anime/AnimeDiv';
 import Series from '../serie/SerieDiv';
 import Movies from '../movie/MovieDiv';
 import Home from '../home/Home';
-import NoMatch from '../404/404Page';
+import Info from '../watchInfo/WatchInfo';
+//import NoMatch from '../404/404Page';
 
 //Styles
 import './Header.css';
@@ -36,19 +37,28 @@ export default class Header extends Component {
                             </div>
                         </div>
                         <Switch>
-                            <Route exact path="/watchlist/" Component={Home}>
+                            <Route exact path="/watchlist/">
                                 <Home />
                             </Route>
-                            <Route exact path="/watchlist/animes" Component={Animes}>
+                            <Route exact path="/watchlist/animes">
                                 <Animes />
                             </Route>
-                            <Route exact path="/watchlist/movies" Component={Movies}>
+                            <Route exact path="/watchlist/movies">
                                 <Movies />
                             </Route>
-                            <Route exact path="/watchlist/series" Component={Series}>
+                            <Route exact path="/watchlist/series" >
                                 <Series />
                             </Route>
-                            <Route path='*' component={NoMatch}></Route>
+                            <Route path="/animes/" >
+                                <Info />
+                            </Route>
+                            <Route path="/movies/" >
+                                <Info />
+                            </Route>
+                            <Route path="/series/" >
+                                <Info />
+                            </Route>
+                            {/*<Route path='*' component={NoMatch}></Route>*/}
                         </Switch>
                     </Router>
                 </div>

@@ -1,7 +1,7 @@
 {
     "animes":[
         {
-            "id": 1,
+            "id": "animes/1",
             "name": "Black Clover",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blackClover.jpg?raw=true",
@@ -9,15 +9,15 @@
             "genre": []
         },
         {
-            "id": 2,
+            "id": "animes/2",
             "name": "Boku no Hero Academy",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bokuNoHero.jpg?raw=true",
-            "state": "seeing",
+            "state": "waiting",
             "genre": []
         },
         {
-            "id": 3,
+            "id": "animes/3",
             "name": "Haikyu!!",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/haikyuu.jpg?raw=true",
@@ -25,7 +25,7 @@
             "genre": []
         },
         {
-            "id": 4,
+            "id": "animes/4",
             "name": "Naruto",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/naruto.jpg?raw=true",
@@ -33,7 +33,7 @@
             "genre": []
         },
         {
-            "id": 5,
+            "id": "animes/5",
             "name": "91 Days",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/91days.jpg?raw=true",
@@ -41,7 +41,7 @@
             "genre": []
         },
         {
-            "id": 6,
+            "id": "animes/6",
             "name": "Baccano",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/baccano.jpg?raw=true",
@@ -49,7 +49,7 @@
             "genre": []
         },
         {
-            "id": 7,
+            "id": "animes/7",
             "name": "Ao no Exorcist",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blueExorcist.jpg?raw=true",
@@ -57,15 +57,15 @@
             "genre": []
         },
         {
-            "id": 8,
+            "id": "animes/8",
             "name": "Dr. Stone",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/drStone.jpg?raw=true",
-            "state": "seeing",
+            "state": "next",
             "genre": []
         },
         {
-            "id": 9,
+            "id": "animes/9",
             "name": "Durarara",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/durarara.jpg?raw=true",
@@ -73,7 +73,7 @@
             "genre": []
         },
         {
-            "id": 10,
+            "id": "animes/10",
             "name": "Jujutsu Kaisen",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/jujutsuKaisen.jpg?raw=true",
@@ -81,7 +81,7 @@
             "genre": []
         },
         {
-            "id": 11,
+            "id": "animes/11",
             "name": "Mahoutsukai no Yome",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/mahoutukaiNoYome.jpg?raw=true",
@@ -89,15 +89,15 @@
             "genre": []
         },
         {
-            "id": 12,
+            "id": "animes/12",
             "name": "The Promised Neverland",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/promisedNeverland.jpg?raw=true",
-            "state": "seeing",
+            "state": "next",
             "genre": []
         },
         {
-            "id": 13,
+            "id": "animes/13",
             "name": "Akagami No Shirayuki-hime",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/akagamiNoShirayukihime.jpg?raw=true",
@@ -105,7 +105,7 @@
             "genre": []
         },
         {
-            "id": 14,
+            "id": "animes/14",
             "name": "Angels of Death",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/angelsDeath.jpg?raw=true",
@@ -113,7 +113,7 @@
             "genre": []
         },
         {
-            "id": 15,
+            "id": "animes/15",
             "name": "Assassination Classroom",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/ansatsuKyoshitsu.jpg?raw=true",
@@ -121,7 +121,7 @@
             "genre": []
         },
         {
-            "id": 16,
+            "id": "animes/16",
             "name": "Full Metal Alchemist Brotherhood",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/fmab.jpg?raw=true",
@@ -129,7 +129,7 @@
             "genre": []
         },
         {
-            "id": 17,
+            "id": "animes/17",
             "name": "Cowboy Bebop",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/cowboyBebop.jpg?raw=true",
@@ -137,7 +137,7 @@
             "genre": []
         },
         {
-            "id": 18,
+            "id": "animes/18",
             "name": "Dororo",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/dororo.jpg?raw=true",
@@ -145,7 +145,7 @@
             "genre": []
         },
         {
-            "id": 19,
+            "id": "animes/19",
             "name": "Elfen Lied",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/elfenLied.jpg?raw=true",
@@ -153,7 +153,7 @@
             "genre": []
         },
         {
-            "id": 20,
+            "id": "animes/20",
             "name": "Fate/Zero",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/fateZero.jpg?raw=true",
@@ -161,7 +161,7 @@
             "genre": []
         },
         {
-            "id": 21,
+            "id": "animes/21",
             "name": "Hakata Tonkotsu Ramens",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/hakataTonkotsuRamens.jpg?raw=true",
@@ -169,7 +169,7 @@
             "genre": []
         },
         {
-            "id": 22,
+            "id": "animes/22",
             "name": "Hunter x Hunter",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/hxh.jpg?raw=true",
@@ -177,7 +177,7 @@
             "genre": []
         },
         {
-            "id": 23,
+            "id": "animes/23",
             "name": "Kekkai Sensen",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kekkaiSensen.jpg?raw=true",
@@ -185,7 +185,7 @@
             "genre": []
         },
         {
-            "id": 24,
+            "id": "animes/24",
             "name": "Kuroshitsuji",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kuroshitsuji.jpg?raw=true",
@@ -193,7 +193,7 @@
             "genre": []
         },
         {
-            "id": 25,
+            "id": "animes/25",
             "name": "Mob Psycho 100",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/mobPsycho.jpg?raw=true",
@@ -201,7 +201,7 @@
             "genre": []
         },
         {
-            "id": 26,
+            "id": "animes/26",
             "name": "Naruto Shippuden",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/narutoShippuden.jpg?raw=true",
@@ -209,7 +209,7 @@
             "genre": []
         },
         {
-            "id": 27,
+            "id": "animes/27",
             "name": "Noragami",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/noragami.jpg?raw=true",
@@ -217,7 +217,7 @@
             "genre": []
         },
         {
-            "id": 28,
+            "id": "animes/28",
             "name": "Parasyte",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/parasyte.jpg?raw=true",
@@ -225,7 +225,7 @@
             "genre": []
         },
         {
-            "id": 29,
+            "id": "animes/29",
             "name": "Psycho Pass",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/psychoPass.jpg?raw=true",
@@ -233,7 +233,7 @@
             "genre": []
         },
         {
-            "id": 30,
+            "id": "animes/30",
             "name": "ReLife",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/reLife.jpg?raw=true",
@@ -241,7 +241,7 @@
             "genre": []
         },
         {
-            "id": 31,
+            "id": "animes/31",
             "name": "Samurai X",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/samuraiX.jpg?raw=true",
@@ -249,7 +249,7 @@
             "genre": []
         },
         {
-            "id": 32,
+            "id": "animes/32",
             "name": "Shaman King",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/shamanKing.jpg?raw=true",
@@ -257,7 +257,7 @@
             "genre": []
         },
         {
-            "id": 33,
+            "id": "animes/33",
             "name": "Attack on Titan",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/snk.jpg?raw=true",
@@ -265,7 +265,7 @@
             "genre": []
         },
         {
-            "id": 34,
+            "id": "animes/34",
             "name": "Tokyo Ghoul",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/tokyoGhoul.jpg?raw=true",
@@ -273,7 +273,7 @@
             "genre": []
         },
         {
-            "id": 35,
+            "id": "animes/35",
             "name": "Trigun",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/trigun.jpg?raw=true",
@@ -281,7 +281,7 @@
             "genre": []
         },
         {
-            "id": 36,
+            "id": "animes/36",
             "name": "Violet Evergarden",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/violetEvergarden.jpg?raw=true",
@@ -289,7 +289,7 @@
             "genre": []
         },
         {
-            "id": 37,
+            "id": "animes/37",
             "name": "Wotakoi: Love is Hard for Otaku",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/wotako.jpg?raw=true",
@@ -297,7 +297,7 @@
             "genre": []
         },
         {
-            "id": 38,
+            "id": "animes/38",
             "name": "Your Lie in April",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/yourLieInApril.jpg?raw=true",

@@ -17,10 +17,10 @@ export default class SerieDiv extends Component{
             <div className="seriesDiv">
                 <Load />
                 {
-                    SerieList.series.map(serie => {
+                    SerieList.series.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(serie => {
                         return(
                             <div key={serie.id} className="serieBlock">
-                                <img className="serieImg" src={serie.img} alt={serie.name} />
+                                <img className="serieImg" src={serie.img} alt={serie.name} id={serie.id} />
                             </div>
                         )
                     })

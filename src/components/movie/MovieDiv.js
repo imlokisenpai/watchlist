@@ -17,10 +17,10 @@ export default class MovieDiv extends Component{
             <div className="moviesDiv">
                 <Load />
                 {
-                    MovieList.movies.map(movie => {
+                    MovieList.movies.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(movie => {
                         return(
                             <div key={movie.id} className="movieBlock">
-                                <img className="movieImg" src={movie.img} alt={movie.name} />
+                                <img className="movieImg" src={movie.img} alt={movie.name} id={movie.id} />
                             </div>
                         )
                     })

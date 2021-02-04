@@ -1,9 +1,16 @@
 .seeingDiv{
     display: flex;
-    margin: 97px 10px 20px 10px;
+    margin: 20px 10px 20px 10px;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
+
+    /*No selectable Elements*/
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
 }
 
 .seeingBlock{
@@ -25,4 +32,22 @@
 
 .seeingImg:hover{
     cursor: pointer;
+}
+
+.Watching{
+    margin-top: 100px;
+}
+
+.Watching h3{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 2px 2px 5px #007;
+}
+
+@media screen and (max-width: 600px)
+{
+    .Watching h3{
+        font-size: 20px;
+    }
 }

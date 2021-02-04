@@ -3,12 +3,20 @@
     left: 0;
     height: 75px;
     width: 100%;
-    background: #007d;
+    background: #2a2b2bf7;
+    backdrop-filter: blur(5px);
     border-bottom: 2px solid #fff;
     display: flex;
     position: fixed;
     justify-content: space-between;
     z-index: 1000;
+
+    /*No selectable Elements*/
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
 }
 
 .webTitle{
@@ -43,11 +51,11 @@
 }
 
 .menuBtn{
-    width: 50px;
-    height: 50px;
-    min-width: 50px;
-    min-height: 50px;
-    margin-top: 10px;
+    width: 40px;
+    height: 30px;
+    min-width: 40px;
+    min-height: 30px;
+    margin-top: 20px;
     margin-right: 15px;
     background: none;
     outline: none;

@@ -11,16 +11,17 @@ class AnimeDiv extends Component{
     animeListConsole(){
         console.log(AnimeList);
     }
+    
     render(){
         this.animeListConsole();
         return(
             <div className="animesDiv">
                 <Load />
                 {
-                    AnimeList.animes.map(anime => {
+                    AnimeList.animes.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(anime => {
                         return(
                             <div key={anime.id} className="animeBlock">
-                                <img className="animeImg" src={anime.img} alt={anime.name} />
+                                <img className="animeImg" src={anime.img} alt={anime.name} id={anime.id} />
                             </div>
                         )
                     })

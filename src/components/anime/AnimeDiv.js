@@ -12,6 +12,10 @@ class AnimeDiv extends Component{
         console.log(AnimeList);
     }
     
+    openInfo(inf){
+        console.log(inf)
+    }
+
     render(){
         this.animeListConsole();
         return(
@@ -21,7 +25,7 @@ class AnimeDiv extends Component{
                     AnimeList.animes.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(anime => {
                         return(
                             <div key={anime.id} className="animeBlock">
-                                <img className="animeImg" src={anime.img} alt={anime.name} id={anime.id} />
+                                <img className="animeImg" src={anime.img} alt={anime.name} id={anime.id} onClick={() => this.openInfo(anime)} />
                             </div>
                         )
                     })

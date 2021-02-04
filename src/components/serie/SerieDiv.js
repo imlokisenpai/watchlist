@@ -11,6 +11,11 @@ export default class SerieDiv extends Component{
     serieListConsole(){
         console.log(SerieList);
     }
+
+    openInfo(inf){
+        console.log(inf)
+    }
+
     render(){
         this.serieListConsole();
         return(
@@ -20,7 +25,7 @@ export default class SerieDiv extends Component{
                     SerieList.series.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(serie => {
                         return(
                             <div key={serie.id} className="serieBlock">
-                                <img className="serieImg" src={serie.img} alt={serie.name} id={serie.id} />
+                                <img className="serieImg" src={serie.img} alt={serie.name} id={serie.id} onClick={() => this.openInfo(serie)} />
                             </div>
                         )
                     })

@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "name": "Haikyuu!",
+            "name": "Haikyu!!",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/haikyuu.jpg?raw=true",
             "state": "seeing",
@@ -189,7 +189,7 @@
             "name": "Kuroshitsuji",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kuroshitsuji.jpg?raw=true",
-            "state": "waiting",
+            "state": "finished",
             "genre": []
         },
         {
@@ -258,7 +258,7 @@
         },
         {
             "id": 33,
-            "name": "Shingeki no Kyoshin",
+            "name": "Attack on Titan",
             "desc": "",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/snk.jpg?raw=true",
             "state": "seeing",

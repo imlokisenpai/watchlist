@@ -45,6 +45,10 @@
     text-shadow: 2px 2px 5px #007;
 }
 
+.spaceTop{
+    margin-top: 50px;
+}
+
 @media screen and (max-width: 600px)
 {
     .Watching h3{

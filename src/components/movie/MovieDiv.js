@@ -11,6 +11,11 @@ export default class MovieDiv extends Component{
     movieListConsole(){
         console.log(MovieList);
     }
+
+    openInfo(inf){
+        console.log(inf)
+    }
+
     render(){
         this.movieListConsole();
         return(
@@ -20,7 +25,7 @@ export default class MovieDiv extends Component{
                     MovieList.movies.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(movie => {
                         return(
                             <div key={movie.id} className="movieBlock">
-                                <img className="movieImg" src={movie.img} alt={movie.name} id={movie.id} />
+                                <img className="movieImg" src={movie.img} alt={movie.name} id={movie.id} onClick={() => this.openInfo(movie)} />
                             </div>
                         )
                     })

@@ -1,0 +1,70 @@
+{
+    "new":[
+        {
+            "id": 1,
+            "name": "The Office",
+            "desc": "",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/615MPacH9qL._AC_SY679_.jpg",
+            "state": "seeing",
+            "genre": [],
+            "type": "serie"
+        },
+        {
+            "id": 2,
+            "name": "Attack on Titan",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/snk.jpg?raw=true",
+            "state": "seeing",
+            "genre": [],
+            "type": "anime"
+        },
+        {
+            "id": 3,
+            "name": "Black Clover",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blackClover.jpg?raw=true",
+            "state": "seeing",
+            "genre": [],
+            "type": "anime"
+        },
+        {
+            "id": 4,
+            "name": "Haikyu!!",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/haikyuu.jpg?raw=true",
+            "state": "seeing",
+            "genre": [],
+            "type": "anime"
+        },
+        {
+            "id": 5,
+            "name": "Jujutsu Kaisen",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/jujutsuKaisen.jpg?raw=true",
+            "state": "seeing",
+            "genre": [],
+            "type": "anime"
+        }
+    ],
+
+    "wait":[
+        {
+            "id": 1,
+            "name": "Ao no Exorcist",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blueExorcist.jpg?raw=true",
+            "state": "waiting",
+            "genre": [],
+            "type": "anime"
+        },
+        {
+            "id": 2,
+            "name": "Psycho Pass",
+            "desc": "",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/psychoPass.jpg?raw=true",
+            "state": "waiting",
+            "genre": [],
+            "type": "anime"
+        }
+    ]
+}

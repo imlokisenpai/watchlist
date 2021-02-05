@@ -29,8 +29,10 @@ export default class WatchInfo extends Component {
         return(
             <div className="globalContainer">
                 <Load />
-                <div className="imgContainer">
-                    <img src={this.state.img} alt={this.state.name} />
+                <div className="centerImg">
+                    <div className="imgContainer">
+                        <img src={this.state.img} alt={this.state.name} />
+                    </div>
                 </div>
                 <div className="data">
                     <div className="title">

@@ -1,8 +1,9 @@
 .globalContainer{
-    margin-left: 5%;
     width: 90%;
     height: 100%;
+    margin-left: 5%;
     margin-top: 100px;
+    margin-bottom: 10px;
     background: #2a2b2bf7;
     display: flex;
     justify-content: center;
@@ -17,6 +18,7 @@
     flex-direction: column;
     justify-content: center;
     margin-left: 5%;
+    margin-top: 15px;
 }
 
 .imgContainer{
@@ -48,10 +50,9 @@
 }
 
 .title{
-    margin-top: 20px;
     margin-left: 5%;
     width: 90%;
-    height: 50px;
+    height: 30px;
     border-radius: 5px;
 }
 
@@ -72,6 +73,7 @@
     border-radius: 5px;
     color: #fff;
     text-align: center;
+    overflow: hidden;
     box-shadow: 2px 2px 5px #fffa;
 }
 
@@ -110,6 +112,10 @@
     font-size: 20px;
 }
 
+.descMargin{
+    margin-top: -20px;
+}
+
 .fixHeight{
     margin-top: 23px;
 }
@@ -125,9 +131,31 @@
     margin-right: 10px;
 }
 
+.animated{
+    opacity: 0;
+    animation: show 3s forwards;
+}
+
+.d1{
+    animation-delay: 3s;
+}
+
+.d2{
+    animation-delay: 4s;
+}
+
+.d3{
+    animation-delay: 5s;
+}
+
+.d4{
+    animation-delay: 6s;
+}
+
 @media screen and (max-width: 725px){
     .globalContainer{
         flex-direction: column;
+        margin-bottom: 20px;
     }
 
     .centerImg{
@@ -179,5 +207,16 @@
         .boxedDivMargin{
             font-size: 5vw;
         }
+    }
+}
+
+@keyframes show{
+    from{
+        transform: translateY(10px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0px);
+        opacity: 1;
     }
 }

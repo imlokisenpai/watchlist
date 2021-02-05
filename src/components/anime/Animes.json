@@ -3,306 +3,483 @@
         {
             "id": "animes/1",
             "name": "Black Clover",
-            "desc": "",
+            "desc": "Asta and Yuno are orphans raised in the outskirts of the Clover Kingdom. In a world where people are born with magic, Asta was born without any. In contrast, Yuno was born a prodigy with above average magic power and the talent to control it. Additionally, in their coming of age ceremony, Yuno receives a rare four-leaf clover grimoire, like the original Magic Emperor. On the other hand, Asta received a tattered grimoire where a Devil lies within, a five-leaf clover grimoire.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blackClover.jpg?raw=true",
             "state": "seeing",
-            "genre": []
+            "genre": ["Action", "Comedy", "Magic", "Fantasy", "Shounen"],
+            "seasons": 1,
+            "episodes": 170,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "On Air"
         },
         {
             "id": "animes/2",
             "name": "Boku no Hero Academy",
-            "desc": "",
+            "desc": "In a world where most of the population is gifted with special powers known as 'Quirks', Izuku Midoriya is a young boy who always dreamed of becoming a hero, despite not having a Quirl himself, until one day he is attacked by a villain made of sludge and is rescued by none other than All Might, the most famous hero ever and his idol since chilhood.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bokuNoHero.jpg?raw=true",
             "state": "waiting",
-            "genre": []
+            "genre": ["Action", "Comedy", "School", "Shounen", "Super Power"],
+            "seasons": 4,
+            "episodes": 88,
+            "ovas": 0,
+            "movies": 2,
+            "finished": "Next release: Season 5"
         },
         {
             "id": "animes/3",
             "name": "Haikyu!!",
-            "desc": "",
+            "desc": "Inspired after watching a volleyball ace nicknamed 'Little Giant' in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. ",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/haikyuu.jpg?raw=true",
             "state": "seeing",
-            "genre": []
+            "genre": ["Comedy", "Sports", "Drama", "School", "Shounen"],
+            "seasons": 5,
+            "episodes": 85,
+            "ovas": 5,
+            "movies": 4,
+            "finished": "Finished"
         },
         {
             "id": "animes/4",
             "name": "Naruto",
-            "desc": "",
+            "desc": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/naruto.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Adventure", "Comedy", "Super Power", "Martial Arts", "Shounen"],
+            "seasons": 2,
+            "episodes": 720,
+            "ovas": 12,
+            "movies": 11,
+            "finished": "Finished"
         },
         {
             "id": "animes/5",
             "name": "91 Days",
-            "desc": "",
+            "desc": "The story is set in the town of Lawless, Illinois during Prohibition in 1928, where brewed liquor dominates the black market thanks for the Italian mafia. Angelo Lagusa, a young man whose family was murdered in a mafia dispute, seeks revenge against the Vanetti Family, particularly its don, Vincent Vanetti.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/91days.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Drama", "Historical"],
+            "seasons": 1,
+            "episodes": 12,
+            "ovas": 1,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/6",
             "name": "Baccano",
-            "desc": "",
+            "desc": "During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, is starting its legendary journey that will leave a trail of blood all over the country. At the same time in New York, the ambitious scientist Szilard and his unwilling aide Ennis are looking for missing bottles of the immortality elixir. In addition, a war between the mafia groups is getting worse. On board the Advena Avis, in 1711, alchemists are about to learn the price of immortality.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/baccano.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Comedy", "Historical", "Mystery", "Supernatural"],
+            "seasons": 1,
+            "episodes": 16,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/7",
             "name": "Ao no Exorcist",
-            "desc": "",
+            "desc": "Humans and demons are two sides of the same coin, as are Assiah and Gehenna, their respective worlds. The only way to travel between the realms is by the means of possession, like in ghost stories. However, Satan, the ruler of Gehenna, cannot find a suitable host to possess and therefore, remains imprisoned in his world. In a desperate attempt to conquer Assiah, he sends his son instead, intending for him to eventually grow into a vessel capable of possession by the demon king.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blueExorcist.jpg?raw=true",
             "state": "waiting",
-            "genre": []
+            "genre": ["Action", "Demons", "Fantasy", "Shounen", "Supernatural"],
+            "seasons": 2,
+            "episodes": 37,
+            "ovas": 3,
+            "movies": 1,
+            "finished": "Next release: Season 3 (not confirmed)"
         },
         {
             "id": "animes/8",
             "name": "Dr. Stone",
-            "desc": "",
+            "desc": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/drStone.jpg?raw=true",
             "state": "next",
-            "genre": []
+            "genre": ["Sci-Fi", "Adventure", "Shounen"],
+            "seasons": 2,
+            "episodes": 28,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "On Air"
         },
         {
             "id": "animes/9",
             "name": "Durarara",
-            "desc": "",
+            "desc": "In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless 'Black Rider' who is said to be seen driving a jet-black motorcycle through the city streets.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/durarara.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Mystery", "Supernatural"],
+            "seasons": 2,
+            "episodes": 60,
+            "ovas": 5,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/10",
             "name": "Jujutsu Kaisen",
-            "desc": "",
+            "desc": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the 'King of Curses.'",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/jujutsuKaisen.jpg?raw=true",
             "state": "seeing",
-            "genre": []
+            "genre": ["Action", "Demons", "Supernatural", "School", "Shounen"],
+            "seasons": 1,
+            "episodes": 17,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "On Air"
         },
         {
             "id": "animes/11",
             "name": "Mahoutsukai no Yome",
-            "desc": "",
+            "desc": "Chise Hatori, a 15-year-old Japanese girl, was sold for five million pounds at an auction to a tall masked gentleman. Abandoned at a young age and ridiculed by her peers for her unconventional behavior, she was ready to give herself to any buyer if it meant having a place to go home to. In chains and on her way to an unknown fate, she hears whispers from robed men along her path, gossiping and complaining that such a buyer got his hands on a rare 'Sleigh Beggy.'",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/mahoutukaiNoYome.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Slice of Life", "Magic", "Fantasy", "Shounen"],
+            "seasons": 1,
+            "episodes": 24,
+            "ovas": 3,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/12",
             "name": "The Promised Neverland",
-            "desc": "",
+            "desc": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their 'Mama', Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage—a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family, never to be heard from again.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/promisedNeverland.jpg?raw=true",
             "state": "next",
-            "genre": []
+            "genre": ["Sci-Fi", "Mystery", "Horror", "Psychological", "Thriller", "Shounen"],
+            "seasons": 2,
+            "episodes": 17,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "On Air"
         },
         {
             "id": "animes/13",
             "name": "Akagami No Shirayuki-hime",
-            "desc": "",
+            "desc": "Although her name means 'snow white', Shirayuki is a cheerful, red-haired girl living in the country of Tanbarun who works diligently as an apothecary at her herbal shop. Her life changes drastically when she is noticed by the silly prince of Tanbarun, Prince Raji, who then tries to force her to become his concubine. Unwilling to give up her freedom, Shirayuki cuts her long red hair and escapes into the forest, where she is rescued from Raji by Zen Wistalia, the second prince of a neighboring country, and his two aides. Hoping to repay her debt to the trio someday, Shirayuki sets her sights on pursuing a career as the court herbalist in Zen's country, Clarines.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/akagamiNoShirayukihime.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Fantasy", "Romance", "Drama", "Shoujo"],
+            "seasons": 2,
+            "episodes": 24,
+            "ovas": 1,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/14",
             "name": "Angels of Death",
-            "desc": "",
+            "desc": "With dead and lifeless eyes, Rachel Gardner wishes only to die. Waking up in the basement of a building, she has no idea how or why she's there. She stumbles across a bandaged murderer named Zack, who is trying to escape. After promising to kill her as soon as he is free, Rachel and Zack set out to ascend through the building floor by floor until they escape.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/angelsDeath.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Adventure", "Horror", "Psychological", "Thriller"],
+            "seasons": 1,
+            "episodes": 16,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/15",
             "name": "Assassination Classroom",
-            "desc": "",
+            "desc": "When a mysterious creature chops the moon down to a permanent crescent, the students of class 3-E of Kunugigaoka Middle School find themselves confronted with an enormous task: assassinate the creature responsible for the disaster before Earth suffers a similar fate. However, the monster, dubbed Koro-sensei (the indestructible teacher), is able to fly at speeds of up to Mach 20, which he demonstrates freely, leaving any attempt to subdue him in his extraterrestrial dust. Furthermore, the misfits of 3-E soon find that the strange, tentacled beast is more than just indomitable—he is the best teacher they have ever had!",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/ansatsuKyoshitsu.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Comedy", "School", "Shounen"],
+            "seasons": 2,
+            "episodes": 47,
+            "ovas": 2,
+            "movies": 1,
+            "finished": "Finished"
         },
         {
             "id": "animes/16",
             "name": "Full Metal Alchemist Brotherhood",
-            "desc": "",
+            "desc": "Alchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called 'automail' and become a state alchemist, the Fullmetal Alchemist.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/fmab.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Military", "Adventure", "Comedy", "Drama", "Magic", "Fantasy", "Shounen"],
+            "seasons": 1,
+            "episodes": 64,
+            "ovas": 4,
+            "movies": 1,
+            "finished": "Finished"
         },
         {
             "id": "animes/17",
             "name": "Cowboy Bebop",
-            "desc": "",
+            "desc": "In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as 'Cowboys'. The ragtag team aboard the spaceship Bebop are two such individuals.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/cowboyBebop.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Adventure", "Comedy", "Drama", "Sci-Fi", "Space"],
+            "seasons": 1,
+            "episodes": 26,
+            "ovas": 0,
+            "movies": 1,
+            "finished": "Finished"
         },
         {
             "id": "animes/18",
             "name": "Dororo",
-            "desc": "",
+            "desc": "The greedy samurai lord Daigo Kagemitsu's land is dying, and he would do anything for power, even renounce Buddha and make a pact with demons. His prayers are answered by 12 demons who grant him the power he desires by aiding his prefecture's growth, but at a price. When Kagemitsu's first son is born, the boy has no limbs, no nose, no eyes, no ears, nor even skin—yet still, he lives.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/dororo.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Adventure", "Demons", "Historical", "Samurai", "Shounen", "Supernatural"],
+            "seasons": 1,
+            "episodes": 24,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/19",
             "name": "Elfen Lied",
-            "desc": "",
+            "desc": "Lucy is a special breed of human referred to as 'Diclonius', born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government. However, once circumstances present her an opportunity to escape, Lucy, corrupted by the confinement and torture, unleashes a torrent of bloodshed as she escapes her captors.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/elfenLied.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Horror", "Psychological", "Supernatural", "Drama", "Romance", "Seinen"],
+            "seasons": 1,
+            "episodes": 13,
+            "ovas": 1,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/20",
             "name": "Fate/Zero",
-            "desc": "",
+            "desc": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated 'Magus Killer' Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/fateZero.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Supernatural", "Magic", "Fantasy"],
+            "seasons": 2,
+            "episodes": 25,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/21",
             "name": "Hakata Tonkotsu Ramens",
-            "desc": "",
+            "desc": "lthough the city of Fukuoka might look relatively peaceful at first glance, in actuality it houses a thriving mixture of dangerous individuals such as killers, detectives, and professional revenge seekers right beneath its surface. Among their number is Zenji Banba, a laidback and observant detective who is investigating the work of other hitmen companies in the area. However, Banba might not be the only one with a bone to pick with these organizations, as Xianming Lin, a crossdressing male hitman in the employ of one such company begins getting fed up with his lack of jobs and pay.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/hakataTonkotsuRamens.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Mystery"],
+            "seasons": 1,
+            "episodes": 12,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/22",
-            "name": "Hunter x Hunter",
-            "desc": "",
+            "name": "Hunter x Hunter (2011)",
+            "desc": "Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself and had long ago abandoned his young son. However, Gon soon realizes the path to achieving his goals is far more challenging than he could have ever imagined.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/hxh.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Adventure", "Fantasy", "Shounen", "Super Power"],
+            "seasons": 1,
+            "episodes": 148,
+            "ovas": 0,
+            "movies": 2,
+            "finished": "Finished"
         },
         {
             "id": "animes/23",
             "name": "Kekkai Sensen",
-            "desc": "",
+            "desc": "Supersonic monkeys, vampires, talking fishmen, and all sorts of different supernatural monsters living alongside humans—this has been part of daily life in Hellsalem's Lot, formerly known as New York City, for some time now. When a gateway between Earth and the Beyond opened three years ago, New Yorkers and creatures from the other dimension alike were trapped in an impenetrable bubble and were forced to live together. Libra is a secret organization composed of eccentrics and superhumans, tasked with keeping order in the city and making sure that chaos doesn't spread to the rest of the world.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kekkaiSensen.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Comedy", "Super Power", "Supernatural", "Vampire", "Fantasy", "Shounen"],
+            "seasons": 2,
+            "episodes": 24,
+            "ovas": 2,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/24",
             "name": "Kuroshitsuji",
-            "desc": "",
+            "desc": "Young Ciel Phantomhive is known as 'the Queen's Guard Dog', taking care of the many unsettling events that occur in Victorian England for Her Majesty. Aided by Sebastian Michaelis, his loyal butler with seemingly inhuman abilities, Ciel uses whatever means necessary to get the job done. But is there more to this black-clad butler than meets the eye?",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kuroshitsuji.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Mystery", "Comedy", "Historical", "Demons", "Supernatural", "Shounen"],
+            "seasons": 3,
+            "episodes": 46,
+            "ovas": 8,
+            "movies": 1,
+            "finished": "Finished"
         },
         {
             "id": "animes/25",
             "name": "Mob Psycho 100",
-            "desc": "",
+            "desc": "Eighth-grader Shigeo 'Mob' Kageyama has tapped into his inner wellspring of psychic prowess at a young age. But the power quickly proves to be a liability when he realizes the potential danger in his skills. Choosing to suppress his power, Mob's only present use for his ability is to impress his longtime crush, Tsubomi, who soon grows bored of the same tricks.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/mobPsycho.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Slice of Life", "Comedy", "Supernatural"],
+            "seasons": 2,
+            "episodes": 25,
+            "ovas": 1,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/26",
-            "name": "Naruto Shippuden",
-            "desc": "",
-            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/narutoShippuden.jpg?raw=true",
+            "name": "Your Lie in April",
+            "desc": "Music accompanies the path of the human metronome, the prodigious pianist Kousei Arima. But after the passing of his mother, Saki Arima, Kousei falls into a downward spiral, rendering him unable to hear the sound of his own piano. Two years later, Kousei still avoids the piano, leaving behind his admirers and rivals, and lives a colorless life alongside his friends Tsubaki Sawabe and Ryouta Watari. However, everything changes when he meets a beautiful violinist, Kaori Miyazono, who stirs up his world and sets him on a journey to face music again.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/yourLieInApril.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Drama", "Music", "Romance", "School", "Shounen"],
+            "seasons": 1,
+            "episodes": 22,
+            "ovas": 1,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/27",
             "name": "Noragami",
-            "desc": "",
+            "desc": "In times of need, if you look in the right place, you just may see a strange telephone number scrawled in red. If you call this number, you will hear a young man introduce himself as the Yato God.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/noragami.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Adventure", "Comedy", "Supernatural", "Shounen"],
+            "seasons": 2,
+            "episodes": 25,
+            "ovas": 4,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/28",
             "name": "Parasyte",
-            "desc": "",
+            "desc": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/parasyte.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Sci-Fi", "Horror", "Psychological", "Drama", "Seinen"],
+            "seasons": 1,
+            "episodes": 24,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/29",
             "name": "Psycho Pass",
-            "desc": "",
+            "desc": "Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, jaded Inspectors that have become latent criminals, granted relative freedom in exchange for carrying out the Inspectors' dirty work.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/psychoPass.jpg?raw=true",
             "state": "waiting",
-            "genre": []
+            "genre": ["Action", "Sci-Fi", "Police", "Psychological"],
+            "seasons": 3,
+            "episodes": 41,
+            "ovas": 0,
+            "movies": 3,
+            "finished": "Finished"
         },
         {
             "id": "animes/30",
-            "name": "ReLife",
-            "desc": "",
+            "name": "ReLIFE",
+            "desc": "Dismissed as a hopeless loser by those around him, 27-year-old Arata Kaizaki bounces around from one job to another after quitting his first company. His unremarkable existence takes a sharp turn when he meets Ryou Yoake, a member of the ReLife Research Institute, who offers Arata the opportunity to change his life for the better with the help of a mysterious pill. Taking it without a second thought, Arata awakens the next day to find that his appearance has reverted to that of a 17-year-old.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/reLife.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Slice of Life", "Romance", "School"],
+            "seasons": 1,
+            "episodes": 13,
+            "ovas": 4,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/31",
             "name": "Samurai X",
-            "desc": "",
+            "desc": "In the final years of the Bakumatsu era lived a legendary assassin known as Hitokiri Battousai. Feared as a merciless killer, he was unmatched throughout the country, but mysteriously disappeared at the peak of the Japanese Revolution. It has been ten peaceful years since then, but the very mention of Battousai still strikes terror into the hearts of war veterans.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/samuraiX.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Adventure", "Comedy", "Historical", "Romance", "Samurai", "Shounen"],
+            "seasons": 3,
+            "episodes": 95,
+            "ovas": 4,
+            "movies": 3,
+            "finished": "Finished"
         },
         {
             "id": "animes/32",
-            "name": "Shaman King",
-            "desc": "",
+            "name": "Shaman King (2001)",
+            "desc": "A battle is about to begin in Tokyo: the Shaman Fight, a tournament held every five hundred years where shaman—those who can command spirits—confront each other in combat. The victor of this contest becomes the Shaman King and the only one who is able to contact and control the Great Spirit, allowing them to reshape the world as they please through its immense power.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/shamanKing.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Adventure", "Comedy", "Super Power", "Supernatural", "Shounen"],
+            "seasons": 1,
+            "episodes": 64,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/33",
             "name": "Attack on Titan",
-            "desc": "",
+            "desc": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/snk.jpg?raw=true",
             "state": "seeing",
-            "genre": []
+            "genre": ["Action", "Military", "Mystery", "Super Power", "Drama", "Fantasy", "Shounen"],
+            "seasons": 4,
+            "episodes": 67,
+            "ovas": 8,
+            "movies": 0,
+            "finished": "On Air"
         },
         {
             "id": "animes/34",
             "name": "Tokyo Ghoul",
-            "desc": "",
+            "desc": "Tokyo has become a cruel and merciless city—a place where vicious creatures called 'ghouls' exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/tokyoGhoul.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Mystery", "Horror", "Psychological", "Supernatural", "Drama", "Seinen"],
+            "seasons": 4,
+            "episodes": 48,
+            "ovas": 2,
+            "movies": 0,
+            "finished": "Finished"
         },
         {
             "id": "animes/35",
             "name": "Trigun",
-            "desc": "",
+            "desc": "Vash the Stampede is the man with a $$60,000,000,000 bounty on his head. The reason: he's a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title 'The Humanoid Typhoon'. He leaves a trail of death and destruction wherever he goes, and anyone can count themselves dead if they so much as make eye contact—or so the rumors say. In actuality, Vash is a huge softie who claims to have never taken a life and avoids violence at all costs.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/trigun.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Action", "Sci-Fi", "Adventure", "Comedy", "Drama", "Shounen"],
+            "seasons": 1,
+            "episodes": 26,
+            "ovas": 0,
+            "movies": 1,
+            "finished": "Finished"
         },
         {
             "id": "animes/36",
             "name": "Violet Evergarden",
-            "desc": "",
+            "desc": "The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War's final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/violetEvergarden.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Slice of Life", "Drama", "Fantasy"],
+            "seasons": 1,
+            "episodes": 13,
+            "ovas": 1,
+            "movies": 2,
+            "finished": "Finished"
         },
         {
             "id": "animes/37",
             "name": "Wotakoi: Love is Hard for Otaku",
-            "desc": "",
+            "desc": "Having slept through all four of her alarms, the energetic Narumi Momose finds herself running late for her first day of work at a new office. As she races to catch her train, she makes a promise to herself that none of her coworkers will find out about her dark secret: that she is an otaku and a fujoshi. Her plan goes instantly awry, though, when she runs into Hirotaka Nifuji, an old friend from middle school. Although she tries to keep her secret by inviting him out for drinks after work, her cover is blown when he casually asks her whether or not she will be attending the upcoming Summer Comiket. Luckily for her, the only witnesses—Hanako Koyanagi and Tarou Kabakura—are otaku as well.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/wotako.jpg?raw=true",
             "state": "finished",
-            "genre": []
-        },
-        {
-            "id": "animes/38",
-            "name": "Your Lie in April",
-            "desc": "",
-            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/yourLieInApril.jpg?raw=true",
-            "state": "finished",
-            "genre": []
+            "genre": ["Comedy", "Romance", "Slice of Life"],
+            "seasons": 1,
+            "episodes": 11,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         }
     ]
 }

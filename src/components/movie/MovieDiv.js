@@ -1,14 +1,15 @@
 import React, {Component} from 'react';
-import {Link, Route} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import './MovieDiv.css';
 import MovieList from './Movies.json';
 import Load from '../loading/Loading';
-import Info from '../watchInfo/WatchInfo';
 
 export default class MovieDiv extends Component{
-    state = {
-        movieInfo: {},
-        redirect: '/'
+    constructor(props){
+        super(props);
+        this.state = {
+            movieInfo: {}
+        }
     }
 
     movieListConsole(){
@@ -31,15 +32,13 @@ export default class MovieDiv extends Component{
                 {
                     MovieList.movies.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(movie => {
                         return(
-                            <Link to={'/' + movie.id} key={movie.id} className="movieBlock">
-                                <img className="movieImg" src={movie.img} alt={movie.name} id={movie.id} onClick={() => this.openInfo(movie)} />
+                            <Link to={'/watchlist/' + movie.id} key={movie.id} className="movieBlock" onClick={() => this.props.data.chgInf(movie)}>
+                                <img className="movieImg" src={movie.img} alt={movie.name} id={movie.id} />
                             </Link>
                         )
                     })
                 }
             </div>
-
-            <Route exact path={this.state.redirect}><Info i={this.state.movieInfo} /></Route>
         </div>
         );
     }

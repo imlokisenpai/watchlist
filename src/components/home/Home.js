@@ -1,18 +1,20 @@
 import React, {Component} from 'react';
-import {Link, Route} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import './Home.css';
 import Load from '../loading/Loading';
 import Animes from '../anime/Animes.json';
 import Series from '../serie/Series.json';
-import Info from '../watchInfo/WatchInfo';
 
 export default class Home extends Component{
-    state = {
-        watching: JSON.parse(JSON.stringify(Animes.animes)).filter(x => x.state === "seeing").concat(JSON.parse(JSON.stringify(Series.series)).filter(x => x.state === "seeing")),
-        waiting: JSON.parse(JSON.stringify(Animes.animes)).filter(x => x.state === "waiting").concat(JSON.parse(JSON.stringify(Series.series)).filter(x => x.state === "waiting")),
-        next: JSON.parse(JSON.stringify(Animes.animes)).filter(x => x.state === "next").concat(JSON.parse(JSON.stringify(Series.series)).filter(x => x.state === "next")),
-        redirect: '/',
-        watchInfo: {}
+
+    constructor(props){
+        super(props);
+        this.state = {
+            watching: JSON.parse(JSON.stringify(Animes.animes)).filter(x => x.state === "seeing").concat(JSON.parse(JSON.stringify(Series.series)).filter(x => x.state === "seeing")),
+            waiting: JSON.parse(JSON.stringify(Animes.animes)).filter(x => x.state === "waiting").concat(JSON.parse(JSON.stringify(Series.series)).filter(x => x.state === "waiting")),
+            next: JSON.parse(JSON.stringify(Animes.animes)).filter(x => x.state === "next").concat(JSON.parse(JSON.stringify(Series.series)).filter(x => x.state === "next")),
+            watchInfo: {}
+        }
     }
 
     listConsole(){
@@ -35,47 +37,45 @@ export default class Home extends Component{
                 <div className="Watching">
                     <Load />
 
-                    <h3>Watching</h3>
-                    <div className="seeingDiv">
+                    <h3 className="show1 animate">Watching</h3>
+                    <div className="seeingDiv show1 animate">
                     {
                         this.state.watching.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(seeing => {
                             return(
-                                    <Link to={'/' + seeing.id} key={seeing.id} className="seeingBlock">
-                                        <img className="seeingImg" src={seeing.img} alt={seeing.name} id={seeing.id} onClick={() => this.openInfo(seeing)} />
+                                    <Link to={'/watchlist/' + seeing.id} key={seeing.id} className="seeingBlock" onClick={() => this.props.data.chgInf(seeing)}>
+                                        <img className="seeingImg" src={seeing.img} alt={seeing.name} id={seeing.id} />
                                     </Link>
                             )
                         })
                     }
                     </div>
 
-                    <h3 className="spaceTop">Waiting</h3>
-                    <div className="seeingDiv waitingDiv">
+                    <h3 className="spaceTop show2 animate">Waiting</h3>
+                    <div className="seeingDiv waitingDiv show2 animate">
                     {
                         this.state.waiting.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(waiting => {
                             return(
-                                    <Link to={'/' + waiting.id} key={waiting.id} className="seeingBlock">
-                                        <img className="seeingImg" src={waiting.img} alt={waiting.name} id={waiting.id} onClick={() => this.openInfo(waiting)} />
+                                    <Link to={'/watchlist/' + waiting.id} key={waiting.id} className="seeingBlock" onClick={() => this.props.data.chgInf(waiting)}>
+                                        <img className="seeingImg" src={waiting.img} alt={waiting.name} id={waiting.id} />
                                     </Link>
                             )
                         })
                     }
                     </div>  
-
-                    <h3 className="spaceTop">Next to see</h3>
-                    <div className="seeingDiv waitingDiv">
+                    
+                    <h3 className="spaceTop show3 animate">Next to see</h3>
+                    <div className="seeingDiv waitingDiv show3 animate">
                     {
                         this.state.next.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(next => {
                             return(
-                                    <Link to={'/' + next.id} key={next.id} className="seeingBlock">
-                                        <img className="seeingImg" src={next.img} alt={next.name} id={next.id} onClick={() => this.openInfo(next)} />
+                                    <Link to={'/watchlist/' + next.id} key={next.id} className="seeingBlock" onClick={() => this.props.data.chgInf(next)}>
+                                        <img className="seeingImg" src={next.img} alt={next.name} id={next.id} />
                                     </Link>
                             )
                         })
                     }
                     </div> 
                 </div>
-                
-                <Route exact path={this.state.redirect}><Info i={this.state.watchInfo} /></Route>
             </div>
         );
     }

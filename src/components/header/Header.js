@@ -18,6 +18,18 @@ import WebLogo from './webLogo.png';
 import MenuBtn from './menu.png';
 
 export default class Header extends Component {
+
+    constructor(){
+        super();
+        this.state={
+            information: {}
+        }
+    }
+
+    updtInfo(inf){
+        this.setState({information: inf});
+    }
+
     render(){
         return(
             <header className="header">
@@ -38,25 +50,25 @@ export default class Header extends Component {
                         </div>
                         <Switch>
                             <Route exact path="/watchlist/">
-                                <Home />
+                                <Home data={{inf: this.state.information, chgInf: this.updtInfo.bind(this)}} />
                             </Route>
                             <Route exact path="/watchlist/animes">
-                                <Animes />
+                                <Animes data={{inf: this.state.information, chgInf: this.updtInfo.bind(this)}} />
                             </Route>
                             <Route exact path="/watchlist/movies">
-                                <Movies />
+                                <Movies data={{inf: this.state.information, chgInf: this.updtInfo.bind(this)}} />
                             </Route>
                             <Route exact path="/watchlist/series" >
-                                <Series />
+                                <Series data={{inf: this.state.information, chgInf: this.updtInfo.bind(this)}} />
                             </Route>
-                            <Route path="/animes/" >
-                                <Info />
+                            <Route path="/watchlist/animes/" >
+                                <Info i={this.state.information} />
                             </Route>
-                            <Route path="/movies/" >
-                                <Info />
+                            <Route path="/watchlist/movies/" >
+                                <Info i={this.state.information} />
                             </Route>
-                            <Route path="/series/" >
-                                <Info />
+                            <Route path="/watchlist/series/" >
+                                <Info i={this.state.information} />
                             </Route>
                             <Route path='*' component={NoMatch}></Route>
                         </Switch>

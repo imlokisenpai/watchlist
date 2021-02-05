@@ -3,42 +3,57 @@
         {
             "id": "series/1",
             "name": "The Office",
-            "desc": "",
+            "desc": "A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/theOffice.jpg?raw=true",
             "state": "seeing",
-            "genre": []
+            "genre": ["Sitcom", "Parody", "Comedy-drama", "Comedy", "Satire", "Pseudo-documentary", "Mockumentary", "Romantic comedy"],
+            "seasons": 9,
+            "episodes": 201,
+            "finished": "Finished"
         },
         {
             "id": "series/2",
             "name": "Black Mirror",
-            "desc": "",
+            "desc": "In an abstrusely dystopian future, several individuals grapple with the manipulative effects of cutting edge technology in their personal lives and behaviours.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/blackMirror.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Dystopia", "Thriller", "Dark comedy", "Sci-Fi", "Satire", "Psychological thriller", "Anthology series", "Drama"],
+            "seasons": 5,
+            "episodes": 22,
+            "finished": "Finished"
         },
         {
             "id": "series/3",
             "name": "Friends",
-            "desc": "",
+            "desc": "Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/friends.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Sitcom", "Comedy", "Romance"],
+            "seasons": 10,
+            "episodes": 236,
+            "finished": "Finished"
         },
         {
             "id": "series/4",
             "name": "How I Met Your Mother",
-            "desc": "",
+            "desc": "Ted Mosby, an architect, recounts to his children the events that led him to meet their mother. His journey is made more eventful by the presence of his friends Lily, Marshall, Robin and Barney.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/himym.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Sitcom", "Romance", "Romantic comedy", "Comedy", "Drama", "Comedy-drama"],
+            "seasons": 9,
+            "episodes": 208,
+            "finished": "Finished"
         },
         {
             "id": "series/5",
             "name": "Chernobyl",
-            "desc": "",
+            "desc": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line to save Europe.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/chernobyl.jpg?raw=true",
             "state": "finished",
-            "genre": []
+            "genre": ["Historical drama", "Tragedy"],
+            "seasons": 1,
+            "episodes": 5,
+            "finished": "Finished"
         }
     ]
 }

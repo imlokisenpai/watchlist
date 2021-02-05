@@ -49,9 +49,37 @@
     margin-top: 50px;
 }
 
+.animate{
+    opacity: 0;
+    animation: show 3s forwards;
+}
+
+.show1{
+    animation-delay: 3s;
+}
+
+.show2{
+    animation-delay: 4s;
+}
+
+.show3{
+    animation-delay: 5s;
+}
+
 @media screen and (max-width: 600px)
 {
     .Watching h3{
         font-size: 20px;
+    }
+}
+
+@keyframes show{
+    from{
+        transform: translateY(10px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0px);
+        opacity: 1;
     }
 }

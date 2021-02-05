@@ -1,14 +1,15 @@
 import React, {Component} from 'react';
-import {Link, Route} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import './SerieDiv.css';
 import SerieList from './Series.json';
 import Load from '../loading/Loading';
-import Info from '../watchInfo/WatchInfo';
 
 export default class SerieDiv extends Component{
-    state = {
-        serieInfo: {},
-        redirect: '/'
+    constructor(props){
+        super(props);
+        this.state = {
+            serieInfo: {}
+        }
     }
 
     serieListConsole(){
@@ -31,15 +32,13 @@ export default class SerieDiv extends Component{
                     {
                         SerieList.series.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(serie => {
                             return(
-                                <Link to={'/' + serie.id} key={serie.id} className="serieBlock">
-                                    <img className="serieImg" src={serie.img} alt={serie.name} id={serie.id} onClick={() => this.openInfo(serie)} />
+                                <Link to={'/watchlist/' + serie.id} key={serie.id} className="serieBlock" onClick={() => this.props.data.chgInf(serie)}>
+                                    <img className="serieImg" src={serie.img} alt={serie.name} id={serie.id} />
                                 </Link>
                             )
                         })
                     }
                 </div>
-                
-                <Route exact path={this.state.redirect}><Info i={this.state.serieInfo} /></Route>
             </div>
         );
     }

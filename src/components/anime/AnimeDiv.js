@@ -5,9 +5,11 @@ import AnimeList from './Animes.json';
 import Load from '../loading/Loading';
 
 export default class AnimeDiv extends Component{
-    state = {
-        animeInfo: {},
-        redirect: '/'
+    constructor(props){
+        super(props);
+        this.state = {
+            animeInfo: {}
+        }
     }
 
     animeListConsole(){
@@ -27,7 +29,7 @@ export default class AnimeDiv extends Component{
                 {
                     AnimeList.animes.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(anime => {
                         return(
-                            <Link to={'/' + anime.id} key={anime.id} className="animeBlock">
+                            <Link to={'/watchlist/' + anime.id} key={anime.id} className="animeBlock" onClick={() => this.props.data.chgInf(anime)}>
                                 <img className="animeImg" src={anime.img} alt={anime.name} id={anime.id} />
                             </Link>
                         );

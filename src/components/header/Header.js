@@ -8,7 +8,7 @@ import Series from '../serie/SerieDiv';
 import Movies from '../movie/MovieDiv';
 import Home from '../home/Home';
 import Info from '../watchInfo/WatchInfo';
-//import NoMatch from '../404/404Page';
+import NoMatch from '../404/404Page';
 
 //Styles
 import './Header.css';
@@ -58,7 +58,7 @@ export default class Header extends Component {
                             <Route path="/series/" >
                                 <Info />
                             </Route>
-                            {/*<Route path='*' component={NoMatch}></Route>*/}
+                            <Route path='*' component={NoMatch}></Route>
                         </Switch>
                     </Router>
                 </div>

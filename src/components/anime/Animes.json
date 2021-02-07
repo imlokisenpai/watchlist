@@ -16,7 +16,7 @@
         {
             "id": "animes/2",
             "name": "Boku no Hero Academy",
-            "desc": "In a world where most of the population is gifted with special powers known as 'Quirks', Izuku Midoriya is a young boy who always dreamed of becoming a hero, despite not having a Quirl himself, until one day he is attacked by a villain made of sludge and is rescued by none other than All Might, the most famous hero ever and his idol since chilhood.",
+            "desc": "In a world where most of the population is gifted with special powers known as 'Quirks', Izuku Midoriya is a young boy who always dreamed of becoming a hero, despite not having a Quirk himself, until one day he is attacked by a villain made of sludge and is rescued by none other than All Might, the most famous hero ever and his idol since chilhood.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bokuNoHero.jpg?raw=true",
             "state": "waiting",
             "genre": ["Action", "Comedy", "School", "Shounen", "Super Power"],

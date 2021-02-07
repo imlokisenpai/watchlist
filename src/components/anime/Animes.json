@@ -83,13 +83,13 @@
             "name": "Ao no Exorcist",
             "desc": "Humans and demons are two sides of the same coin, as are Assiah and Gehenna, their respective worlds. The only way to travel between the realms is by the means of possession, like in ghost stories. However, Satan, the ruler of Gehenna, cannot find a suitable host to possess and therefore, remains imprisoned in his world. In a desperate attempt to conquer Assiah, he sends his son instead, intending for him to eventually grow into a vessel capable of possession by the demon king.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blueExorcist.jpg?raw=true",
-            "state": "waiting",
+            "state": "finished",
             "genre": ["Action", "Demons", "Fantasy", "Shounen", "Supernatural"],
             "seasons": 2,
             "episodes": 37,
             "ovas": 3,
             "movies": 1,
-            "finished": "Next release: Season 3 (not confirmed)"
+            "finished": "Finished"
         },
         {
             "id": "animes/8",
@@ -369,7 +369,7 @@
             "name": "Psycho Pass",
             "desc": "Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, jaded Inspectors that have become latent criminals, granted relative freedom in exchange for carrying out the Inspectors' dirty work.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/psychoPass.jpg?raw=true",
-            "state": "waiting",
+            "state": "Finished",
             "genre": ["Action", "Sci-Fi", "Police", "Psychological"],
             "seasons": 3,
             "episodes": 41,

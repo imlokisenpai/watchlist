@@ -11,11 +11,11 @@
             "episodes": 170,
             "ovas": 0,
             "movies": 0,
-            "finished": "On Air"
+            "finished": "In Broadcast"
         },
         {
             "id": "animes/2",
-            "name": "Boku no Hero Academy",
+            "name": "Boku no Hero Academia",
             "desc": "In a world where most of the population is gifted with special powers known as 'Quirks', Izuku Midoriya is a young boy who always dreamed of becoming a hero, despite not having a Quirk himself, until one day he is attacked by a villain made of sludge and is rescued by none other than All Might, the most famous hero ever and his idol since chilhood.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bokuNoHero.jpg?raw=true",
             "state": "waiting",
@@ -102,7 +102,7 @@
             "episodes": 28,
             "ovas": 0,
             "movies": 0,
-            "finished": "On Air"
+            "finished": "In Broadcast"
         },
         {
             "id": "animes/9",
@@ -128,7 +128,7 @@
             "episodes": 17,
             "ovas": 0,
             "movies": 0,
-            "finished": "On Air"
+            "finished": "In Broadcast"
         },
         {
             "id": "animes/11",
@@ -154,7 +154,7 @@
             "episodes": 17,
             "ovas": 0,
             "movies": 0,
-            "finished": "On Air"
+            "finished": "In Broadcast"
         },
         {
             "id": "animes/13",
@@ -427,7 +427,7 @@
             "episodes": 67,
             "ovas": 8,
             "movies": 0,
-            "finished": "On Air"
+            "finished": "In Broadcast"
         },
         {
             "id": "animes/34",

@@ -36,7 +36,7 @@ export default class Header extends Component {
                 <div className="linkContainer">
                     <Router>
                         <div className="links">
-                            <h1 className="webTitle"><img src={WebLogo} alt="panda" /></h1>
+                            <h1 className="webTitle" tabIndex="-1"><img src={WebLogo} alt="watchlist" /></h1>
                             <input type="checkbox" id="chkbx" />
                             <label htmlFor="chkbx">
                                 <img src={MenuBtn} alt="menu" className="menuBtn" />

@@ -43,25 +43,25 @@ export default class WatchInfo extends Component {
                     <div className="info">
                         <div className="descDiv animated d1">
                             <div><h3 className="subtitle">Description</h3></div>
-                            <div className="descMargin"><p>{this.state.desc}</p></div>
+                            <div className="descMargin infoSize"><p>{this.state.desc}</p></div>
                         </div>
                         <div className="genreDiv animated d2">
                             <div><h3 className="subtitle">Genres:</h3></div>
-                            <div><p className="fixHeight">{this.state.genre.join(', ')}</p></div>
+                            <div><p className="fixHeight infoSize">{this.state.genre.join(', ')}</p></div>
                         </div>
                         <div className="seasonDiv">
                             <div className="boxedDiv animated d3">
                                 <div><h3 className="subtitle boxedDivMargin">Seasons</h3></div>
-                                <div><p>{this.state.seasons}</p></div>
+                                <div className="infoSize"><p>{this.state.seasons}</p></div>
                             </div>
                             <div className="boxedDiv animated d3">
                                 <div><h3 className="subtitle boxedDivMargin">Episodes</h3></div>
-                                <div><p>{this.state.episodes}</p></div>
+                                <div className="infoSize"><p>{this.state.episodes}</p></div>
                             </div>
                         </div>
                         <div className="stDiv animated d4">
                             <div><h3 className="subtitle">State:</h3></div>
-                            <div><p className="fixHeight">{this.state.finished}</p></div>
+                            <div className="infoSize"><p className="fixHeight">{this.state.finished}</p></div>
                         </div>
                     </div>
                 </div>

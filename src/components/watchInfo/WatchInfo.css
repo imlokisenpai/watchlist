@@ -1,8 +1,9 @@
 .globalContainer{
+    position: fixed;
     width: 90%;
-    height: 100%;
+    height: 80vh;
     margin-left: 5%;
-    margin-top: 100px;
+    margin-top: 15vh;
     margin-bottom: 10px;
     background: #2a2b2bf7;
     display: flex;
@@ -45,21 +46,20 @@
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 5%;
     justify-content: space-between;
 }
 
 .title{
     margin-left: 5%;
+    max-height: 30px;
     width: 90%;
-    height: 30px;
-    border-radius: 5px;
 }
 
 .title h2{
-    margin-top: 5px;
+    margin-top: 0;
     text-align: center;
-    font-size: 25px;
+    font-size: 4vh;
     color: #fff;
 
 }
@@ -75,6 +75,9 @@
     text-align: center;
     overflow: hidden;
     box-shadow: 2px 2px 5px #fffa;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .descDiv{
@@ -109,7 +112,11 @@
 }
 
 .subtitle{
-    font-size: 20px;
+    font-size: 3vh;
+}
+
+.infoSize{
+    font-size: 2vh;
 }
 
 .descMargin{
@@ -117,7 +124,7 @@
 }
 
 .fixHeight{
-    margin-top: 23px;
+    margin-top: 3.8vh;
 }
 
 .boxedDiv{
@@ -150,6 +157,7 @@
 
 .d4{
     animation-delay: 6s;
+    margin-bottom: 20px;
 }
 
 @media screen and (max-width: 725px){

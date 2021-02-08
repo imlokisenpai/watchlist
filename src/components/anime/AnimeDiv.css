@@ -1,6 +1,6 @@
 .animesDiv{
     display: flex;
-    margin: 97px 10px 20px 10px;
+    margin: 15vh 10px 20px 10px;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
@@ -23,6 +23,11 @@
     display: flex;
     flex-direction: column;
     z-index: 75;
+    outline: none;
+}
+
+.animeBlock:focus{
+    box-shadow: 0px 0px 3px 4px #fff;
 }
 
 .animeImg{
@@ -31,4 +36,22 @@
 
 .animeImg:hover{
     cursor: pointer;
+}
+
+.selectGenre{
+    margin-top: 15vh;
+    z-index: 1000;
+}
+
+.slctGenre{
+    z-index: 1000;
+}
+
+.genreSelect{
+    background: #007;
+    z-index: 1000;
+}
+
+.genreSubtitle{
+    z-index: 1000;
 }

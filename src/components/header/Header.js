@@ -7,7 +7,9 @@ import Animes from '../anime/AnimeDiv';
 import Series from '../serie/SerieDiv';
 import Movies from '../movie/MovieDiv';
 import Home from '../home/Home';
-import Info from '../watchInfo/WatchInfo';
+import AnimeInfo from '../watchInfo/WatchInfoAnime';
+import SerieInfo from '../watchInfo/WatchInfoSerie';
+import MovieInfo from '../watchInfo/WatchInfoMovie';
 import NoMatch from '../404/404Page';
 
 //Styles
@@ -29,6 +31,10 @@ export default class Header extends Component {
     updtInfo(inf){
         this.setState({information: inf});
     }
+    
+    uncheck(){
+        document.getElementById('chkbx').checked = false;
+    }
 
     render(){
         return(
@@ -42,10 +48,10 @@ export default class Header extends Component {
                                 <img src={MenuBtn} alt="menu" className="menuBtn" />
                             </label>
                             <div className="link-list">
-                                <Link to="/watchlist/" className="link">Home</Link>
-                                <Link to="/watchlist/animes" className="link">Animes</Link>
-                                <Link to="/watchlist/movies" className="link">Movies</Link>
-                                <Link to="/watchlist/series" className="link">Series</Link>
+                                <Link to="/watchlist/" className="link" onClick={() => this.uncheck()}>Home</Link>
+                                <Link to="/watchlist/animes" className="link" onClick={() => this.uncheck()}>Animes</Link>
+                                <Link to="/watchlist/movies" className="link" onClick={() => this.uncheck()}>Movies</Link>
+                                <Link to="/watchlist/series" className="link" onClick={() => this.uncheck()}>Series</Link>
                             </div>
                         </div>
                         <Switch>
@@ -62,13 +68,13 @@ export default class Header extends Component {
                                 <Series data={{inf: this.state.information, chgInf: this.updtInfo.bind(this)}} />
                             </Route>
                             <Route path="/watchlist/animes/" >
-                                <Info i={this.state.information} />
+                                <AnimeInfo i={this.state.information} />
                             </Route>
                             <Route path="/watchlist/movies/" >
-                                <Info i={this.state.information} />
+                                <MovieInfo i={this.state.information} />
                             </Route>
                             <Route path="/watchlist/series/" >
-                                <Info i={this.state.information} />
+                                <SerieInfo i={this.state.information} />
                             </Route>
                             <Route path='*' component={NoMatch}></Route>
                         </Switch>

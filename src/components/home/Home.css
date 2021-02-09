@@ -6,6 +6,7 @@
     flex-wrap: wrap;
 
     /*No selectable Elements*/
+    user-drag: none;
     user-select: none;
     -moz-user-select: none;
     -khtml-user-select: none;
@@ -48,6 +49,14 @@
     color: #fff;
     text-align: center;
     text-shadow: 2px 2px 5px #007;
+
+    /*No selectable Elements*/
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
 }
 
 .spaceTop{
@@ -64,11 +73,11 @@
 }
 
 .show2{
-    animation-delay: 4s;
+    animation-delay: 3.5s;
 }
 
 .show3{
-    animation-delay: 5s;
+    animation-delay: 4s;
 }
 
 @media screen and (max-width: 600px)

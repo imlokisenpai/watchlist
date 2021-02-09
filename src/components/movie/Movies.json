@@ -3,10 +3,10 @@
         {
             "id": "movies/1",
             "name": "Spirited Away",
-            "desc": "",
+            "desc": "10-year-old Chihiro and her parents stumble upon a seemingly abandoned amusement park. After her mother and father are turned into giant pigs, Chihiro meets the mysterious Haku, who explains that the park is a resort for supernatural beings who need a break from their time spent in the earthly realm, and that she must work there to free herself and her parents.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/chihiro.jpg?raw=true",
             "genre": ["Anime", "Adventure", "Mystery", "Animation", "Fantasy"],
-            "lenght": 125
+            "lenght": "2h 5m"
         },
         {
             "id": "movies/2",
@@ -14,7 +14,7 @@
             "desc": "Two straight best friends pretend to be a gay couple to receive domestic partner benefits on an insurance form. However, things get complicated when an agent decides to verify their story.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/chuckAndLarry.jpg?raw=true",
             "genre": ["Comedy", "Romantic comedy"],
-            "lenght": 115
+            "lenght": "1h 55m"
         },
         {
             "id": "movies/3",
@@ -22,7 +22,7 @@
             "desc": "Chris, an African-American man, decides to visit his Caucasian girlfriend's parents during a weekend getaway. Although they seem normal at first, he is not prepared to experience the horrors ahead.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/getOut.jpg?raw=true",
             "genre": ["Horror", "Comedy", "Suspense", "Thriller", "Mystery"],
-            "lenght": 104
+            "lenght": "1h 44m"
         },
         {
             "id": "movies/4",
@@ -30,7 +30,7 @@
             "desc": "Edward, a synthetic man with scissor hands, is taken in by Peg, a kindly Avon lady, after the passing of his inventor. Things take a turn for the worse when he is blamed for a crime he did not commit.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/edwardSh.jpg?raw=true",
             "genre": ["Fantasy", "Romance", "Drama"],
-            "lenght": 105
+            "lenght": "1h 45m"
         },
         {
             "id": "movies/5",
@@ -38,7 +38,7 @@
             "desc": "Schmidt and Jenko are high school friends who go on to become police officers. The two friends go undercover as students in order to bust a drug ring and find the source of a synthetic drug.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/21jumpStreet.jpg?raw=true",
             "genre": ["Comedy", "Action", "Crime Fiction"],
-            "lenght": 110,
+            "lenght": "1h 50m",
             "collection": "21 Jump Street"
         },
         {
@@ -47,7 +47,7 @@
             "desc": "Tom revisits the approximate one year he shared with Summer, the girl he thought he could spend the rest of his life with. She, on the other hand, does not believe in relationships or boyfriends.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/500daysSummer.jpg?raw=true",
             "genre": ["Romance", "Drama", "Comedy-drama", "Comedy", "Indie"],
-            "lenght": 97
+            "lenght": "1h 37m"
         },
         {
             "id": "movies/7",
@@ -55,7 +55,7 @@
             "desc": "Adam is a 27-year-old radio journalist whose life turns upside down when he is diagnosed with spinal cancer. Whilst battling the rare disease, he learns the value of friendship and love.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/5050.jpg?raw=true",
             "genre": ["Comedy", "Drama", "Romance", "Comedy-drama"],
-            "lenght": 100
+            "lenght": "1h 40m"
         },
         {
             "id": "movies/8",
@@ -63,7 +63,7 @@
             "desc": "Jimmy 'B-Rabbit' Smith is an aspiring rapper with a messed-up life. He must use his rap skills to succeed in a rapping contest as this could be his last chance to get out of the ghetto.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/8mile.jpg?raw=true",
             "genre": ["Drama", "Musical", "Musical drama"],
-            "lenght": 118
+            "lenght": "1h 58m"
         },
         {
             "id": "movies/9",
@@ -71,7 +71,7 @@
             "desc": "Aladdin, a kind thief, woos Jasmine, the princess of Agrabah, with the help of Genie. When Jafar, the grand vizier, tries to usurp the king, Jasmine, Aladdin and Genie must stop him from succeeding.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aladdin.jpg?raw=true",
             "genre": ["Comedy", "Romance", "Musical", "Adventure", "Fantasy"],
-            "lenght": 128
+            "lenght": "2h 8m"
         },
         {
             "id": "movies/10",
@@ -79,7 +79,7 @@
             "desc": "The crew of a spacecraft, Nostromo, intercept a distress signal from a planet and set out to investigate it. However, to their horror, they are attacked by an alien which later invades their ship.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien.jpg?raw=true",
             "genre": ["Horror", "Action", "Adventure", "Sci-Fi", "Fantasy", "Thriller"],
-            "lenght": 117,
+            "lenght": "1h 57m",
             "collection": "Alien"
         },
         {
@@ -88,7 +88,7 @@
             "desc": "Ellen Ripley is sent back to the planet LV-426 to establish contact with a terraforming colony. Once there, she encounters the Alien Queen and her offspring and has to fight them to survive.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien2.jpg?raw=true",
             "genre": ["Horror", "Action", "Adventure", "Sci-Fi", "Fantasy", "Thriller"],
-            "lenght": 154,
+            "lenght": "2h 34m",
             "collection": "Alien"
         },
         {
@@ -97,7 +97,7 @@
             "desc": "Ellen Ripley's escape pod crash-lands on Fiorina 161, a penal colony planet terrorised by an alien. She rallies the inmates into killing it but realises that she is carrying an alien embryo herself.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien3.jpg?raw=true",
             "genre": ["Horror", "Action", "Adventure", "Sci-Fi", "Fantasy", "Thriller"],
-            "lenght": 145,
+            "lenght": "2h 25m",
             "collection": "Alien"
         },
         {
@@ -106,7 +106,7 @@
             "desc": "Ripley 8, a human-alien hybrid clone, is aboard a vessel, Auriga, along with space pirates. However, when aliens invade Auriga, Ripley does her best to prevent them from reaching and destroying Earth.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/alien4.jpg?raw=true",
             "genre": ["Horror", "Action", "Adventure", "Sci-Fi", "Fantasy", "Thriller"],
-            "lenght": 116,
+            "lenght": "1h 56m",
             "collection": "Alien"
         },
         {
@@ -115,7 +115,7 @@
             "desc": "Tris, an adult resident of a futuristic world divided into five factions, elects to join the Dauntless faction. But she actually belongs to another faction, which she must hide, as a major war looms.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/divergent.jpg?raw=true",
             "genre": ["Action", "Adventure", "Mystery", "Sci-Fi", "Thriller"],
-            "lenght": 140,
+            "lenght": "2h 20m",
             "collection": "The Divergent Series"
         },
         {
@@ -124,7 +124,7 @@
             "desc": "Tris Prior is a divergent who does not belong to any one faction dictated by the government. She must unite with other divergents and unravel a conspiracy that threatens their lives.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/insurgent.jpg?raw=true",
             "genre": ["Action", "Adventure", "Romance", "Sci-Fi", "Thriller"],
-            "lenght": 119,
+            "lenght": "1h 59m",
             "collection": "The Divergent Series"
         },
         {
@@ -133,7 +133,7 @@
             "desc": "Tris and Four lead their a group of rebels as they attempt to escape Chicago. However, things become more difficult when numerous obstacles appear on their paths.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/allegiant.jpg?raw=true",
             "genre": ["Action", "Adventure", "Mystery", "Romance", "Sci-Fi", "Thriller"],
-            "lenght": 121,
+            "lenght": "2h 1m",
             "collection": "The Divergent Series"
         },
         {
@@ -142,7 +142,7 @@
             "desc": "A hungry young rock band drop out of college and move to Los Angeles' Sunset Strip to chase after their dreams. However, they soon catch the dangerous attention of a sinister stranger.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/americanSatan.jpg?raw=true",
             "genre": ["Musical", "Thriller", "Drama"],
-            "lenght": 112
+            "lenght": "1h 52m"
         },
         {
             "id": "movies/18",
@@ -150,7 +150,7 @@
             "desc": "John and Mia Form are attacked by a Satan worshipping couple, who uses their doll as a conduit to make their life miserable. This unleashes a string of paranormal events in the Forms' residence.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/annabelle.jpg?raw=true",
             "genre": ["Horror", "Mystery", "Thriller", "Supernatural"],
-            "lenght": 99
+            "lenght": "1h 39m"
         },
         {
             "id": "movies/19",
@@ -1208,7 +1208,7 @@
             "collection": "Zoolander"
         },
         {
-            "id": "movies/147",
+            "id": "movies/146",
             "name": "Kung Fu Panda",
             "desc": "When Po the Panda, a kung fu enthusiast, gets selected as the Dragon Warrior, he decides to team up with the Furious Five and destroy the evil forces that threaten the Valley of Peace.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/kungFuPanda.jpg?raw=true",

@@ -1,12 +1,12 @@
-import loading from './loading.png';
 import './Loading.css';
 
 export default function Loading() {
   return (
     <div className="loadingDiv">
       <div className="container">
-        <img src={loading} className="loading" alt="loading" />
+        <div className="circle-load"></div>
       </div>
+
       <div className="container wavy">
         <span id="one">L</span>
         <span id="two">o</span>

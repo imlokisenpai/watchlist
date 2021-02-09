@@ -6,13 +6,21 @@
     z-index: 100;
     position: fixed;
     background: #00a;
-    animation: load 1s;
+    animation: load 3s;
     animation-delay: 3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
     display: flex;
     flex-direction: column;
     justify-content: center;
+
+    /*No selectable Elements*/
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
 }
 
 .container{
@@ -21,15 +29,17 @@
     justify-content: center;
 }
 
-.loading {
-    width: 10%;
-    min-width: 100px;
-    pointer-events: none;
-
+.circle-load{
+    width: 5vw;
+    height: 5vw;
+    border: 3px solid #2a2b2bf7;
+    border-top: 3px solid #346bf7;
+    border-radius: 50%;
+    animation: 2s loading-spin infinite;
 }
 
 .wavy{
-    margin-top: 25px;
+    margin-top: 5vh;
     position: relative;
 }
 
@@ -39,7 +49,7 @@
     color: #fff;
     font-size: 1.5vw;
     text-transform: uppercase;
-    animation: wave 1.5s ease-in-out infinite;
+    animation: wave 2s ease-in-out infinite;
 }
 
 #one{
@@ -82,12 +92,6 @@
     animation-delay: 1s;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-    .loading {
-    animation: loading-spin infinite 5s linear;
-}
-}
-
 @keyframes loading-spin {
     from {
         transform: rotate(0deg);
@@ -101,9 +105,15 @@
     0%{
         opacity: 1;
     }
+
+    70%{
+        opacity: 0;
+    }
+
     100%{
         opacity: 0;
         z-index: 0;
+        display: none;
     }
 }
 

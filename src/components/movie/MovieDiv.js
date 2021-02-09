@@ -8,20 +8,29 @@ export default class MovieDiv extends Component{
     constructor(props){
         super(props);
         this.state = {
-            defaultGenre: "Pupi",
-            genres: MovieList.movies.filter(x => x === this.defaultGenre)
+            defaultGenre: "",
+            subtitle: "Complete List",
+            genres: ["-No Filter-", ...new Set(MovieList.movies.flatMap(x => x.genre))].sort()
         }
     }
 
     movieListConsole(){
         console.log(MovieList);
+        console.log(this.state.genres)
     }
 
-    openInfo(inf){
+    changeGenre(){
         this.setState({
-            movieInfo: inf,
-            redirect: this.state.redirect + inf.id
-        });
+            defaultGenre: document.getElementById('genreSelect').value,
+            subtitle: document.getElementById('genreSelect').value
+        })
+
+        if(document.getElementById('genreSelect').value === '-No Filter-'){
+            this.setState({
+                subtitle: "Complete List",
+                defaultGenre: ""
+            })
+        }
     }
 
     render(){
@@ -29,29 +38,32 @@ export default class MovieDiv extends Component{
         return(
             <div className="moviesDiv">
 
-                <div className="selectGenre">
-                    <h2 className="genreSubtitle">Pupi</h2>
-                    <label id="slctGenre">
+                <div className="genreContainer">
+                    <h2 className="genreSubtitle">{this.state.subtitle}</h2>
+                    <label id="genreLabel">
                         <h3>Filter by genre:</h3>
-                        <select id="genreSelect">
-                            <option value="" selected>No Filter</option>
-                            <option value={this.state.genres[0]}>Comedy</option>
-                            <option value={this.state.genres[1]}>Shounen</option>
-                            <option value={this.state.genres[2]}>Romance</option>
-                            <option value={this.state.genres[3]}>Thriller</option>
-                            <option value={this.state.genres[4]}>Sports</option>
+                        <select id="genreSelect" onChange={() => this.changeGenre()}>
+                            {
+                                this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
+                                    return(
+                                        <option value={genre}>
+                                            {genre}
+                                        </option>
+                                    );
+                                })
+                            }
                         </select>
                     </label>
                 </div>
                 <hr className="subtitleBar" />
                 <Load />
                 {
-                    MovieList.movies.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(movie => {
+                    MovieList.movies.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).filter(movie => movie.genre.indexOf(this.state.defaultGenre) !== -1).map(movie => {
                         return(
                             <Link to={'/watchlist/' + movie.id} key={movie.id} className="movieBlock" onClick={() => this.props.data.chgInf(movie)}>
                                 <img className="movieImg" src={movie.img} alt={movie.name} id={movie.id} />
                             </Link>
-                        )
+                        );
                     })
                 }
             </div>

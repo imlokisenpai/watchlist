@@ -8,36 +8,50 @@ export default class AnimeDiv extends Component{
     constructor(props){
         super(props);
         this.state = {
-            defaultGenre: "Pupi",
-            genres: AnimeList.animes.filter(x => x === this.defaultGenre)
+            defaultGenre: "",
+            subtitle: "Complete List",
+            genres: ["-No Filter-", ...new Set(AnimeList.animes.flatMap(x => x.genre))].sort()
         }
     }
 
     animeListConsole(){
         console.log(AnimeList);
+        console.log(this.state.genres);
     }
 
-    openInfo(inf){
-        this.props.i(inf);
+    changeGenre(){
+        this.setState({
+            defaultGenre: document.getElementById('genreSelect').value,
+            subtitle: document.getElementById('genreSelect').value
+        })
+
+        if(document.getElementById('genreSelect').value === '-No Filter-'){
+            this.setState({
+                subtitle: "Complete List",
+                defaultGenre: ""
+            })
+        }
     }
 
     render(){
         this.animeListConsole();
         return(
-            <div>
                 <div className="animesDiv">
 
-                    <div className="selectGenre">
-                        <h2 className="genreSubtitle">Pupi</h2>
-                        <label id="slctGenre">
+                    <div className="genreContainer">
+                        <h2 className="genreSubtitle">{this.state.subtitle}</h2>
+                        <label id="genreLabel">
                             <h3>Filter by genre:</h3>
-                            <select id="genreSelect">
-                                <option value="" selected>No Filter</option>
-                                <option value={this.state.genres[0]}>Comedy</option>
-                                <option value={this.state.genres[1]}>Shounen</option>
-                                <option value={this.state.genres[2]}>Romance</option>
-                                <option value={this.state.genres[3]}>Thriller</option>
-                                <option value={this.state.genres[4]}>Sports</option>
+                            <select id="genreSelect" onChange={() => this.changeGenre()}>
+                            {
+                                this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
+                                    return(
+                                        <option value={genre}>
+                                            {genre}
+                                        </option>
+                                    );
+                                })
+                            }
                             </select>
                         </label>
                     </div>
@@ -46,7 +60,7 @@ export default class AnimeDiv extends Component{
 
                     <Load />
                     {
-                        AnimeList.animes.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(anime => {
+                        AnimeList.animes.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).filter(anime => anime.genre.indexOf(this.state.defaultGenre) !== -1).map(anime => {
                             return(
                                 <Link to={'/watchlist/' + anime.id} key={anime.id} className="animeBlock" onClick={() => this.props.data.chgInf(anime)}>
                                     <img className="animeImg" src={anime.img} alt={anime.name} id={anime.id} />
@@ -55,7 +69,6 @@ export default class AnimeDiv extends Component{
                         })
                     }
                 </div>
-            </div>
         );
     }
 }

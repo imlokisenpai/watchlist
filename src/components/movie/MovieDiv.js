@@ -40,7 +40,7 @@ export default class MovieDiv extends Component{
                 <Load />
                 <div className="moviesDiv">
                     <div className="genreContainer">
-                        <h2 className="genreSubtitle">{this.state.subtitle}</h2>
+                        <h2 className="genreSub">{this.state.subtitle}</h2>
                         <label id="genreLabel">
                             <h3>Filter by genre:</h3>
                             <select id="genreSelect" onChange={() => this.changeGenre()}>

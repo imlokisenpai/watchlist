@@ -71,7 +71,7 @@
     font-size: 2vh;
 }
 
-.genreSubtitle{
+.genreSub{
     text-align: left;
     width: 70vw;
     font-size: 4vh;
@@ -97,5 +97,22 @@ option:checked{
     }
     to{
         opacity: 1;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .genreContainer{
+        flex-direction: column-reverse;
+        width: 100vw;
+    }
+
+    #genreLabel{
+        min-width: 100%;
+        text-align: center;
+    }
+
+    .genreSub{
+        width: 100%;
+        text-align: center;
     }
 }

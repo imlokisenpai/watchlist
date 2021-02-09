@@ -40,14 +40,14 @@ export default class AnimeDiv extends Component{
                     <Load />
                     <div className="animesDiv">
                         <div className="genreContainer">
-                            <h2 className="genreSubtitle">{this.state.subtitle}</h2>
+                            <h2 className="genreSub">{this.state.subtitle}</h2>
                             <label id="genreLabel">
                                 <h3>Filter by genre:</h3>
                                 <select id="genreSelect" onChange={() => this.changeGenre()}>
                                 {
                                     this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
                                         return(
-                                            <option value={genre}>
+                                            <option value={genre} key={genre}>
                                                 {genre}
                                             </option>
                                         );

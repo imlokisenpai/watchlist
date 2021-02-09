@@ -47,7 +47,7 @@ export default class MovieDiv extends Component{
                                 {
                                     this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
                                         return(
-                                            <option value={genre}>
+                                            <option value={genre} key={genre}>
                                                 {genre}
                                             </option>
                                         );

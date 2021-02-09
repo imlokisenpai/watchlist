@@ -71,7 +71,7 @@ export default class Header extends Component {
                                 <AnimeInfo i={this.state.information} />
                             </Route>
                             <Route path="/watchlist/movies/" >
-                                <MovieInfo i={this.state.information} />
+                                <MovieInfo i={{inf: this.state.information, chgInf: this.updtInfo.bind(this)}}  />
                             </Route>
                             <Route path="/watchlist/series/" >
                                 <SerieInfo i={this.state.information} />

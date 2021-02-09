@@ -158,7 +158,7 @@
             "desc": "Scott, a master thief, gains the ability to shrink in scale with the help of a futuristic suit. Now he must rise to the occasion of his superhero status and protect his secret from unsavoury elements.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/antMan.jpg?raw=true",
             "genre": ["Action", "Heist", "Thriller", "Comedy", "Sci-Fi", "Superhero", "Adventure"],
-            "lenght": 118
+            "lenght": "1h 58m"
         },
         {
             "id": "movies/20",
@@ -166,7 +166,7 @@
             "desc": "On their way to reinforce the barrier that protects their city from demons, student exorcist Rin and his twin brother encounter a demon disguised as a young boy.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aoNoExorcistMovie.jpg?raw=true",
             "genre": ["Action", "Demons", "Fantasy", "Shounen", "Supernatural"],
-            "lenght": 90
+            "lenght": "1h 30m"
         },
         {
             "id": "movies/21",
@@ -174,7 +174,7 @@
             "desc": "Half-human, half-Atlantean Arthur is born with the ability to communicate with marine creatures. He goes on a quest to retrieve the legendary Trident of Atlan and protect the water world.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aquaman.jpg?raw=true",
             "genre": ["Action", "Adventure", "Fantasy", "Sci-Fi", "Superhero"],
-            "lenght": 142
+            "lenght": "2h 24m"
         },
         {
             "id": "movies/22",
@@ -182,7 +182,7 @@
             "desc": "Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengers.jpg?raw=true",
             "genre": ["Action", "Adventure", "Fantasy", "Sci-Fi", "Superhero"],
-            "lenght": 144,
+            "lenght": "2h 24m",
             "collection": "Avengers"
         },
         {
@@ -191,7 +191,7 @@
             "desc": "Tony Stark builds an artificial intelligence system named Ultron with the help of Bruce Banner. When the sentient Ultron makes plans to wipe out the human race, the Avengers set out to stop him.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersUltron.jpg?raw=true",
             "genre": ["Action", "Adventure", "Sci-Fi", "Superhero"],
-            "lenght": 142,
+            "lenght": "2h 22m",
             "collection": "Avengers"
         },
         {
@@ -200,7 +200,7 @@
             "desc": "The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersInfinityWar.jpg?raw=true",
             "genre": ["Action", "Sci-Fi", "Superhero"],
-            "lenght": 160,
+            "lenght": "2h 40m",
             "collection": "Avengers"
         },
         {
@@ -209,7 +209,7 @@
             "desc": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/avengersEndGame.jpg?raw=true",
             "genre": ["Action", "Adventure", "Fantasy", "Sci-Fi", "Superhero"],
-            "lenght": 182,
+            "lenght": "3h 2m",
             "collection": "Avengers"
         },
         {
@@ -218,7 +218,7 @@
             "desc": "After Gordon, Dent and Batman begin an assault on Gotham's organised crime, the mobs hire the Joker, a psychopathic criminal mastermind who offers to kill Batman and bring the city to its knees.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/batmanDarkKnight.jpg?raw=true",
             "genre": ["Action", "Thriller", "Mystery", "Superhero", "Crime", "Drama", "Adventure", "Noir", "Neo-noir"],
-            "lenght": 152
+            "lenght": "2h 32m"
         },
         {
             "id": "movies/27",
@@ -226,7 +226,7 @@
             "desc": "Hiro, a robotics prodigy, joins hands with Baymax in order to avenge his brother's death. They then team up with Hiro's friends to form a team of high-tech heroes.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/bigHero6.jpg?raw=true",
             "genre": ["Animation", "Sci-Fi", "Action", "Comedy", "Adventure"],
-            "lenght": 108
+            "lenght": "1h 48m"
         },
         {
             "id": "movies/28",
@@ -234,7 +234,7 @@
             "desc": "The life of 11-year-old Billy Elliot, a coal miner's son in Northern England, is forever changed one day when he stumbles upon a ballet class during his weekly boxing lesson. Before long, he finds himself in dance, demonstrating the kind of raw talent seldom seen by the class' exacting instructor, Mrs. Wilkinson. With a tart tongue and a never-ending stream of cigarettes in her hand, Mrs. Wilkinson's zest for teaching is revived when she sees Billy's potential.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/billyElliot.jpg?raw=true",
             "genre": ["Dance", "Drama", "Comedy-drama", "Comedy", "Musical"],
-            "lenght": 111
+            "lenght": "1h 51m"
         },
         {
             "id": "movies/29",
@@ -242,7 +242,7 @@
             "desc": "After his father's death, T'Challa returns home to Wakanda to inherit his throne. However, a powerful enemy related to his family threatens to attack his nation.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/blackPanther.jpg?raw=true",
             "genre": ["Action", "Adventure", "Fantasy", "Sci-Fi", "Superhero"],
-            "lenght": 135
+            "lenght": "2h 15m"
         },
         {
             "id": "movies/30",
@@ -250,7 +250,7 @@
             "desc": "Three students decide to go into the Maryland backwoods to cover the mystery behind the Blair Witch incidents. However, they lose their map and things take an unexpected turn.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/blairWitch.jpg?raw=true",
             "genre": ["Horror", "Indie", "Mystery", "Found Footage", "Psychological Horror", "Supernatural"],
-            "lenght": 105
+            "lenght": "1h 45m"
         },
         {
             "id": "movies/31",
@@ -258,7 +258,7 @@
             "desc": "All Might and Deku accept an invitation to visit I Island where they battle against a villain who takes the island hostage.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/bnhaTwoHeroes.jpg?raw=true",
             "genre": ["Anime", "Animation", "Superhero", "Action", "Sci-Fi", "Comedy", "Fantasy"],
-            "lenght": 95
+            "lenght": "1h 35m"
         },
         {
             "id": "movies/32",
@@ -266,7 +266,7 @@
             "desc": "Bella is now a vampire and lives happily with Edward and her daughter, Renesmee. When someone misinforms the Volturi that Renesmee is immortal, the latter set out to kill the child and the culprit.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/breakingDawn2.jpg?raw=true",
             "genre": ["Romance", "Adventure", "Teen", "Fantasy", "Drama"],
-            "lenght": 115
+            "lenght": "1h 55m"
         },
         {
             "id": "movies/33",
@@ -274,7 +274,7 @@
             "desc": "After a bear kills Kenai's older brother, he impulsively kills the bear to take revenge. As a punishment, he gets transformed into a bear and the only way out is to befriend a bear cub named Koda.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/brotherBear.jpg?raw=true",
             "genre": ["Animation", "Comedy", "Fantasy", "Adventure" ,"Comedy-drama"],
-            "lenght": 85,
+            "lenght": "1h 25m",
             "collection": "Brother Bear"
         },
         {
@@ -283,7 +283,7 @@
             "desc": "Now living as bears, Kenai and Koda help their human friend, Nita, who is about to get married. For that, they must travel back to the place where Kenai gave Nita an amulet to sever all their bonds.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/brotherBear2.jpg?raw=true",
             "genre": ["Animation", "Adventure", "Fantasy"],
-            "lenght": 73,
+            "lenght": "1h 13m",
             "collection": "Brother Bear"
         },
         {
@@ -292,7 +292,7 @@
             "desc": "During World War II, Steve Rogers decides to volunteer in an experiment that transforms his weak body. He must now battle a secret Nazi organisation headed by Johann Schmidt to defend his nation.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/captainAmerica.jpg?raw=true",
             "genre": ["Action", "Superhero", "Adventure", "War", "Sci-Fi", "Thriller"],
-            "lenght": 124,
+            "lenght": "2h 4m",
             "collection": "Captain America"
         },
         {
@@ -301,7 +301,7 @@
             "desc": "As Steve Rogers adapts to the complexities of a contemporary world, he joins Natasha Romanoff and Sam Wilson in his mission to uncover the secret behind a deadly, mysterious assassin.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/captainAmericaWinterSoldier.jpg?raw=true",
             "genre": ["Action", "Superhero", "Adventure", "Spy", "Sci-Fi", "Thriller"],
-            "lenght": 136,
+            "lenght": "2h 16m",
             "collection": "Captain America"
         },
         {
@@ -310,7 +310,7 @@
             "desc": "Friction arises between the Avengers when one group supports the government's decision to implement a law to control their powers while the other opposes it.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/captainAmericaCivilWar.jpg?raw=true",
             "genre": ["Action", "Superhero", "Adventure", "Sci-Fi", "Thriller"],
-            "lenght": 148,
+            "lenght": "2h 28m",
             "collection": "Captain America"
         },
         {
@@ -319,7 +319,7 @@
             "desc": "On the day of her prom night, seventeen-year-old Carrie discovers that she possesses telekinetic powers. She puts her powers to use when she is humiliated after a prank.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/carrie.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Drama"],
-            "lenght": 98
+            "lenght": "1h 38m"
         },
         {
             "id": "movies/39",
@@ -327,7 +327,7 @@
             "desc": "Lightning McQueen, a racing car, learns a hard lesson in life when he damages a lot of property in Radiator Springs. His task is to repair the damage done before he can get back on the road.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/cars.jpg?raw=true",
             "genre": ["Animation", "Comedy", "Road", "Adventure", "Sports"],
-            "lenght": 117,
+            "lenght": "1h 57m",
             "collection": "Cars"
         },
         {
@@ -336,7 +336,7 @@
             "desc": "Star racecar Lightning McQueen and his friend Mater journey abroad to participate in a Grand Prix race. The path to the championship becomes troublesome when Mater gets involved in espionage.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/cars2.jpg?raw=true",
             "genre": ["Animation", "Sports", "Action", "Spy", "Comedy", "Adventure"],
-            "lenght": 120,
+            "lenght": "2h",
             "collection": "Cars"
         },
         {
@@ -345,7 +345,7 @@
             "desc": "Lighting McQueen, a legendary racer, is overcome by new generation racers. He sets out to prove that he is the best racer in the world with the help of Cruz Ramirez.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/cars3.jpg?raw=true",
             "genre": ["Animation", "Comedy", "Road", "Adventure", "Sports"],
-            "lenght": 109,
+            "lenght": "1h 49m",
             "collection": "Cars"
         },
         {
@@ -354,7 +354,7 @@
             "desc": "A sports goods store owner accepts the job of basketball coach for his old high school where he was a champion athlete. Dismayed by the attitudes of his players, he sets out to change things.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/coachCarter.jpg?raw=true",
             "genre": ["Sports", "Coming-of-age story", "Drama", "Docudrama"],
-            "lenght": 136
+            "lenght": "2h 16m"
         },
         {
             "id": "movies/43",
@@ -362,7 +362,7 @@
             "desc": "Detective Angela approaches Constantine, an exorcist, to help her investigate her twin sister's death. As he digs deeper, he realises a dark conspiracy which could threaten the world.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/constantine.jpg?raw=true",
             "genre": ["Horror", "Fantasy", "Drama", "Action", "Thriller"],
-            "lenght": 121
+            "lenght": "2h 1m"
         },
         {
             "id": "movies/44",
@@ -370,7 +370,7 @@
             "desc": "Ajax, a twisted scientist, experiments on Wade Wilson, a mercenary, to cure him of cancer and give him healing powers. However, the experiment leaves Wade disfigured and he decides to exact revenge.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/deadpool.jpg?raw=true",
             "genre": ["Comedy", "Romance", "Adventure", "Action", "Fantasy", "Superhero", "Sci-Fi"],
-            "lenght": 109
+            "lenght": "1h 49m"
         },
         {
             "id": "movies/45",
@@ -378,7 +378,7 @@
             "desc": "After the demise of his father, Tim travels to Ryme city where he runs into his father's Pokemon partner, Pikachu. They team up and try to work on the case left unfinished by Tim's father.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/detectivePikachu.jpg?raw=true",
             "genre": ["Animation", "Adventure", "Sci-Fi", "Comedy", "Mystery", "Action", "Fantasy"],
-            "lenght": 105
+            "lenght": "1h 45m"
         },
         {
             "id": "movies/46",
@@ -386,7 +386,7 @@
             "desc": "In an accident, Stephen Strange, a famous neurosurgeon, loses the ability to use his hands. He goes to visit the mysterious Ancient One to heal himself and becomes a great sorcerer under her tutelage.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/doctorStrange.jpg?raw=true",
             "genre": ["Action", "Superhero", "Adventure", "Sci-Fi", "Fantasy"],
-            "lenght": 115
+            "lenght": "1h 55m"
         },
         {
             "id": "movies/47",
@@ -394,7 +394,7 @@
             "desc": "While a strange dark force terrorises New York City, British magizoologist Newt Scamander enlists a non-magical Jacob's help to round up some escaped magical creatures.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/fantasticBeasts.jpg?raw=true",
             "genre": ["Fantasy", "Adventure"],
-            "lenght": 133,
+            "lenght": "2h 13m",
             "collection": "Fantastic Beasts"
         },
         {
@@ -403,7 +403,7 @@
             "desc": "Gellert Grindelwald plans to raise an army of wizards to rule over non-magical beings. In response, Newt Scamander's former professor, Albus Dumbledore, seeks his help to stop him.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/fantasticBeasts2.jpg?raw=true",
             "genre": ["Fantasy", "Adventure", "Drama"],
-            "lenght": 133,
+            "lenght": "2h 13m",
             "collection": "Fantastic Beasts"
         },
         {
@@ -412,7 +412,7 @@
             "desc": "Carroll Shelby, an automotive designer, and Ken Miles, a race car driver, join hands to build a trailblazing vehicle and compete against the Ferrari race cars.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/fordVsFerrari.jpg?raw=true",
             "genre": ["Action", "Sports", "Adventure", "Drama"],
-            "lenght": 152
+            "lenght": "2h 32m"
         },
         {
             "id": "movies/50",
@@ -420,7 +420,7 @@
             "desc": "Victor invites trouble when he revives his dead pet dog Sparky after it is hit by a car. Now, Sparky looks like a monster and terrifies Victor's neighbours.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/frankenweenie.jpg?raw=true",
             "genre": ["Stop Motion", "Comedy", "Fantasy", "Animation", "Supernatural Horror", "Horror", "Sci-Fi"],
-            "lenght": 87
+            "lenght": "1h 27m"
         },
         {
             "id": "movies/51",
@@ -428,7 +428,7 @@
             "desc": "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/frozen.jpg?raw=true",
             "genre": ["Comedy", "Comedy-music", "Animation", "Fantasy", "Adventure", "Musical"],
-            "lenght": 109
+            "lenght": "1h 49m"
         },
         {
             "id": "movies/52",
@@ -436,7 +436,7 @@
             "desc": "A sports fan loses everything to his addiction to soccer. When he hits bottom, he fights to break his addiction and win back his wife.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/futbolYo.jpg?raw=true",
             "genre": ["Comedy", "Romance", "Sports"],
-            "lenght": 100
+            "lenght": "1h 40m"
         },
         {
             "id": "movies/53",
@@ -444,7 +444,7 @@
             "desc": "When obscenely rich hedge-fund manager James is convicted of fraud and sentenced to a stretch in San Quentin, the judge gives him one month to get his affairs in order. Knowing that he won't survive more than a few minutes in prison on his own, James desperately turns to Darnell -- a black businessman who's never even had a parking ticket -- for help. As Darnell puts James through the wringer, both learn that they were wrong about many things, including each other.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/getHard.jpg?raw=true",
             "genre": ["Comedy", "Crime"],
-            "lenght": 107
+            "lenght": "1h 47m"
         },
         {
             "id": "movies/54",
@@ -452,7 +452,7 @@
             "desc": "When a seemingly indestructible fire-breathing monster is created as a result of the testing of American nuclear weapons, the government takes help from a reclusive scientist to kill the monster.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/godzilla.jpg?raw=true",
             "genre": ["Kaiju", "Monster", "Thriller", "Horror", "Sci-Fi", "Drama"],
-            "lenght": 98,
+            "lenght": "1h 38m",
             "collection": "Godzilla"
         },
         {
@@ -461,7 +461,7 @@
             "desc": "The members of Monarch, an crypto-zoological organisation, must rely on the Godzilla and Mothra to defeat King Ghidorah and Rodan, after the former awakens other dormant Titans to destroy the world.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/godzilla2.jpg?raw=true",
             "genre": ["Action", "Fantasy", "Monster", "Sci-Fi", "Kaiju"],
-            "lenght": 132,
+            "lenght": "2h 12m",
             "collection": "Godzilla"
         },
         {
@@ -470,7 +470,7 @@
             "desc": "Peter escapes from the planet Morag with a valuable orb that Ronan the Accuser wants. He eventually forms a group with unwilling heroes to stop Ronan.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/guardiansGalaxy.jpg?raw=true",
             "genre": ["Action", "Comedy", "Fantasy", "Sci-Fi", "Superhero", "Adventure"],
-            "lenght": 125,
+            "lenght": "2h 5m",
             "collection": "Guardians of the Galaxy"
         },
         {
@@ -479,7 +479,7 @@
             "desc": "After a successful mission, Quill and his team of galactic defenders meet Ego, a man claiming to be Quill's father. However, they soon learn some disturbing truths about Ego.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/guardiansGalaxy2.jpg?raw=true",
             "genre": ["Action", "Comedy", "Fantasy", "Sci-Fi", "Superhero", "Adventure"],
-            "lenght": 138,
+            "lenght": "2h 18m",
             "collection": "Guardians of the Galaxy"
         },
         {
@@ -488,7 +488,7 @@
             "desc": "The true story of Pfc. Desmond T. Doss, who won the Congressional Medal of Honor despite refusing to bear arms during WWII on religious grounds. Doss was drafted and ostracized by fellow soldiers for his pacifist stance but went on to earn respect and adoration for his bravery, selflessness and compassion after he risked his life -- without firing a shot -- to save 75 men in the Battle of Okinawa.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hacksawRidge.jpg?raw=true",
             "genre": ["War", "Drama", "Historical Fiction"],
-            "lenght": 139
+            "lenght": "2h 19m"
         },
         {
             "id": "movies/59",
@@ -496,7 +496,7 @@
             "desc": "A mysterious man abducts Netero and overpowers Heaven's Arena. Worried, Gon and his friends decide to fight against the evil and secure their lives.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hxhLastMission.jpg?raw=true",
             "genre": ["Anime", "Animation", "Fantasy", "Action", "Adventure", "Shounen"],
-            "lenght": 98
+            "lenght": "1h 38m"
         },
         {
             "id": "movies/60",
@@ -504,7 +504,7 @@
             "desc": "Scientist Bruce Banner is exposed to gamma radiation which has its unique side effect. During his acts of resentments, Bruce transforms into an infuriated green monster.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hulk.jpg?raw=true",
             "genre": ["Action", "Sci-Fi", "Superhero", "Adventure"],
-            "lenght": 138
+            "lenght": "2h 18m"
         },
         {
             "id": "movies/61",
@@ -512,7 +512,7 @@
             "desc": "A deaf writer who retreated into the woods to live a solitary life must fight for her life in silence when a masked killer appears in her window.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hush.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Slasher"],
-            "lenght": 87
+            "lenght": "1h 27m"
         },
         {
             "id": "movies/62",
@@ -520,7 +520,7 @@
             "desc": "Hotaru is rescued by a spirit when she gets lost in a forest as a child. The two become friends, despite the spirit revealing that he will disappear if he is ever touched by a human.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hotarubiNoMoriE.jpg?raw=true",
             "genre": ["Animation", "Anime", "Drama", "Romance", "Shoujo"],
-            "lenght": 45
+            "lenght": "45m"
         },
         {
             "id": "movies/63",
@@ -528,7 +528,7 @@
             "desc": "A few Jewish soldiers are on an undercover mission to bring down the Nazi government and put an end to the war. Meanwhile, a woman wants to avenge the death of her family from a German officer.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ingloriousBasterds.jpg?raw=true",
             "genre": ["War", "Comedy", "Adventure", "Action", "Dark Comedy", "Drama"],
-            "lenght": 153
+            "lenght": "2h 33m"
         },
         {
             "id": "movies/64",
@@ -536,7 +536,7 @@
             "desc": "Eleven-year-old Riley moves to San Francisco, leaving behind her life in Minnesota. She and her five core emotions, Fear, Anger, Joy, Disgust and Sadness, struggle to cope with her new life.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/insideOut.jpg?raw=true",
             "genre": ["Animation", "Drama", "Comedy-drama", "Adventure", "Comedy", "Fantasy"],
-            "lenght": 102
+            "lenght": "1h 42m"
         },
         {
             "id": "movies/65",
@@ -544,7 +544,7 @@
             "desc": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ironMan.jpg?raw=true",
             "genre": ["Action", "War", "Adventure", "Superhero", "Sci-Fi", "Thriller"],
-            "lenght": 126,
+            "lenght": "2h 6m",
             "collection": "Iron Man"
         },
         {
@@ -553,7 +553,7 @@
             "desc": "Tony Stark is under pressure from various sources, including the government, to share his technology with the world. He must find a way to fight them while also tackling his other enemies.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ironMan2.jpg?raw=true",
             "genre": ["Action", "Sci-Fi", "Superhero", "Adventure"],
-            "lenght": 124,
+            "lenght": "2h 4m",
             "collection": "Iron Man"
         },
         {
@@ -562,7 +562,7 @@
             "desc": "Tony Stark encounters a formidable foe called the Mandarin. After failing to defeat his enemy, Tony embarks on a journey of self-discovery as he fights against the powerful Mandarin.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ironMan3.jpg?raw=true",
             "genre": ["Action", "Superhero", "Adventure", "Comedy", "Sci-Fi"],
-            "lenght": 131,
+            "lenght": "2h 11m",
             "collection": "Iron Man"
         },
         {
@@ -571,7 +571,7 @@
             "desc": "Seven helpless and bullied children are forced to face their worst nightmares when Pennywise, a shape-shifting clown, reappears. The clown, an ancient evil torments children before feeding on them.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/it.jpg?raw=true",
             "genre": ["Horror", "Adventure", "Mystery", "Thriller", "Drama", "Supernatural"],
-            "lenght": 135,
+            "lenght": "2h 15m",
             "collection": "It"
         },
         {
@@ -580,7 +580,7 @@
             "desc": "After 27 years, the Losers Club receive a call from their friend Mike Hanlon that Pennywise is back. They decide to honour their promise and return to their old town to end the evil clown for good.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/it2.jpg?raw=true",
             "genre": ["Horror", "Mystery", "Thriller", "Supernatural"],
-            "lenght": 170,
+            "lenght": "2h 50m",
             "collection": "It"
         },
         {
@@ -589,7 +589,7 @@
             "desc": "Hitler Youth cadet Jojo Betzler firmly believes in the ideals of Nazism manifested by his imaginary friend, Adolf Hitler. However, his foundations are shaken when he finds a Jewish girl in his house.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/jojoRabbit.jpg?raw=true",
             "genre": ["War", "Dark Comedy", "Comedy-drama", "Comedy", "Drama"],
-            "lenght": 108
+            "lenght": "1h 48m"
         },
         {
             "id": "movies/71",
@@ -597,7 +597,7 @@
             "desc": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him. Isolated, bullied and disregarded by society, Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/joker.jpg?raw=true",
             "genre": ["Drama", "Crime", "Thriller", "Psychological Thriller"],
-            "lenght": 122
+            "lenght": "2h 2m"
         },
         {
             "id": "movies/72",
@@ -605,7 +605,7 @@
             "desc": "When four students play with a magical video game, they are drawn to the jungle world of Jumanji, where they are trapped as their avatars. To return to the real world, they must finish the game.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/jumanji.jpg?raw=true",
             "genre": ["Comedy", "Adventure", "Fantasy", "Action"],
-            "lenght": 119
+            "lenght": "1h 59m"
         },
         {
             "id": "movies/73",
@@ -613,7 +613,7 @@
             "desc": "Jack, a struggling musician, meets with an accident during a blackout and wakes up to find out that only he remembers The Beatles. Later, he starts singing the band's songs to gain fame.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/yesterday.jpg?raw=true",
             "genre": ["Romance", "Musical", "Comedy-music", "Comedy", "Drama", "Romantic comedy", "Fantasy"],
-            "lenght": 117
+            "lenght": "1h 57m"
         },
         {
             "id": "movies/74",
@@ -621,7 +621,7 @@
             "desc": "Sebastian and Mia are drawn together by their common desire to do what they love. But as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/lalaland.jpg?raw=true",
             "genre": ["Romance", "Comedy", "Melodrama", "Musical", "Drama", "Comedy-drama"],
-            "lenght": 128
+            "lenght": "2h 8m"
         },
         {
             "id": "movies/75",
@@ -629,7 +629,7 @@
             "desc": "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/lionKing.jpg?raw=true",
             "genre": ["Animation", "Adventure", "Drama", "Musical", "Musical drama"],
-            "lenght": 89
+            "lenght": "1h 29m"
         },
         {
             "id": "movies/76",
@@ -637,7 +637,7 @@
             "desc": "Darryl and Vanessa adopt a dwarf, Calvin, when he is found at their doorstep. Little do they know that Calvin is actually a thief who has stolen a diamond and has hidden it in Vanessa's bag.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/littleMan.jpg?raw=true",
             "genre": ["Comedy", "Crime", "Slapstick"],
-            "lenght": 103
+            "lenght": "1h 43m"
         },
         {
             "id": "movies/77",
@@ -645,7 +645,7 @@
             "desc": "Paul, a famous football player, lands up in jail and meets the warden, Rudolph, a football fan, who asks him to put a team together consisting of prison inmates to challenge the prison guards.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/longestYard.jpg?raw=true",
             "genre": ["Comedy", "Drama", "Dark Comedy", "Prison", "Sports"],
-            "lenght": 113
+            "lenght": "1h 53m"
         },
         {
             "id": "movies/78",
@@ -653,7 +653,7 @@
             "desc": "To get back home and evade capture by Animal Control, Alex, Marty, Gloria and Melman embark on a riotous adventure as they join a travelling circus.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/madagascar3.jpg?raw=true",
             "genre": ["Animation", "Adventure", "Comedy"],
-            "lenght": 95
+            "lenght": "1h 35m"
         },
         {
             "id": "movies/79",
@@ -661,7 +661,7 @@
             "desc": "A stage director and his actor wife struggle through a gruelling, coast-to-coast divorce that pushes them to their personal and creative extremes.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/marriageStory.jpg?raw=true",
             "genre": ["Romance", "Drama", "Comedy", "Comedy-drama"],
-            "lenght": 137
+            "lenght": "2h 17m"
         },
         {
             "id": "movies/80",
@@ -669,7 +669,7 @@
             "desc": "After becoming unemployed, Louisa Clark is forced to accept one which requires her to take care of Will Traynor, a paralysed man. The two of them soon bond with each other.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/meBeforeYou.jpg?raw=true",
             "genre": ["Romance", "Drama"],
-            "lenght": 111
+            "lenght": "1h 51m"
         },
         {
             "id": "movies/81",
@@ -677,7 +677,7 @@
             "desc": "Agent M, a probationary member of the MIB, teams up with Agent H and uncovers a sinister plot that reveals a traitor in the organisation aiding an alien invasion.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/mibInternational.jpg?raw=true",
             "genre": ["Action", "Comedy", "Sci-Fi"],
-            "lenght": 115
+            "lenght": "1h 55m"
         },
         {
             "id": "movies/82",
@@ -685,7 +685,7 @@
             "desc": "A best-selling novelist is on his way home after completing his latest book when he meets with a car accident. He is rescued by an obsessed fan, only to discover that he is her prisoner.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/misery.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Drama", "Psychological Thriller", "Dark Comedy", "Crime"],
-            "lenght": 107
+            "lenght": "1h 47m"
         },
         {
             "id": "movies/83",
@@ -693,7 +693,7 @@
             "desc": "Young Mulan is distraught to learn that her weak father must join the army to fight the invading Huns. Unwilling to endanger his life, she disguises herself as a man and joins the army in his place.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/mulan.jpg?raw=true",
             "genre": ["Animation", "Martial Arts", "Musical", "Action", "Fantasy", "Historical Fiction", "War", "Adventure", "Comedy-drama", "Drama"],
-            "lenght": 88
+            "lenght": "1h 28m"
         },
         {
             "id": "movies/84",
@@ -701,7 +701,7 @@
             "desc": "Colin, an aspiring director who works with Laurence Olivier, is a part of a movie starring Marilyn Monroe. During the film shoot, he forms a bond with Marilyn.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/myWeekWithMarilyn.jpg?raw=true",
             "genre": ["Drama", "Historical Fiction"],
-            "lenght": 101
+            "lenght": "1h 41m"
         },
         {
             "id": "movies/85",
@@ -709,7 +709,7 @@
             "desc": "Neighbors band together to recover their money from the thieves that scammed them.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/odiseaGiles.jpg?raw=true",
             "genre": ["History", "Thriller", "Crime", "Comedy", "Drama", "Historical Drama", "Adventure", "Heist"],
-            "lenght": 120
+            "lenght": "2h"
         },
         {
             "id": "movies/86",
@@ -717,7 +717,7 @@
             "desc": "It's a story of four best friends who go on a trip before one of them leaves for military service; they get involved in an incident that will change their lives forever.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/oneWayTrip.jpg?raw=true",
             "genre": ["Drama", "Crime"],
-            "lenght": 93
+            "lenght": "1h 33m"
         },
         {
             "id": "movies/87",
@@ -725,7 +725,7 @@
             "desc": "A widow and her two daughters use an Ouija board to help people move on with life. They interact with a spirit but are unaware of the fact that it has possessed Doris, the youngest daughter.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/ouija.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Supernatural"],
-            "lenght": 99
+            "lenght": "1h 39m"
         },
         {
             "id": "movies/88",
@@ -733,7 +733,7 @@
             "desc": "Katie and Micah, a young couple, move into a suburban residence and feel the presence of evil forces. They install cameras which capture all the incidents, noises and evil occurrences in the house.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/paranormalActivity.jpg?raw=true",
             "genre": ["Horror", "Supernatural", "Indie", "Thriller", "Mystery"],
-            "lenght": 86,
+            "lenght": "1h 26m",
             "collection": "Paranormal Activity"
         },
         {
@@ -742,7 +742,7 @@
             "desc": "Family man Daniel installs security cameras in his new house after a break-in. But what follows over the next few days leads his daughter to conclude that their house may be haunted.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/paranormalActivity2.jpg?raw=true",
             "genre": ["Horror", "Suspense", "Mystery"],
-            "lenght": 101,
+            "lenght": "1h 41m",
             "collection": "Paranormal Activity"
         },
         {
@@ -751,7 +751,7 @@
             "desc": "Alex experiences strange events after she meets her neighbour's son Robbie. Her life turns into a nightmare when one by one all her dear ones are murdered.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/paranormalActivity4.jpg?raw=true",
             "genre": ["Horror", "Mystery", "Thriller"],
-            "lenght": 87,
+            "lenght": "1h 27m",
             "collection": "Paranormal Activity"
         },
         {
@@ -760,7 +760,7 @@
             "desc": "The Creeds move to a new house in the countryside. Their house is perfect, except for the mysterious cemetery in the woods behind the house.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/petSematary.jpg?raw=true",
             "genre": ["Horror", "Supernatural", "Fantasy", "Drama", "Thriller", "Mystery"],
-            "lenght": 103
+            "lenght": "1h 43m"
         },
         {
             "id": "movies/92",
@@ -768,7 +768,7 @@
             "desc": "When the police take time to find Keller Dover's daughter and her friend, he decides to go on a search himself. His desperation leads him closer to finding the truth and also jeopardises his own life.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/prisoners.jpg?raw=true",
             "genre": ["Thriller", "Drama", "Crime", "Crime Fiction"],
-            "lenght": 154
+            "lenght": "2h 34m"
         },
         {
             "id": "movies/93",
@@ -776,7 +776,7 @@
             "desc": "The state of SEAUn introduces the Sybil System in a bid for peace and safety, but the cracks soon begin to show. Inspector Tsunemori is sent to investigate.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/psychoPassMovie.jpg?raw=true",
             "genre": ["Anime", "Animation", "Crime", "Action", "Sci-Fi"],
-            "lenght": 113
+            "lenght": "1h 53m"
         },
         {
             "id": "movies/94",
@@ -784,7 +784,7 @@
             "desc": "Angela, a reporter, and Scott, her cameraman, find themselves locked inside a building, which is quarantined by the CDC when humans in it turn into zombies after getting infected by a virus.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/quarantine.jpg?raw=true",
             "genre": ["Horror", "Sci-Fi", "Found Footage", "Thriller"],
-            "lenght": 89
+            "lenght": "1h 29m"
         },
         {
             "id": "movies/95",
@@ -792,7 +792,7 @@
             "desc": "A group of thieves band together to carry out what would become one of the most famous bank heists in the history of Argentina.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/roboSiglo.jpg?raw=true",
             "genre": ["Comedy", "Thriller", "Mystery", "Crime"],
-            "lenght": 114
+            "lenght": "1h 54m"
         },
         {
             "id": "movies/96",
@@ -800,7 +800,7 @@
             "desc": "After completing his studies, Reginald begins to perform rock music at local pubs. Later, he meets John Reid, a music manager, who helps him rise to fame, but also creates chaos in his life.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/rocketman.jpg?raw=true",
             "genre": ["Musical", "Fantasy", "Drama", "Musical drama"],
-            "lenght": 122
+            "lenght": "2h 2m"
         },
         {
             "id": "movies/97",
@@ -808,7 +808,7 @@
             "desc": "Asuna and the gang convince Kirito to come back for a new game called Ordinal Scale. Once they're inside the game, they realize it will be anything but fun.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/sao.jpg?raw=true",
             "genre": ["Anime", "Action", "Adventure", "Animation", "Fantasy", "Sci-Fi"],
-            "lenght": 120
+            "lenght": "2h"
         },
         {
             "id": "movies/98",
@@ -816,7 +816,7 @@
             "desc": "Hal, a shallow man who only dates attractive women, falls in love with Rosemary, after being hypnotized to see the inner beauty of women, not knowing that she is obese.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/shallowHal.jpg?raw=true",
             "genre": ["Comedy", "Romantic comedy", "Drama", "Romance", "Fantasy"],
-            "lenght": 114
+            "lenght": "1h 54m"
         },
         {
             "id": "movies/99",
@@ -824,7 +824,7 @@
             "desc": "After being abandoned at a fair, Billy constantly searches for his mother. His life, however, takes a huge turn when he inherits the superpowers of a powerful wizard.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/shazam.jpg?raw=true",
             "genre": ["Comedy", "Superhero", "Fantasy", "Action", "Adventure", "Sci-Fi"],
-            "lenght": 132
+            "lenght": "2h 12m"
         },
         {
             "id": "movies/100",
@@ -832,7 +832,7 @@
             "desc": "Dapper Koala Buster Moon presides over a once-grand theater that has fallen on hard times. An eternal optimist, and a bit of a scoundrel, he loves his theater above all and will do anything to preserve it. Facing the crumbling of his life's ambition, he takes one final chance to restore his fading jewel to its former glory by producing the world's greatest singing competition. Five contestants emerge: a mouse, a timid elephant, a pig, a gorilla and a punk-rock porcupine.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/sing.jpg?raw=true",
             "genre": ["Musical", "Drama", "Animation", "Comedy", "Comedy-music"],
-            "lenght": 114
+            "lenght": "1h 54m"
         },
         {
             "id": "movies/101",
@@ -840,7 +840,7 @@
             "desc": "With the recession hitting people hard in Dublin during the 80s, Conor is moved from his private school to a tough inner-city alternative. As he tries to adjust to a new way of life, he decides to start his own band.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/singStreet.jpg?raw=true",
             "genre": ["Musical", "Romance", "Comedy", "Drama"],
-            "lenght": 106
+            "lenght": "1h 46m"
         },
         {
             "id": "movies/102",
@@ -848,7 +848,7 @@
             "desc": "True-crime writer Ellison Oswald is in a slump; he hasn't had a best seller in more than 10 years and is becoming increasingly desperate for a hit. So, when he discovers the existence of a snuff film showing the deaths of a family, he vows to solve the mystery. He moves his own family into the victims' home and gets to work. However, when old film footage and other clues hint at the presence of a supernatural force, Ellison learns that living in the house may be fatal.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/sinister.jpg?raw=true",
             "genre": ["Horror", "Supernatural", "Thriller", "Mystery"],
-            "lenght": 110
+            "lenght": "1h 50m"
         },
         {
             "id": "movies/103",
@@ -856,7 +856,7 @@
             "desc": "Ever wonder where your passion, your dreams and your interests come from? What is it that makes you... YOU? In 2020, Pixar Animation Studios takes you on a journey from the streets of New York City to the cosmic realms to discover the answers to life's most important questions.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/soul.jpg?raw=true",
             "genre": ["Animation", "Fantasy", "Drama", "Adventure", "Comedy", "Musical"],
-            "lenght": 107
+            "lenght": "1h 47m"
         },
         {
             "id": "movies/104",
@@ -864,7 +864,7 @@
             "desc": "Peter Parker tries to stop the Vulture from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/spidermanHomecoming.jpg?raw=true",
             "genre": ["Action", "Sci-Fi", "Teen", "Superhero", "Adventure", "Comedy", "Fantasy"],
-            "lenght": 133,
+            "lenght": "2h 13m",
             "collection": "Spider-Man"
         },
         {
@@ -873,7 +873,7 @@
             "desc": "Peter Parker, the beloved superhero Spider-Man, faces four destructive elemental monsters while on holiday in Europe. Soon, he receives help from Mysterio, a fellow hero with mysterious origins.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/spidermanFarFromHome.jpg?raw=true",
             "genre": ["Action", "Sci-Fi", "Teen", "Superhero", "Adventure", "Comedy", "Fantasy"],
-            "lenght": 129,
+            "lenght": "2h 9m",
             "collection": "Spider-Man"
         },
         {
@@ -882,7 +882,7 @@
             "desc": "David, a security guard, survives a fatal train accident, only to be tracked down by a man named Elijah Price, who claims that David is blessed with superhuman abilities.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/unbreakable.jpg?raw=true",
             "genre": ["Superhero", "Suspense", "Mystery", "Psychological Thriller", "Sci-Fi", "Supernatural", "Thriller", "Drama", "Action", "Adventure"],
-            "lenght": 107,
+            "lenght": "1h 47m",
             "collection": "Unbreakable Trilogy"
         },
         {
@@ -891,7 +891,7 @@
             "desc": "Kevin, who is suffering from dissociative identity disorder and has 23 alter egos, kidnaps three teenagers. They must figure out his friendly personas before he unleashes his 24th personality.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/split.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Psychological Horror"],
-            "lenght": 117,
+            "lenght": "1h 57m",
             "collection": "Unbreakable Trilogy"
         },
         {
@@ -900,7 +900,7 @@
             "desc": "Stu, an ordinary Uber driver, gets embroiled in a mess when his passenger, a detective, sets out to chase a dangerous criminal.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/stuber.jpg?raw=true",
             "genre": ["Action", "Buddy", "Thriller", "Crime"],
-            "lenght": 93
+            "lenght": "1h 33m"
         },
         {
             "id": "movies/109",
@@ -908,7 +908,7 @@
             "desc": "A humiliated Polish teen retreats into a sinister virtual world.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/suicideRoom.jpg?raw=true",
             "genre": ["Romance", "Animation", "Drama", "Thriller"],
-            "lenght": 120
+            "lenght": "2h"
         },
         {
             "id": "movies/110",
@@ -916,7 +916,7 @@
             "desc": "Benjamin vows to seek revenge from the judge who framed him for a crime he did not commit. In order to do so, he reopens his barbershop and begins murdering his customers with a razor.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/sweenyTodd.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Crime Fiction", "Musical", "Drama", "Musical drama"],
-            "lenght": 117
+            "lenght": "1h 57m"
         },
         {
             "id": "movies/111",
@@ -924,7 +924,7 @@
             "desc": "Will Bloom returns home to care for his dying father, who had a penchant for telling unbelievable stories. After he passes away, Will tries to find out if his tales were really true.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theBigFish.jpg?raw=true",
             "genre": ["Comedy", "Fantasy", "Romance", "Adventure", "War", "Drama"],
-            "lenght": 125
+            "lenght": "2h 5m"
         },
         {
             "id": "movies/112",
@@ -932,7 +932,7 @@
             "desc": "Greta accepts the job of a nanny for a wealthy couple's child and is disturbed when she finds out the child is a doll. However, when she mishandles the doll, she is shocked to find that it is alive.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theBoy.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Mystery"],
-            "lenght": 98
+            "lenght": "1h 38m"
         },
         {
             "id": "movies/113",
@@ -940,7 +940,7 @@
             "desc": "Five high school students, all with different mindsets, face detainment in their school library on a Saturday morning. As time passes by, their egos fade and they become close buddies.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theBreakfastClub.jpg?raw=true",
             "genre": ["Comedy", "Teen", "Drama", "Comedy-drama"],
-            "lenght": 97
+            "lenght": "1h 37m"
         },
         {
             "id": "movies/114",
@@ -948,7 +948,7 @@
             "desc": "Grug and his family embark on a journey to search for a new place to live after their cave is destroyed. A young boy helps them trek through unknown places to find new shelter.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theCroods.jpg?raw=true",
             "genre": ["Animation", "Adventure", "Fantasy", "Comedy"],
-            "lenght": 99
+            "lenght": "1h 39m"
         },
         {
             "id": "movies/115",
@@ -956,7 +956,7 @@
             "desc": "A group of friends go on an expedition to a cave. Their expedition turns into a nightmare when they get trapped inside the cave and are pursued by blood-thirsty predators.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theDescent.jpg?raw=true",
             "genre": ["Horror", "Adventure", "Thriller", "Drama"],
-            "lenght": 109
+            "lenght": "1h 49m"
         },
         {
             "id": "movies/116",
@@ -964,7 +964,7 @@
             "desc": "Aladeen, a brutal dictator, travels to New York in order to address the United Nations Security Council. However, his plans go south when a hitman hired by his uncle, Tamir, kidnaps him.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theDictator.jpg?raw=true",
             "genre": ["Comedy", "Dark Comedy"],
-            "lenght": 99
+            "lenght": "1h 39m"
         },
         {
             "id": "movies/117",
@@ -972,7 +972,7 @@
             "desc": "The members of a wealthy family find themselves in trouble when they are held hostage by a murderer during the Purge, a period where all criminal activity is legalised.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thePurge.jpg?raw=true",
             "genre": ["Horror", "Sci-Fi", "Mystery", "Thriller", "Fantasy", "Crime"],
-            "lenght": 85,
+            "lenght": "1h 25m",
             "collection": "The Purge"
         },
         {
@@ -981,7 +981,7 @@
             "desc": "The New Founding Fathers of America (NFFA) decides to test a sociological theory that aims at reducing the crime rates but things get out of hand when two rival groups face each other.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theFirstPurge.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Crime", "Action", "Sci-Fi"],
-            "lenght": 112,
+            "lenght": "1h 52m",
             "collection": "The Purge"
         },
         {
@@ -990,7 +990,7 @@
             "desc": "Sara Price, an American woman, travels to a forest in Japan in search of her missing twin sister. However, things change after she is confronted by demonic spirits.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theForest.jpg?raw=true",
             "genre": ["Horror", "Drama", "Thriller", "Mystery"],
-            "lenght": 95
+            "lenght": "1h 35m"
         },
         {
             "id": "movies/120",
@@ -998,7 +998,7 @@
             "desc": "Dr Don Shirley is a world-class African-American pianist, who is about to embark on a concert tour in the Deep South in 1962. In need of a driver and protection, Shirley recruits Tony Lip, a tough-talking bouncer from an Italian-American neighbourhood in the Bronx. Despite their differences, the two men soon develop an unexpected bond while confronting racism and danger in an era of segregation.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theGreenBook.jpg?raw=true",
             "genre": ["Comedy", "Road", "Drama", "Musical", "Comedy-drama", "Buddy"],
-            "lenght": 130
+            "lenght": "2h 10m"
         },
         {
             "id": "movies/121",
@@ -1006,7 +1006,7 @@
             "desc": "Paul Edgecomb, the head guard of a prison, meets an inmate, John Coffey, a black man who is accused of murdering two girls. His life changes drastically when he discovers that John has a special gift.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theGreenMile.jpg?raw=true",
             "genre": ["Drama", "Fantasy", "Mystery", "Crime"],
-            "lenght": 189
+            "lenght": "3h 9m"
         },
         {
             "id": "movies/122",
@@ -1014,7 +1014,7 @@
             "desc": "John, a wolf hunter, is one of the eight survivors of a plane crash. He must fight off a pack of hungry wolves, mortal injuries and the icy elements to get himself and the survivors back to safety.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theGrey.jpg?raw=true",
             "genre": ["Action", "Adventure", "Thriller", "Drama"],
-            "lenght": 117
+            "lenght": "1h 57m"
         },
         {
             "id": "movies/123",
@@ -1022,7 +1022,7 @@
             "desc": "Jessica, a mean-spirited teen, is convinced that she has a perfect life. However, everything changes when she wakes up one morning in the body of a 30-year-old man named Clive, who is a criminal.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theHotChick.jpg?raw=true",
             "genre": ["Comedy", "Teen"],
-            "lenght": 104
+            "lenght": "1h 44m"
         },
         {
             "id": "movies/124",
@@ -1030,7 +1030,7 @@
             "desc": "Jack Skellington, a being from Halloween Town, finds Christmas Town and is instantly enchanted. The situation becomes riveting when his obsession with Christmas leads him to abduct Santa Claus.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theNightmareBeforeChristmas.jpg?raw=true",
             "genre": ["Animation", "Fantasy", "Musical"],
-            "lenght": 76
+            "lenght": "1h 16m"
         },
         {
             "id": "movies/125",
@@ -1038,7 +1038,7 @@
             "desc": "Jack and his family move into an isolated hotel with a violent past. Living in isolation, Jack begins to lose his sanity, which affects his family members.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theShining.jpg?raw=true",
             "genre": ["Horror", "Psychological Horror", "Mystery"],
-            "lenght": 146
+            "lenght": "2h 26m"
         },
         {
             "id": "movies/126",
@@ -1046,7 +1046,7 @@
             "desc": "Stephen Hawking, an excellent astrophysics student working on his research, learns that he suffers from motor neurone disease and has around two years to live.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theTheoryOfEverything.jpg?raw=true",
             "genre": ["Romance", "Historical Drama", "Melodrama", "Drama"],
-            "lenght": 124
+            "lenght": "2h 4m"
         },
         {
             "id": "movies/127",
@@ -1054,7 +1054,7 @@
             "desc": "Becca and Tyler plan a week-long stay at their grandparents' place, whom they have never seen. Little do they know that their visit will be the most terrifying experience of their lives.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theVisit.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Found Footage"],
-            "lenght": 94
+            "lenght": "1h 34m"
         },
         {
             "id": "movies/128",
@@ -1062,7 +1062,7 @@
             "desc": "Thor is exiled by his father, Odin, the King of Asgard, to the Earth to live among mortals. When he lands on Earth, his trusted weapon Mjolnir is discovered and captured by S.H.I.E.L.D.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thor.jpg?raw=true",
             "genre": ["Action", "Superhero", "Fantasy", "Adventure", "Sci-Fi"],
-            "lenght": 115,
+            "lenght": "1h 55m",
             "collection": "Thor"
         },
         {
@@ -1071,7 +1071,7 @@
             "desc": "Thor sets out on a journey to defeat Malekith, the leader of the Dark Elves when he returns to Asgard to retrieve a dangerous weapon and fulfill his desire of destroying the Nine Realms.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thorDarkWorld.jpg?raw=true",
             "genre": ["Action", "Superhero", "Fantasy", "Adventure", "Sci-Fi"],
-            "lenght": 112,
+            "lenght": "1h 52m",
             "collection": "Thor"
         },
         {
@@ -1080,7 +1080,7 @@
             "desc": "Deprived of his mighty hammer Mjolnir, Thor must escape the other side of the universe to save his home, Asgard, from Hela, the goddess of death.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thorRagnarok.jpg?raw=true",
             "genre": ["Action", "Fantasy", "Buddy", "Comedy", "Sci-Fi", "Superhero", "Adventure"],
-            "lenght": 130,
+            "lenght": "2h 10m",
             "collection": "Thor"
         },
         {
@@ -1089,7 +1089,7 @@
             "desc": "Mei and Satsuki shift to a new house to be closer to their mother who is in the hospital. They soon become friends with Totoro, a giant rabbit-like creature who is a spirit.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/totoro.jpg?raw=true",
             "genre": ["Anime", "Adventure", "Animation", "Fantasy"],
-            "lenght": 88
+            "lenght": "1h 28m"
         },
         {
             "id": "movies/132",
@@ -1097,7 +1097,7 @@
             "desc": "Louis Zamperini, a US Olympic track record holder, pulls himself through a plane crash in the Second World War only to be left at the mercy of nature and eventually caged up as a prisoner of war.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/unbroken.jpg?raw=true",
             "genre": ["War", "Drama", "Action", "Sports"],
-            "lenght": 137
+            "lenght": "2h 17m"
         },
         {
             "id": "movies/133",
@@ -1105,7 +1105,7 @@
             "desc": "Six friends get a shock of their lives when they receive a message from one of their deceased friends while video chatting. While they think it is a prank, they are soon exposed to some unruly events.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/unfriended.jpg?raw=true",
             "genre": ["Horror", "Drama", "Supernatural", "Thriller", "Mystery"],
-            "lenght": 83,
+            "lenght": "1h 23m",
             "collection": "Unfriended"
         },
         {
@@ -1114,7 +1114,7 @@
             "desc": "When a teen finds a laptop with a cache of hidden files, he and his friend discover that the previous owner has access to the dark web and is watching over them.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/unfriended2.jpg?raw=true",
             "genre": ["Horror", "Thriller", "Crime", "Mystery"],
-            "lenght": 94,
+            "lenght": "1h 34m",
             "collection": "Unfriended"
         },
         {
@@ -1123,7 +1123,7 @@
             "desc": "While trying to take down Carlton, the CEO of Life Foundation, Eddie, a journalist, investigates experiments of human trials. Unwittingly, he gets merged with a symbiotic alien with lethal abilities.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/venom.jpg?raw=true",
             "genre": ["Action", "Sci-Fi", "Adventure", "Horror", "Superhero", "Thriller"],
-            "lenght":  140
+            "lenght": "2h 20m"
         },
         {
             "id": "movies/136",
@@ -1131,7 +1131,7 @@
             "desc": "Violet Evergarden tutors a young lady at a private women's academy, but still grieves for the only person who ever brought her happiness.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/violetEvergardenMovie.jpg?raw=true",
             "genre": ["Anime", "Animation", "Romance", "Drama", "Fantasy"],
-            "lenght": 120
+            "lenght": "2h"
         },
         {
             "id": "movies/137",
@@ -1139,7 +1139,7 @@
             "desc": "Eva Khatchadourian is a travel writer/publisher who gives up her beloved freedom and bohemian lifestyle to have a child with her husband, Franklin. Pregnancy does not seem to agree with Eva, but what's worse, when she does give birth to a baby boy named Kevin, she can't seem to bond with him. When Kevin grows from a fussy, demanding toddler into a sociopathic teen, Eva is forced to deal with the aftermath of her son's horrific act.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/weNeedToTalkAboutKevin.jpg?raw=true",
             "genre": ["Psychological Thriller", "Drama", "Thriller", "Mystery"],
-            "lenght": 112
+            "lenght": "1h 52m"
         },
         {
             "id": "movies/138",
@@ -1147,7 +1147,7 @@
             "desc": "Andrew enrols in a music conservatory to become a drummer. But he is mentored by Terence Fletcher, whose unconventional training methods push him beyond the boundaries of reason and sensibility.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/whiplash.jpg?raw=true",
             "genre": ["Musical", "Drama", "Indie"],
-            "lenght": 107
+            "lenght": "1h 47m"
         },
         {
             "id": "movies/139",
@@ -1155,7 +1155,7 @@
             "desc": "Two disgraced FBI agents, Kevin Copeland and Marcus Copeland, are assigned a new case where they must protect Tiffany and Brittany Wilson, two cruise line heiresses, from getting abducted.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/whiteChicks.jpg?raw=true",
             "genre": ["Comedy", "Crime"],
-            "lenght": 115
+            "lenght": "1h 55m"
         },
         {
             "id": "movies/140",
@@ -1163,7 +1163,7 @@
             "desc": "A Capitol policeman leaps into action to save his daughter and protect the American president from a group of terrorists who have seized the White House.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/whiteHouseDown.jpg?raw=true",
             "genre": ["Action", "Thriller", "Drama", "Political Thriller"],
-            "lenght": 137
+            "lenght": "2h 17m"
         },
         {
             "id": "movies/141",
@@ -1171,7 +1171,7 @@
             "desc": "Ralph and his best friend, Vanellope, face various challenges as they visit the uncharted land of the Internet through a Wi-Fi router at the arcade to save the game, Sugar Rush.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/wifiRalph.jpg?raw=true",
             "genre": ["Animation", "Adventure", "Comedy", "Fantasy"],
-            "lenght": 116
+            "lenght": "1h 56m"
         },
         {
             "id": "movies/142",
@@ -1179,7 +1179,7 @@
             "desc": "Hana marries a wolf man and raises their two children alone after he dies. They move to the countryside and the children have adventures in the woods and at school.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/wolfChildren.jpg?raw=true",
             "genre": ["Anime", "Fantasy", "Animation", "Drama"],
-            "lenght": 117
+            "lenght": "1h 57m"
         },
         {
             "id": "movies/143",
@@ -1187,7 +1187,7 @@
             "desc": "A lawyer is assigned to travel to a village to examine a house that belonged to a recently deceased woman. He discovers the spirit of the same woman and learns that she's killing the village children.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/womanInBlack.jpg?raw=true",
             "genre": ["Horror", "Fantasy", "Thriller", "Drama"],
-            "lenght": 95
+            "lenght": "1h 35m"
         },
         {
             "id": "movies/144",
@@ -1195,7 +1195,7 @@
             "desc": "Derek, a model, loses hope when his rival wins a coveted title. In a bid to revive his career, a designer offers him a runway show but ends up convincing him to kill the prime minister of Malaysia.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/zoolander.jpg?raw=true",
             "genre": ["Comedy"],
-            "lenght": 89,
+            "lenght": "1h 29m",
             "collection": "Zoolander"
         },
         {
@@ -1204,7 +1204,7 @@
             "desc": "After being in isolation for years, Derek and Hansel find themselves recruited by Interpol to unearth the mystery behind the assassinations of prominent celebrities from all over the world.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/zoolander2.jpg?raw=true",
             "genre": ["Comedy"],
-            "lenght": 108,
+            "lenght": "1h 48m",
             "collection": "Zoolander"
         },
         {
@@ -1213,7 +1213,7 @@
             "desc": "When Po the Panda, a kung fu enthusiast, gets selected as the Dragon Warrior, he decides to team up with the Furious Five and destroy the evil forces that threaten the Valley of Peace.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/kungFuPanda.jpg?raw=true",
             "genre": ["Animation", "Action", "Adventure", "Comedy", "Martial Arts"],
-            "lenght": 95,
+            "lenght": "1h 35m",
             "collection": "Kung Fu Panda"
         },
         {
@@ -1222,7 +1222,7 @@
             "desc": "Dragon Warrior Po takes it upon himself to foil the plans of murderous peacock Shen who intends to conquer China and destroy kung fu. For this, Po has to unveil the mystery of his own past.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/kungFuPanda2.jpg?raw=true",
             "genre": ["Animation", "Adventure", "Action", "Comedy", "Martial Arts", "Comedy-drama"],
-            "lenght": 92,
+            "lenght": "1h 32m",
             "collection": "Kung Fu Panda"
         }
     ]

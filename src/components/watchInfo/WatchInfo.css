@@ -1,7 +1,6 @@
 .globalContainer{
-    position: fixed;
     width: 90%;
-    height: 100%;
+    min-height: 80vh;
     margin-left: 5%;
     margin-top: 15vh;
     margin-bottom: 10px;
@@ -50,14 +49,14 @@
 
 .title{
     margin-left: 5%;
-    height: 30px;
+    height: 7vh;
     width: 90%;
 }
 
 .title h2{
     margin-top: 5px;
     text-align: center;
-    font-size: 4vh;
+    font-size: 3.5vh;
     color: #fff;
 
 }
@@ -163,6 +162,35 @@
 
 .movieInfoBottom{
     margin-bottom: 20px;
+}
+
+.collectionMovies{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    gap: 5%;
+    margin-top: 20px;
+    padding-bottom: 5vh;
+}
+
+.movieCollectionDiv{
+    max-width: 150px;
+    max-height: 200px;
+    width: 40%;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    z-index: 75;
+    box-shadow: 2px 2px 5px #007;
+}
+
+.movieCollectionDiv:focus, .movieCollectionDiv:hover{
+    box-shadow: 0px 0px 3px 4px #fff;
+}
+
+.movieCollectionImg{
+    width: 100%;
 }
 
 @media screen and (max-width: 725px){

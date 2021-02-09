@@ -1,6 +1,6 @@
 .seeingDiv{
     display: flex;
-    margin: 10vh 10px 20px 10px;
+    margin: 5vh 10px 20px 10px;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
@@ -26,7 +26,7 @@
     outline: none;
 }
 
-.seeingBlock:focus{
+.seeingBlock:focus, .seeingBlock:hover{
     box-shadow: 0px 0px 3px 4px #fff;
 }
 

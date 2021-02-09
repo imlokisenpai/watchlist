@@ -1,6 +1,6 @@
 .animesDiv{
     display: flex;
-    margin: 15vh 10px 20px 10px;
+    margin: 11vh 10px 20px 10px;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
@@ -16,6 +16,8 @@
 .animeBlock{
     width: 15vw;
     min-width: 100px;
+    max-height: 400px;
+    max-width: 300px;
     background: #000;
     border-radius: 5px;
     box-shadow: 2px 2px 5px #007;
@@ -26,7 +28,7 @@
     outline: none;
 }
 
-.animeBlock:focus{
+.animeBlock:focus, .animeBlock:hover{
     box-shadow: 0px 0px 3px 4px #fff;
 }
 
@@ -39,19 +41,44 @@
 }
 
 .selectGenre{
-    margin-top: 15vh;
-    z-index: 1000;
+    width: 90vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    z-index: 100;
+    text-align: end;
+    display: flex;
+    gap: 0;
+    color: #fff;
+    text-shadow: 2px 2px 5px #007;
 }
 
-.slctGenre{
-    z-index: 1000;
+#genreSelect{
+    box-shadow: 2px 2px 5px #007;
+    background: #2a2b2bf7;
+    color: #fff;
+    outline: none;
+    border: none;
+    width: 10vw;
+    height: 4vh;
 }
 
-.genreSelect{
-    background: #007;
-    z-index: 1000;
+#slctGenre{
+    width: 30vw;
+    font-size: 2vh;
 }
 
 .genreSubtitle{
-    z-index: 1000;
+    text-align: left;
+    width: 70vw;
+    font-size: 4vh;
+}
+
+.subtitleBar{
+    width: 100vw;
+    height: 1px;
+    border: none;
+    border-top: 2px solid #fff;
+    opacity: 0.75;
+    margin-top: -10px;
+    box-shadow: 1px 1px 10px #000;
 }

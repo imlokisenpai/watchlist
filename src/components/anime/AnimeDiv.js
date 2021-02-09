@@ -36,38 +36,40 @@ export default class AnimeDiv extends Component{
     render(){
         this.animeListConsole();
         return(
-                <div className="animesDiv">
-
-                    <div className="genreContainer">
-                        <h2 className="genreSubtitle">{this.state.subtitle}</h2>
-                        <label id="genreLabel">
-                            <h3>Filter by genre:</h3>
-                            <select id="genreSelect" onChange={() => this.changeGenre()}>
-                            {
-                                this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
-                                    return(
-                                        <option value={genre}>
-                                            {genre}
-                                        </option>
-                                    );
-                                })
-                            }
-                            </select>
-                        </label>
-                    </div>
-                    
-                    <hr className="subtitleBar" />
-
+                <div>
                     <Load />
-                    {
-                        AnimeList.animes.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).filter(anime => anime.genre.indexOf(this.state.defaultGenre) !== -1).map(anime => {
-                            return(
-                                <Link to={'/watchlist/' + anime.id} key={anime.id} className="animeBlock" onClick={() => this.props.data.chgInf(anime)}>
-                                    <img className="animeImg" src={anime.img} alt={anime.name} id={anime.id} />
-                                </Link>
-                            );
-                        })
-                    }
+                    <div className="animesDiv">
+                        <div className="genreContainer">
+                            <h2 className="genreSubtitle">{this.state.subtitle}</h2>
+                            <label id="genreLabel">
+                                <h3>Filter by genre:</h3>
+                                <select id="genreSelect" onChange={() => this.changeGenre()}>
+                                {
+                                    this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
+                                        return(
+                                            <option value={genre}>
+                                                {genre}
+                                            </option>
+                                        );
+                                    })
+                                }
+                                </select>
+                            </label>
+                        </div>
+                        
+                        <hr className="subtitleBar" />
+
+                        
+                        {
+                            AnimeList.animes.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).filter(anime => this.state.defaultGenre ? anime.genre.indexOf(this.state.defaultGenre) !== -1 : anime).map(anime => {
+                                return(
+                                    <Link to={'/watchlist/' + anime.id} key={anime.id} className="animeBlock" onClick={() => this.props.data.chgInf(anime)}>
+                                        <img className="animeImg" src={anime.img} alt={anime.name} id={anime.id} />
+                                    </Link>
+                                );
+                            })
+                        }
+                    </div>
                 </div>
         );
     }

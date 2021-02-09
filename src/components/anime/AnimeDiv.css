@@ -4,6 +4,9 @@
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
+    opacity: 0;
+    animation: showDiv 1s forwards;
+    animation-delay: 5s;
 
     /*No selectable Elements*/
     user-select: none;
@@ -86,4 +89,13 @@
 
 option:checked{
     background: #007;
+}
+
+@keyframes showDiv{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
 }

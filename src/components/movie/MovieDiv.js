@@ -36,36 +36,37 @@ export default class MovieDiv extends Component{
     render(){
         this.movieListConsole();
         return(
-            <div className="moviesDiv">
-
-                <div className="genreContainer">
-                    <h2 className="genreSubtitle">{this.state.subtitle}</h2>
-                    <label id="genreLabel">
-                        <h3>Filter by genre:</h3>
-                        <select id="genreSelect" onChange={() => this.changeGenre()}>
-                            {
-                                this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
-                                    return(
-                                        <option value={genre}>
-                                            {genre}
-                                        </option>
-                                    );
-                                })
-                            }
-                        </select>
-                    </label>
-                </div>
-                <hr className="subtitleBar" />
+            <div>
                 <Load />
-                {
-                    MovieList.movies.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).filter(movie => movie.genre.indexOf(this.state.defaultGenre) !== -1).map(movie => {
-                        return(
-                            <Link to={'/watchlist/' + movie.id} key={movie.id} className="movieBlock" onClick={() => this.props.data.chgInf(movie)}>
-                                <img className="movieImg" src={movie.img} alt={movie.name} id={movie.id} />
-                            </Link>
-                        );
-                    })
-                }
+                <div className="moviesDiv">
+                    <div className="genreContainer">
+                        <h2 className="genreSubtitle">{this.state.subtitle}</h2>
+                        <label id="genreLabel">
+                            <h3>Filter by genre:</h3>
+                            <select id="genreSelect" onChange={() => this.changeGenre()}>
+                                {
+                                    this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
+                                        return(
+                                            <option value={genre}>
+                                                {genre}
+                                            </option>
+                                        );
+                                    })
+                                }
+                            </select>
+                        </label>
+                    </div>
+                    <hr className="subtitleBar" />
+                    {
+                        MovieList.movies.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).filter(movie => this.state.defaultGenre ? movie.genre.indexOf(this.state.defaultGenre) !== -1 : movie).map(movie => {
+                            return(
+                                <Link to={'/watchlist/' + movie.id} key={movie.id} className="movieBlock" onClick={() => this.props.data.chgInf(movie)}>
+                                    <img className="movieImg" src={movie.img} alt={movie.name} id={movie.id} />
+                                </Link>
+                            );
+                        })
+                    }
+                </div>
             </div>
         );
     }

@@ -36,35 +36,37 @@ export default class SerieDiv extends Component{
     render(){
         this.serieListConsole();
         return(
-            <div className="seriesDiv">
-                <div className="genreContainer">
-                    <h2 className="genreSubtitle">{this.state.subtitle}</h2>
-                    <label id="genreLabel">
-                        <h3>Filter by genre:</h3>
-                        <select id="genreSelect" onChange={() => this.changeGenre()}>
-                            {
-                                this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
-                                    return(
-                                        <option value={genre}>
-                                            {genre}
-                                        </option>
-                                    );
-                                })
-                            }
-                        </select>
-                    </label>
-                </div>
-                <hr className="subtitleBar" />
+            <div>
                 <Load />
-                {
-                    SerieList.series.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).filter(serie => serie.genre.indexOf(this.state.defaultGenre) !== -1).map(serie => {
-                        return(
-                            <Link to={'/watchlist/' + serie.id} key={serie.id} className="serieBlock" onClick={() => this.props.data.chgInf(serie)}>
-                                <img className="serieImg" src={serie.img} alt={serie.name} id={serie.id} />
-                            </Link>
-                        )
-                    })
-                }
+                <div className="seriesDiv">
+                    <div className="genreContainer">
+                        <h2 className="genreSubtitle">{this.state.subtitle}</h2>
+                        <label id="genreLabel">
+                            <h3>Filter by genre:</h3>
+                            <select id="genreSelect" onChange={() => this.changeGenre()}>
+                                {
+                                    this.state.genres.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).map(genre => {
+                                        return(
+                                            <option value={genre}>
+                                                {genre}
+                                            </option>
+                                        );
+                                    })
+                                }
+                            </select>
+                        </label>
+                    </div>
+                    <hr className="subtitleBar" />
+                    {
+                        SerieList.series.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0)).filter(serie => this.state.defaultGenre ? serie.genre.indexOf(this.state.defaultGenre) !== -1 : serie).map(serie => {
+                            return(
+                                <Link to={'/watchlist/' + serie.id} key={serie.id} className="serieBlock" onClick={() => this.props.data.chgInf(serie)}>
+                                    <img className="serieImg" src={serie.img} alt={serie.name} id={serie.id} />
+                                </Link>
+                            )
+                        })
+                    }
+                </div>
             </div>
         );
     }

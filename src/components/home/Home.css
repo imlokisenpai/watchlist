@@ -1,3 +1,10 @@
+.Watching{
+    opacity: 0;
+    animation: showDiv 1s forwards;
+    animation-delay: 5s;
+    margin-top: 15vh;
+}
+
 .seeingDiv{
     display: flex;
     margin: 5vh 10px 20px 10px;
@@ -38,10 +45,6 @@
 
 .seeingImg:hover{
     cursor: pointer;
-}
-
-.Watching{
-    margin-top: 15vh;
 }
 
 .Watching h3{
@@ -94,6 +97,15 @@
     }
     to{
         transform: translateY(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes showDiv{
+    from{
+        opacity: 0;
+    }
+    to{
         opacity: 1;
     }
 }

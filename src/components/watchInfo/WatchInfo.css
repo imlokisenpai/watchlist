@@ -1,7 +1,7 @@
 .globalContainer{
     position: fixed;
     width: 90%;
-    height: 80vh;
+    height: 100%;
     margin-left: 5%;
     margin-top: 15vh;
     margin-bottom: 10px;
@@ -10,7 +10,6 @@
     justify-content: center;
     gap: 5%;
     border-radius: 10px;
-    overflow: hidden;
     box-shadow: 2px 2px 10px #fff;
 }
 
@@ -100,6 +99,7 @@
     display: flex;
     justify-content: center;
     gap: 10%;
+    flex-wrap: wrap;
 }
 
 .stDiv{
@@ -130,6 +130,8 @@
     background: #2b58ca;
     border-radius: 10px;
     box-shadow: 1px 1px 5px #000;
+    width: 100px;
+    margin-bottom: 10px;
 }
 
 .boxedDivMargin{

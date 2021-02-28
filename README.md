@@ -9,6 +9,6 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 <img src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/info.jpg?raw=true" alt="html" align="center" />
 
-•You can filter by genre, so you could choose what king of series/movies/animes do you want to see on the screen.
+•You can filter by genre, so you could choose what kind of series/movies/animes do you want to see on the screen.
 
 <img src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/filter.png?raw=true" alt="html" align="center" />

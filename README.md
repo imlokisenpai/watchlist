@@ -6,4 +6,5 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 ## What you will find
 In addition to the large number of things we have seen, you will find information about each of them.
+
 <img src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/info.jpg?raw=true" alt="html" align="center" />

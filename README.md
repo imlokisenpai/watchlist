@@ -42,6 +42,6 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 Made by Agustín Souto
 
-Linkedin: (<a href="https://www.linkedin.com/in/souto751/">Souto751</a>)
-Github: (<a href="https://github.com/Souto751">Souto751</a>)
-Portfolio: (<a href="https://souto751.github.io/old-portfolio/">Agustín Souto</a>)
+Linkedin: (<a href="https://www.linkedin.com/in/souto751/">Souto751</a>)<br/>
+Github: (<a href="https://github.com/Souto751">Souto751</a>)<br/>
+Portfolio: (<a href="https://souto751.github.io/old-portfolio/">Agustín Souto</a>)<br/>

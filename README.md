@@ -6,17 +6,20 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 ## What you will find
 
-<a href="#content">♠Content</a><br/>
-<a href="#">♣</a><br/>
-<a href="#images">♦Images</a><br/>
-<a href="#credits">♥Credits</a><br/>
+<a href="#content">&nbsp;&nbsp;&nbsp;&nbsp;♠Content</a><br/>
+<a href="#">&nbsp;&nbsp;&nbsp;&nbsp;♣</a><br/>
+<a href="#images">&nbsp;&nbsp;&nbsp;&nbsp;♦Images</a><br/>
+<a href="#credits">&nbsp;&nbsp;&nbsp;&nbsp;♥Credits</a><br/>
 
 <div id="content"></div>
 
 ## Content
 
-
-•In addition to the large number of things we have seen, you will find information about each of them.<a href="#one">1</a><br/><br/>
+•By the moment:<br/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;38 Animes</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;147 Movies</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;5 Series</p>
+•In addition to the large number of things we have seen, you will find information about each of them.<a href="#one">1</a><br/>
 •You can filter by genre, so you could choose what kind of series/movies/animes do you want to see on the screen.<a href="#two">2</a><br/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -30,10 +33,9 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 ## Images
 
-<p id="one">1.</p>
-<img src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/info.jpg?raw=true" alt="html" align="center" />
-<p id="two">2.</p>
-<img src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/filter.png?raw=true" alt="html" align="center" />
+<img id="one" src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/info.jpg?raw=true" alt="html" align="center" />
+
+<img id="two" src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/filter.png?raw=true" alt="html" align="center" />
 
 <div id="credits"></div>
 

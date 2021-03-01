@@ -7,7 +7,7 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 ## What you will find
 
 &nbsp;&nbsp;&nbsp;&nbsp;♠<a href="#content">Content</a><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;♣<a href="#">Technologies Used</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;♣<a href="#tech">Technologies Used</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;♦<a href="#images">Images</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;♥<a href="#credits">Credits</a><br/>
 
@@ -19,7 +19,7 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 •In addition to the large number of things we have seen, you will find information about each of them.<a href="#one">1</a><br/><br/>
 •You can filter by genre, so you could choose what kind of series/movies/animes do you want to see on the screen.<a href="#two">2</a><br/>
 
-<div id=""></div>
+<div id="tech"></div>
 
 ## Technologies Used
 

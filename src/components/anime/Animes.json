@@ -31,7 +31,7 @@
             "name": "Haikyu!!",
             "desc": "Inspired after watching a volleyball ace nicknamed 'Little Giant' in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. ",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/haikyuu.jpg?raw=true",
-            "state": "seeing",
+            "state": "finished",
             "genre": ["Comedy", "Sports", "Drama", "School", "Shounen"],
             "seasons": 5,
             "episodes": 85,
@@ -479,6 +479,19 @@
             "episodes": 11,
             "ovas": 0,
             "movies": 0,
+            "finished": "Finished"
+        },
+        {
+            "id": "animes/38",
+            "name": "Yuri!!! On Ice",
+            "desc": "Reeling from his crushing defeat at the Grand Prix Finale, Yuuri Katsuki, once Japan's most promising figure skater, returns to his family home to assess his options for the future. At age 23, Yuuri's window for success in skating is closing rapidly, and his love of pork cutlets and aptitude for gaining weight are not helping either.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/yuriOnIce.jpg?raw=true",
+            "state": "finished",
+            "genre": ["Comedy", "Sports"],
+            "seasons": 1,
+            "episodes": 12,
+            "ovas": 0,
+            "movies": 1,
             "finished": "Finished"
         }
     ]

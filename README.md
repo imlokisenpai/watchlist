@@ -25,7 +25,7 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png" alt="html" align="left" />
 <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png" alt="css" align="left" />
-<img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png" alt="js" align="left" /><br/><br/>
+<img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png" alt="js" align="left" /><br/>
 
 <div id="images"></div>
 
@@ -39,4 +39,4 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 ## Credits
 
-Made by Agustín Souto (<a href="https://github.com/Souto751">Souto751</a>).
+Made by Agustín Souto (<a href="https://github.com/Souto751">Souto751</a>)

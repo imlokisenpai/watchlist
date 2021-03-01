@@ -1,5 +1,4 @@
-# ![logo]("https://github.com/Souto751/watchlist/blob/main/public/webLogo192.png?raw=true")
-# :popcorn:Watchlist:popcorn:
+# <img src="https://github.com/Souto751/watchlist/blob/main/public/webLogo192.png?raw=true" height="75px" />atchlist:popcorn:
 <a href="https://souto751.github.io/watchlist/" target="_blank" rel="noreferrer">Watchlist</a> is a page where series, movies and animes, that I have watched with my girlfriend, are uploaded. <br />
 Here you will find many kinds of genres, and you could filter by the one that you want to see. <br />
 

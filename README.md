@@ -30,12 +30,12 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 ## Images
 
-1.
-<img id="one" src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/info.jpg?raw=true" alt="html" align="center" />
-2.
-<img id="two" src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/filter.png?raw=true" alt="html" align="center" />
+<p id="one">1.</p>
+<img src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/info.jpg?raw=true" alt="html" align="center" />
+<p id="two">2.</p>
+<img src="https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/filter.png?raw=true" alt="html" align="center" />
 
-div id="credits"></div>
+<div id="credits"></div>
 
 ## Credits
 

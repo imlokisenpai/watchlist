@@ -6,10 +6,10 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 ## What you will find
 
-<a href="#content">&nbsp;&nbsp;&nbsp;&nbsp;♠Content</a><br/>
-<a href="#">&nbsp;&nbsp;&nbsp;&nbsp;♣</a><br/>
-<a href="#images">&nbsp;&nbsp;&nbsp;&nbsp;♦Images</a><br/>
-<a href="#credits">&nbsp;&nbsp;&nbsp;&nbsp;♥Credits</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#content">♠Content</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">♣</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#images">♦Images</a><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#credits">♥Credits</a><br/>
 
 <div id="content"></div>
 

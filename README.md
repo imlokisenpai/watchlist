@@ -40,4 +40,8 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 ## Credits
 
-Made by Agustín Souto (<a href="https://github.com/Souto751">Souto751</a>)
+Made by Agustín Souto
+
+Linkedin: (<a href="https://www.linkedin.com/in/souto751/">Souto751</a>)
+Github: (<a href="https://github.com/Souto751">Souto751</a>)
+Portfolio: (<a href="https://souto751.github.io/old-portfolio/">Souto751</a>)

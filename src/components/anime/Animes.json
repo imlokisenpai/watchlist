@@ -96,7 +96,7 @@
             "name": "Dr. Stone",
             "desc": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/drStone.jpg?raw=true",
-            "state": "next",
+            "state": "seeing",
             "genre": ["Sci-Fi", "Adventure", "Shounen"],
             "seasons": 2,
             "episodes": 28,
@@ -490,6 +490,19 @@
             "genre": ["Comedy", "Sports"],
             "seasons": 1,
             "episodes": 12,
+            "ovas": 0,
+            "movies": 1,
+            "finished": "Finished"
+        },
+        {
+            "id": "animes/39",
+            "name": "Given",
+            "desc": "Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it and to teach him how to play. Uenoyama eventually agrees and invites him to sit in on a jam session with his two band mates: bassist Haruki Nakayama and drummer Akihiko Kaji.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/given.png?raw=true",
+            "state": "finished",
+            "genre": ["Drama", "Music", "Romance", "Slice of Life"],
+            "seasons": 1,
+            "episodes": 11,
             "ovas": 0,
             "movies": 1,
             "finished": "Finished"

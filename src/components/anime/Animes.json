@@ -506,6 +506,19 @@
             "ovas": 0,
             "movies": 1,
             "finished": "Finished"
+        },
+        {
+            "id": "animes/40",
+            "name": "Beastars",
+            "desc": "In a civilized society of anthropomorphic animals, an uneasy tension exists between carnivores and herbivores. At Cherryton Academy, this mutual distrust peaks after a predation incident results in the death of Tem, an alpaca in the school's drama club. Tem's friend Legoshi, a grey wolf in the stage crew, has been an object of fear and suspicion for his whole life. In the immediate aftermath of the tragedy, he continues to lay low and hide his menacing traits, much to the disapproval of Louis, a red deer and the domineering star actor of the drama club.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/beastars.jpg?raw=true",
+            "state": "seeing",
+            "genre": ["Psychological", "Drama", "Shounen", "Slice of Life"],
+            "seasons": 2,
+            "episodes": 24,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "In Broadcast"
         }
     ]
 }

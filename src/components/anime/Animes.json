@@ -5,26 +5,26 @@
             "name": "Black Clover",
             "desc": "Asta and Yuno are orphans raised in the outskirts of the Clover Kingdom. In a world where people are born with magic, Asta was born without any. In contrast, Yuno was born a prodigy with above average magic power and the talent to control it. Additionally, in their coming of age ceremony, Yuno receives a rare four-leaf clover grimoire, like the original Magic Emperor. On the other hand, Asta received a tattered grimoire where a Devil lies within, a five-leaf clover grimoire.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/blackClover.jpg?raw=true",
-            "state": "seeing",
+            "state": "waiting",
             "genre": ["Action", "Comedy", "Magic", "Fantasy", "Shounen"],
             "seasons": 1,
             "episodes": 170,
             "ovas": 0,
             "movies": 0,
-            "finished": "In Broadcast"
+            "finished": "Next Release: Movie"
         },
         {
             "id": "animes/2",
             "name": "Boku no Hero Academia",
             "desc": "In a world where most of the population is gifted with special powers known as 'Quirks', Izuku Midoriya is a young boy who always dreamed of becoming a hero, despite not having a Quirk himself, until one day he is attacked by a villain made of sludge and is rescued by none other than All Might, the most famous hero ever and his idol since chilhood.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bokuNoHero.jpg?raw=true",
-            "state": "waiting",
+            "state": "seeing",
             "genre": ["Action", "Comedy", "School", "Shounen", "Super Power"],
-            "seasons": 4,
-            "episodes": 88,
+            "seasons": 5,
+            "episodes": 90,
             "ovas": 0,
             "movies": 2,
-            "finished": "Next release: Season 5"
+            "finished": "In Broadcast"
         },
         {
             "id": "animes/3",
@@ -96,13 +96,13 @@
             "name": "Dr. Stone",
             "desc": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/drStone.jpg?raw=true",
-            "state": "seeing",
+            "state": "finished",
             "genre": ["Sci-Fi", "Adventure", "Shounen"],
             "seasons": 2,
-            "episodes": 28,
+            "episodes": 35,
             "ovas": 0,
             "movies": 0,
-            "finished": "In Broadcast"
+            "finished": "Finished"
         },
         {
             "id": "animes/9",
@@ -122,13 +122,13 @@
             "name": "Jujutsu Kaisen",
             "desc": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the 'King of Curses.'",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/jujutsuKaisen.jpg?raw=true",
-            "state": "seeing",
+            "state": "waiting",
             "genre": ["Action", "Demons", "Supernatural", "School", "Shounen"],
             "seasons": 1,
-            "episodes": 17,
+            "episodes": 24,
             "ovas": 0,
             "movies": 0,
-            "finished": "In Broadcast"
+            "finished": "Next Release: Movie"
         },
         {
             "id": "animes/11",
@@ -148,13 +148,13 @@
             "name": "The Promised Neverland",
             "desc": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their 'Mama', Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage—a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family, never to be heard from again.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/promisedNeverland.jpg?raw=true",
-            "state": "next",
+            "state": "finished",
             "genre": ["Sci-Fi", "Mystery", "Horror", "Psychological", "Thriller", "Shounen"],
             "seasons": 2,
-            "episodes": 17,
+            "episodes": 23,
             "ovas": 0,
             "movies": 0,
-            "finished": "In Broadcast"
+            "finished": "Finished"
         },
         {
             "id": "animes/13",
@@ -421,13 +421,13 @@
             "name": "Attack on Titan",
             "desc": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/snk.jpg?raw=true",
-            "state": "seeing",
+            "state": "waiting",
             "genre": ["Action", "Military", "Mystery", "Super Power", "Drama", "Fantasy", "Shounen"],
             "seasons": 4,
-            "episodes": 67,
+            "episodes": 75,
             "ovas": 8,
             "movies": 0,
-            "finished": "In Broadcast"
+            "finished": "Next Release: Final Season Part 2"
         },
         {
             "id": "animes/34",
@@ -512,13 +512,52 @@
             "name": "Beastars",
             "desc": "In a civilized society of anthropomorphic animals, an uneasy tension exists between carnivores and herbivores. At Cherryton Academy, this mutual distrust peaks after a predation incident results in the death of Tem, an alpaca in the school's drama club. Tem's friend Legoshi, a grey wolf in the stage crew, has been an object of fear and suspicion for his whole life. In the immediate aftermath of the tragedy, he continues to lay low and hide his menacing traits, much to the disapproval of Louis, a red deer and the domineering star actor of the drama club.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/beastars.jpg?raw=true",
-            "state": "seeing",
+            "state": "finished",
             "genre": ["Psychological", "Drama", "Shounen", "Slice of Life"],
             "seasons": 2,
             "episodes": 24,
             "ovas": 0,
             "movies": 0,
-            "finished": "In Broadcast"
+            "finished": "Finished"
+        },
+        {
+            "id": "animes/41",
+            "name": "Wonder Egg Priority",
+            "desc": "Following the suicide of her best and only friend, Koito Nagase, Ai Ooto is left grappling with her new reality. With nothing left to live for, she follows the instructions of a mysterious entity and gets roped into purchasing an egg, or specifically, a Wonder Egg.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/wonderEggPriority.jpg?raw=true",
+            "state": "waiting",
+            "genre": ["Drama", "Fantasy", "Psychological"],
+            "seasons": 1,
+            "episodes": 12,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Next Release: Special"
+        },
+        {
+            "id": "animes/42",
+            "name": "Kuroko No Basuke",
+            "desc": "Teikou Junior High School's basketball team is crowned champion three years in a row thanks to five outstanding players who, with their breathtaking and unique skills, leave opponents in despair and fans in admiration. However, after graduating, these teammates, known as 'The Generation of Miracles', go their separate ways and now consider each other as rivals.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kurokoNoBasuke.jpg?raw=true",
+            "state": "seeing",
+            "genre": ["Comedy", "School", "Shounen", "Sports"],
+            "seasons": 3,
+            "episodes": 75,
+            "ovas": 3,
+            "movies": 2,
+            "finished": "Finished"
+        },
+        {
+            "id": "animes/43",
+            "name": "Bungo Stray Dogs",
+            "desc": "For weeks, Atsushi Nakajima's orphanage has been plagued by a mystical tiger that only he seems to be aware of. Suspected to be behind the strange incidents, the 18-year-old is abruptly kicked out of the orphanage and left hungry, homeless, and wandering through the city. While starving on a riverbank, Atsushi saves a rather eccentric man named Osamu Dazai from drowning. Whimsical suicide enthusiast and supernatural detective, Dazai has been investigating the same tiger that has been terrorizing the boy.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bungoStrayDogs.jpg?raw=true",
+            "state": "seeing",
+            "genre": ["Action", "Comedy", "Mystery", "Seinen", "Super Power", "Supernatural"],
+            "seasons": 3,
+            "episodes": 36,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         }
     ]
 }

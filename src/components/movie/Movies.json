@@ -1232,6 +1232,86 @@
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/given.jpg?raw=true",
             "genre": ["Animation", "Drama", "Romance", "Musical", "Anime"],
             "lenght": "59m"
+        },
+        {
+            "id": "movies/149",
+            "name": "The Pianist",
+            "desc": "During the WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/thePianist.jpg?raw=true",
+            "genre": ["Music", "War", "Drama", "Historical Drama"],
+            "lenght": "2h 30m"
+        },
+        {
+            "id": "movies/150",
+            "name": "Beetlejuice",
+            "desc": "When the deceased couple Adam and Barbara are unsuccessful in scaring away a family that has moved into their old house, they seek the help of bio-exorcist Betelgeuse.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/beetlejuice.jpg?raw=true",
+            "genre": ["Horror", "Fantasy", "Comedy"],
+            "lenght": "1h 33m"
+        },
+        {
+            "id": "movies/151",
+            "name": "Frozen",
+            "desc": "Three snowboarders are stranded on a chairlift while riding up Mount Holliston. When the night lights suddenly go off, they either need to find their way down or freeze to death.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/frozen(Thriller).jpg?raw=true",
+            "genre": ["Horror", "Thriller", "Psychological Thriller", "Drama", "Indie"],
+            "lenght": "1h 33m"
+        },
+        {
+            "id": "movies/152",
+            "name": "Hereditary",
+            "desc": "When the matriarch of the Graham family passes away, her daughter and grandchildren begin to unravel cryptic and increasingly terrifying secrets about their ancestry, trying to outrun the sinister fate they have inherited.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/hereditary.jpg?raw=true",
+            "genre": ["Horror", "Thriller", "Indie", "Mystery", "Drama", "Supernatural"],
+            "lenght": "2h 7m"
+        },
+        {
+            "id": "movies/153",
+            "name": "Life",
+            "desc": "Ray and Claude are accused of a murder they did not commit by a local sheriff. They try to find a way to escape the charges and discover the value of life.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/life.jpg?raw=true",
+            "genre": ["Comedy", "Action", "Drama", "Comedy-drama", "Buddy", "Crime Fiction"],
+            "lenght": "1h 49m"
+        },
+        {
+            "id": "movies/154",
+            "name": "The Bucket List",
+            "desc": "Two terminally ill men left with only six months to live, decide to explore life and make a bucket list comprising all the things they have never tried before.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theBucketList.jpg?raw=true",
+            "genre": ["Comedy", "Drama", "Adventure", "Road", "Buddy", "Comedy-drama"],
+            "lenght": "1h 37m"
+        },
+        {
+            "id": "movies/155",
+            "name": "The Danish Girl",
+            "desc": "Artist Gerda Wegener asks her husband Einar to pose as a female model for a painting. Things take an unexpected turn when this act triggers Einar to reignite his suppressed identification.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theDanishGirl.jpg?raw=true",
+            "genre": ["Drama", "Romance"],
+            "lenght": "2h"
+        },
+        {
+            "id": "movies/156",
+            "name": "The Experiment",
+            "desc": "Twenty-six subjects are chosen to participate in a psychological experiment. While one group plays the role of prison guards, the others play inmates. Can the guards maintain order when mutiny erupts?",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theExperiment.jpg?raw=true",
+            "genre": ["Thriller", "Psychological Thriller", "Drama"],
+            "lenght": "2h 49m"
+        },
+        {
+            "id": "movies/157",
+            "name": "Wonder",
+            "desc": "August, a boy with a rare facial abnormality, enters the fifth grade in a private school where he befriends Jack. The two form a strong bond while facing the bullies in their class.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/wonder.jpg?raw=true",
+            "genre": ["Comedy", "Drama"],
+            "lenght": "1h 53m"
+        },
+        {
+            "id": "movies/158",
+            "name": "The Impossible",
+            "desc": "Maria, Henry and their three kids decide to spend Christmas in Thailand. But their luxurious holiday turns into a nightmare when a tsunami swells up unannounced, thereby separating the family.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theImpossible.jpg?raw=true",
+            "genre": ["Thriller", "Drama", "Historical Fiction", "Disaster"],
+            "lenght": "1h 54m"
         }
     ]
 }

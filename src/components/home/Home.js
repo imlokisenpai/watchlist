@@ -61,7 +61,7 @@ export default class Home extends Component{
                             })
                         }
                         </div>  
-                        
+                        {/*
                         <h3 className="spaceTop show3 animate">Next to see</h3>
                         <div className="seeingDiv waitingDiv show3 animate">
                         {
@@ -74,6 +74,7 @@ export default class Home extends Component{
                             })
                         }
                         </div> 
+                    */}
                     </div>
                 </div>
         );

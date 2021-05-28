@@ -1312,6 +1312,38 @@
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/theImpossible.jpg?raw=true",
             "genre": ["Thriller", "Drama", "Historical Fiction", "Disaster"],
             "lenght": "1h 54m"
+        },
+        {
+            "id": "movies/159",
+            "name": "A Quiet Place",
+            "desc": "A family struggles for survival in a world where most humans have been killed by blind but noise-sensitive creatures. They are forced to communicate in sign language to keep the creatures at bay.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/aQuietPlace.jpg?raw=true",
+            "genre": ["Horror", "Sci-Fi", "Drama", "Thriller", "Mystery"],
+            "lenght": "1h 31m"
+        },
+        {
+            "id": "movies/160",
+            "name": "Extremely Wicked, Shockingly Evil and Vile",
+            "desc": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, who refused to believe the truth about him for years.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/extremelyWicked.jpg?raw=true",
+            "genre": ["Thriller", "Drama", "Crime"],
+            "lenght": "1h 48m"
+        },
+        {
+            "id": "movies/161",
+            "name": "Kimetsu no Yaiba: Mugen Train",
+            "desc": "A boy raised by boars who wears a boar's head and another boy who reveals his true power when he sleeps, board the Infinity Train on a new mission with the Flame Pillar. Their mission is to defeat a demon who has been tormenting people and killing the demon slayers who oppose it.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/kimetsuNoYaibaMugenTrain.jpg?raw=true",
+            "genre": ["Anime", "Action", "Adventure", "Fantasy", "Historical Drama"],
+            "lenght": "2h"
+        },
+        {
+            "id": "movies/161",
+            "name": "Bungou Stray Dogs: Dead Apple",
+            "desc": "Years ago, the most violent struggle in Yokohama was 'The Dragon Head Conflict', which involved many organisations and resulted in 88 deaths. The night before its conclusion, when Osamu Dazai was still in Port Mafia, he and Chūya Nakahara discovered a man named Tatsuhiko Shibusawa. In the present, the Armed Detective Agency is called upon to investigate the apparent suicide cases of hundreds of supernatural ability-users around the globe, which occurred when a mysterious fog passed over their countries.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/movie/bungouStrayDogsDeadApple.jpg?raw=true",
+            "genre": ["Anime", "Action", "Fantasy"],
+            "lenght": "1h 31m"
         }
     ]
 }

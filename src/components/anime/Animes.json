@@ -558,6 +558,58 @@
             "ovas": 0,
             "movies": 0,
             "finished": "Finished"
+        },
+        {
+            "id": "animes/44",
+            "name": "Yu-Gi-Oh!",
+            "desc": "Bullies often target someone frail and weak—someone exactly like Yuugi Mutou. His beautiful childhood friend, Anzu Mazaki, is always there to stand up for him, but he can't depend on her forever. Katsuya Jonouchi, who is almost always accompanied by his verbal sparring partner Hiroto Honda, doesn't seem like a bad person either, despite always bringing Yuugi trouble. But most of all, Yuugi wishes for a true friend who understands him and would never betray him. Yuugi treasures his Millennium Puzzle, an ancient Egyptian artifact that was brought into his grandfather's game shop. Believing that solving the puzzle will grant him his wish, he completes the puzzle, unleashing a new personality within him—the soul of the 'King of Games'.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/yugioh.jpg?raw=true",
+            "state": "finished",
+            "genre": ["Action", "Comedy", "Game", "Fantasy", "Shounen"],
+            "seasons": 5,
+            "episodes": 224,
+            "ovas": 12,
+            "movies": 3,
+            "finished": "Finished"
+        },
+        {
+            "id": "animes/45",
+            "name": "Kimetsu no Yaiba",
+            "desc": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night. When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister's humanity.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kimetsuNoYaiba.jpg?raw=true",
+            "state": "waiting",
+            "genre": ["Action", "Demons", "Historical", "Supernatural", "Shounen"],
+            "seasons": 1,
+            "episodes": 26,
+            "ovas": 0,
+            "movies": 1,
+            "finished": "Next Release: Season 2"
+        },
+        {
+            "id": "animes/46",
+            "name": "To Your Eternity",
+            "desc": "It, a mysterious immortal being, is sent to the Earth with no emotions nor identity. However, It is able to take the shape of those around that have a strong impetus.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/toYourEternity.jpg?raw=true",
+            "state": "seeing",
+            "genre": ["Adventure", "Supernatural", "Drama", "Shounen"],
+            "seasons": 1,
+            "episodes": 20,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "In Broadcast"
+        },
+        {
+            "id": "animes/47",
+            "name": "Anohana",
+            "desc": "Menma's friends reunite five years after her death to help her remember and fulfil a wish so she can pass on into the afterlife.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/anohana.jpg?raw=true",
+            "state": "finished",
+            "genre": ["Anime", "Romance", "Tragedy", "Slice of Life", "Drama"],
+            "seasons": 1,
+            "episodes": 11,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         }
     ]
 }

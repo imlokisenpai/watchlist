@@ -604,12 +604,38 @@
             "desc": "Menma's friends reunite five years after her death to help her remember and fulfil a wish so she can pass on into the afterlife.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/anohana.jpg?raw=true",
             "state": "finished",
-            "genre": ["Anime", "Romance", "Tragedy", "Slice of Life", "Drama"],
+            "genre": ["Romance", "Tragedy", "Slice of Life", "Drama"],
             "seasons": 1,
             "episodes": 11,
             "ovas": 0,
             "movies": 0,
             "finished": "Finished"
+        },
+        {
+            "id": "animes/48",
+            "name": "Toilet-bound Hanako-kun",
+            "desc": "The famous 'Seven Wonders' that every school seems to have are a staple of Japanese urban legends. One of the most well-known of these tales is that of Hanako-san: the ghost of a young girl who haunts the school's bathrooms.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/toiletBoundHanakoKun.jpg?raw=true",
+            "state": "finished",
+            "genre": ["Comedy", "School", "Shounen", "Supernatural"],
+            "seasons": 1,
+            "episodes": 12,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Next Release: Season 2"
+        },
+        {
+            "id": "animes/49",
+            "name": "Tokyo Revengers",
+            "desc": "Takemichi Hanagaki’s second year of middle school was the highest point in his life. He had respect, a gang of friends he could count on, and even a girlfriend. But that was twelve years ago. Today, he’s a nobody: a washed-up nonentity made fun of by children and always forced to apologize to his younger boss. A sudden news report on the Tokyo Manji Gang’s cruel murder of the only girlfriend he ever had alongside her brother only adds insult to injury. Half a second before a train ends his pitiful life for good, Takemichi flashes back to that same day twelve years ago, when he was still dating Hinata Tachibana.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/tokyoRevengers.jpg?raw=true",
+            "state": "seeing",
+            "genre": ["Action", "School", "Shounen", "Supernatural", "Drama"],
+            "seasons": 1,
+            "episodes": 10,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "In Broadcast"
         }
     ]
 }

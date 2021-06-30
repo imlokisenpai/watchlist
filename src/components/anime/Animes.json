@@ -122,7 +122,7 @@
             "name": "Jujutsu Kaisen",
             "desc": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the 'King of Curses.'",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/jujutsuKaisen.jpg?raw=true",
-            "state": "waiting",
+            "state": "seeing",
             "genre": ["Action", "Demons", "Supernatural", "School", "Shounen"],
             "seasons": 1,
             "episodes": 24,
@@ -538,7 +538,7 @@
             "name": "Kuroko No Basuke",
             "desc": "Teikou Junior High School's basketball team is crowned champion three years in a row thanks to five outstanding players who, with their breathtaking and unique skills, leave opponents in despair and fans in admiration. However, after graduating, these teammates, known as 'The Generation of Miracles', go their separate ways and now consider each other as rivals.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/kurokoNoBasuke.jpg?raw=true",
-            "state": "seeing",
+            "state": "finished",
             "genre": ["Comedy", "School", "Shounen", "Sports"],
             "seasons": 3,
             "episodes": 75,
@@ -551,7 +551,7 @@
             "name": "Bungo Stray Dogs",
             "desc": "For weeks, Atsushi Nakajima's orphanage has been plagued by a mystical tiger that only he seems to be aware of. Suspected to be behind the strange incidents, the 18-year-old is abruptly kicked out of the orphanage and left hungry, homeless, and wandering through the city. While starving on a riverbank, Atsushi saves a rather eccentric man named Osamu Dazai from drowning. Whimsical suicide enthusiast and supernatural detective, Dazai has been investigating the same tiger that has been terrorizing the boy.",
             "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bungoStrayDogs.jpg?raw=true",
-            "state": "seeing",
+            "state": "finished",
             "genre": ["Action", "Comedy", "Mystery", "Seinen", "Super Power", "Supernatural"],
             "seasons": 3,
             "episodes": 36,
@@ -632,10 +632,23 @@
             "state": "seeing",
             "genre": ["Action", "School", "Shounen", "Supernatural", "Drama"],
             "seasons": 1,
-            "episodes": 10,
+            "episodes": 12,
             "ovas": 0,
             "movies": 0,
             "finished": "In Broadcast"
+        },
+        {
+            "id": "animes/50",
+            "name": "Banana Fish",
+            "desc": "Nature made Ash Lynx beautiful; nurture made him a cold ruthless killer. A runaway brought up as the adopted heir and sex toy of 'Papa' Dino Golzine, Ash, now at the rebellious age of seventeen, forsakes the kingdom held out by the devil who raised him. But the hideous secret that drove Ash's older brother mad in Iraq has suddenly fallen into Papa's insatiably ambitious hands--and it's exactly the wrong time for Eiji Okamura, a pure-hearted young photographer from Japan, to make Ash Lynx's acquaintance...",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/anime/bananaFish.jpg?raw=true",
+            "state": "finished",
+            "genre": ["Action", "Adventure", "Drama", "Shoujo"],
+            "seasons": 1,
+            "episodes": 24,
+            "ovas": 0,
+            "movies": 0,
+            "finished": "Finished"
         }
     ]
 }

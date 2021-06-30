@@ -65,6 +65,17 @@
             "seasons": 5,
             "episodes": 62,
             "finished": "Finished"
+        },
+        {
+            "id": "series/7",
+            "name": "Loki",
+            "desc": "After stealing the Tesseract during the events of Avengers: Endgame, an alternate version of Loki is brought to the mysterious Time Variance Authority (TVA), a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a 'time variant', or help fix the timeline and stop a greater threat. Loki ends up trapped in his own crime thriller, traveling through time and altering human history.",
+            "img": "https://github.com/Souto751/project-imgs/blob/main/watchlist%20page%20imgs/serie/loki.jpg?raw=true",
+            "state": "seeing",
+            "genre": ["Superhero Fiction", "Sci-Fi", "Crime", "Action", "Fantasy", "Drama"],
+            "seasons": 1,
+            "episodes": 4,
+            "finished": "In Broadcast"
         }
     ]
 }

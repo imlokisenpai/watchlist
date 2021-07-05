@@ -15,7 +15,7 @@ Here you will find many kinds of genres, and you could filter by the one that yo
 
 ## Content
 
-•By the moment: 38 animes, 147 movies and 5 series.<br/><br/>
+•By the moment: 51 animes, 162 movies and 7 series.<br/><br/>
 •In addition to the large number of things we have seen, you will find information about each of them.<a href="#one">1</a><br/><br/>
 •You can filter by genre, so you could choose what kind of series/movies/animes do you want to see on the screen.<a href="#two">2</a><br/>
 
